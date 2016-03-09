@@ -1,0 +1,8 @@
+David Dag Mora Zapata
+Miahita Alexandru Lupoiu
+
+En el el primer ejercicio hemos aprendido un poco como se tiene que programar las redes neuronales siguieno las instrucciones y que hace mas o menos cada comando que disponemos.
+
+En el segundo ejercicio hemos seguido un tutorial para aprender a hacer un grafico, como dividir de forma aleatoria los datos que disponemos para que se utiline una parte para entrenar y otra para parte para tests. Como entrenar por epoch. Mostrar el grafico y nos pasan el codigo para mostrar la matriz de confusion.
+
+En el ultimo ejercicio la unica complicación que tenía era en insertar los datos nuevos y algunas problemas en entender como dibujar. Yo he optado por modificar los datos mediante expresiones regulares, pero la otra alternativa sería insertar los datos mediante un archivo pero como no nos acordabamos my bien de como se tenía que utilizar optamos por la primera opción.

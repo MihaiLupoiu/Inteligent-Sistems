@@ -1,0 +1,12 @@
+David Mora Zapata
+Mihaita Alexandru Lupoiu
+
+Al iniciar la practica se nos ha dado a cada equipo un robot Lego para montar los sensores de tacto (o de obsatulos) y de luz. Las dos dificultades que se han encontrado a la hora de realizar el montaje han sido: La primera que el numero de piezas que se indican que se necesitan mara el montaje es incorrecto y a la hora de conectar los cables era algo complicado, dado el reducido espacio disponible.
+
+Para la realización del primer programa no se han encontrado dificultades. Solo unas confirmaciones de parte del profesor.
+
+A la hora de realizar el segundo programa la dificultad que se encontro fue a la hora de utilizar "task". Se necesita que este dentro de un bucle infinito hasta que no se cambía la condición e indicar que se inicie el task con "StartTask(nombre del task);" . Lo que realiza es crear otro proceso que funciona en paralelo pero parado porque no se cumple la condición. Pero en el momento que se cumple se para el proceso que se estaba ejecutando y se inicia el task.
+
+En la cuarta tarea se modifico el codigo para que en lugar de utilizar el sensor de tacto se utilize el sensor de luz. El resto de codigo no ha cambiado apenas. 
+
+En la ultima tarea la dificultad mas grande que se ha encontrado ha sido calibrar bien el robot para que recorra todo el circuito. En el video se puede observar que se realiza bien, pero con el error de que cuando el sensor detecta un valor de luz de 50 se queda quiero y eso es porque no se ha tenido en cuenta ese caso. Ese error se ha corregido y todo debería de funcionar como es debido, pero dada la ausencia del robot no se ha podido comprobar.

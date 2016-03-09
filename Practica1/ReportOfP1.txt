@@ -1,0 +1,22 @@
+Las dificultades que se han encontrado a la hora de realizar la practica se expondrá por partes.
+
+Task1:Labyrinth
+
+Las dificultades de este apartado han sido las de adaptarse al lenguaje de programación.
+Los tiempos que se nos muestran en la tabla no son del todo exactos y varían un poco.
+Y el descubrir que si no se para el robot explicitamente mediante las sentencias:
+	motor[motorC]=0;
+	motor[motorB]=0;
+	wait1Msec(1000);
+puede causar problemas a la hora de hacer el recorrido.
+
+Task 2: Table Bot
+
+La dificultad en este apartado estaba en entender los sensores y realizar bien el random para el giro.
+
+Task 3: Sumo Bot
+
+La dificultad se personalmente he encontrado fue juntar las partes realizadas anteriormente y
+calibrar los motores y el tiempo de giro.
+
+Este es el primer informe que realizo y no se si lo desea más explicito. Si es así los próximos los haré más detallados.

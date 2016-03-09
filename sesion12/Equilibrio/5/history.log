@@ -1,0 +1,2192 @@
+Biggles is not installed. If you wish to automatically plot some nice statistics please install it: http://biggles.sourceforge.net/
+
+ ****** Running generation 0 ****** 
+
+Population's average fitness: 0.00121 stdev: 0.00110
+Best fitness: 0.0044 - size: (0, 3) - species 1 - id 47
+Species length: 6 totalizing 150 individuals
+Species ID       : [1, 2, 3, 4, 5, 6]
+Each species size: [111, 25, 5, 3, 3, 3]
+Amount to spawn  : [27, 24, 16, 56, 17, 9]
+Species age      : [0, 0, 0, 0, 0, 0]
+Species no improv: [0, 0, 0, 0, 0, 0]
+   Producing 1 more individual(s) to fill up the new population
+
+ ****** Running generation 1 ****** 
+
+Population's average fitness: 0.00189 stdev: 0.00102
+Best fitness: 0.005 - size: (0, 3) - species 1 - id 180
+Species length: 9 totalizing 150 individuals
+Species ID       : [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Each species size: [83, 22, 20, 4, 7, 10, 1, 1, 2]
+Amount to spawn  : [20, 25, 19, 23, 13, 5, 30, 4, 10]
+Species age      : [1, 1, 1, 1, 1, 1, 0, 0, 0]
+Species no improv: [0, 0, 0, 1, 0, 0, 0, 0, 0]
+   Producing 1 more individual(s) to fill up the new population
+
+ ****** Running generation 2 ****** 
+
+Population's average fitness: 0.00210 stdev: 0.00097
+Best fitness: 0.0048 - size: (0, 3) - species 5 - id 302
+Species length: 11 totalizing 150 individuals
+Species ID       : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+Each species size: [52, 16, 18, 24, 14, 7, 3, 2, 10, 3, 1]
+Amount to spawn  : [17, 16, 20, 20, 15, 4, 17, 3, 20, 10, 9]
+Species age      : [2, 2, 2, 2, 2, 2, 1, 1, 1, 0, 0]
+Species no improv: [0, 1, 0, 2, 0, 1, 1, 1, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 3 ****** 
+
+Population's average fitness: 0.00186 stdev: 0.00092
+Best fitness: 0.0046 - size: (0, 4) - species 1 - id 517
+Species length: 20 totalizing 150 individuals
+Species ID       : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+Each species size: [29, 20, 14, 12, 13, 4, 14, 7, 10, 1, 4, 2, 8, 1, 4, 2, 1, 1, 2, 1]
+Amount to spawn  : [10, 8, 9, 10, 7, 2, 9, 3, 10, 8, 9, 14, 10, 11, 9, 5, 2, 8, 3, 3]
+Species age      : [3, 3, 3, 3, 3, 3, 2, 2, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Species no improv: [0, 2, 1, 3, 1, 2, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+ ****** Running generation 4 ****** 
+
+Removing species 10 for being empty
+Removing species 16 for being empty
+Removing species 20 for being empty
+Population's average fitness: 0.00218 stdev: 0.00117
+Best fitness: 0.0062 - size: (0, 4) - species 3 - id 687
+Species length: 22 totalizing 150 individuals
+Species ID       : [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 17, 18, 19, 21, 22, 23, 24, 25]
+Each species size: [39, 14, 14, 19, 9, 1, 3, 6, 5, 4, 6, 5, 4, 4, 2, 1, 3, 1, 5, 1, 3, 1]
+Amount to spawn  : [9, 4, 10, 9, 7, 2, 8, 5, 6, 8, 16, 7, 8, 5, 1, 6, 2, 5, 10, 11, 8, 2]
+Species age      : [4, 4, 4, 4, 4, 4, 3, 3, 3, 2, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+Species no improv: [0, 3, 0, 4, 0, 0, 3, 0, 2, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+   Producing 1 more individual(s) to fill up the new population
+
+ ****** Running generation 5 ****** 
+
+Removing species 18 for being empty
+Removing species 22 for being empty
+Removing species 25 for being empty
+Population's average fitness: 0.00251 stdev: 0.00130
+Best fitness: 0.0099 - size: (0, 4) - species 23 - id 884
+Species length: 22 totalizing 150 individuals
+Species ID       : [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 17, 19, 21, 23, 24, 26, 27, 28]
+Each species size: [14, 11, 19, 12, 8, 2, 9, 11, 7, 17, 6, 3, 7, 4, 1, 1, 1, 8, 4, 3, 1, 1]
+Amount to spawn  : [7, 8, 10, 9, 9, 2, 8, 7, 6, 13, 7, 3, 10, 5, 1, 4, 7, 11, 9, 8, 6, 2]
+Species age      : [5, 5, 5, 5, 5, 5, 4, 4, 4, 3, 2, 2, 2, 2, 2, 2, 1, 1, 1, 0, 0, 0]
+Species no improv: [1, 4, 0, 0, 0, 1, 4, 0, 3, 0, 1, 2, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0]
+   Removing 2 excess individual(s) from the new population
+
+ ****** Running generation 6 ****** 
+
+Removing species 21 for being empty
+Population's average fitness: 0.00252 stdev: 0.00147
+Best fitness: 0.0083 - size: (0, 4) - species 14 - id 1020
+Species length: 28 totalizing 150 individuals
+Species ID       : [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 17, 19, 23, 24, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+Each species size: [26, 21, 10, 8, 12, 2, 1, 9, 3, 4, 17, 1, 4, 4, 1, 1, 6, 1, 4, 4, 1, 1, 1, 1, 2, 3, 1, 1]
+Amount to spawn  : [9, 9, 8, 5, 6, 1, 3, 5, 7, 9, 5, 4, 10, 5, 1, 3, 7, 6, 5, 5, 1, 9, 4, 1, 11, 2, 5, 4]
+Species age      : [6, 6, 6, 6, 6, 6, 5, 5, 5, 4, 3, 3, 3, 3, 3, 3, 2, 2, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+Species no improv: [0, 0, 0, 1, 1, 0, 5, 1, 0, 1, 2, 3, 0, 3, 3, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+
+ ****** Running generation 7 ****** 
+
+Removing species 27 for being empty
+Removing species 28 for being empty
+Removing species 31 for being empty
+Removing species 35 for being empty
+Population's average fitness: 0.00272 stdev: 0.00189
+Best fitness: 0.0133762367 - size: (0, 4) - species 12 - id 1132
+Species length: 25 totalizing 150 individuals
+Species ID       : [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 17, 19, 23, 24, 26, 29, 30, 32, 33, 34, 36]
+Each species size: [28, 15, 11, 12, 8, 1, 4, 5, 3, 16, 3, 4, 3, 5, 1, 3, 2, 3, 5, 9, 2, 2, 2, 2, 1]
+Amount to spawn  : [9, 8, 7, 6, 4, 1, 7, 6, 2, 10, 15, 4, 3, 7, 1, 2, 6, 6, 6, 10, 8, 9, 3, 8, 2]
+Species age      : [7, 7, 7, 7, 7, 7, 6, 6, 6, 5, 4, 4, 4, 4, 4, 4, 3, 3, 2, 1, 1, 1, 1, 1, 0]
+Species no improv: [0, 1, 1, 2, 2, 1, 6, 0, 1, 2, 0, 4, 1, 0, 4, 2, 2, 2, 0, 0, 0, 1, 0, 0, 0]
+
+ ****** Running generation 8 ****** 
+
+Removing species 5 for being empty
+Removing species 17 for being empty
+Population's average fitness: 0.00298 stdev: 0.00239
+Best fitness: 0.0145318809 - size: (0, 4) - species 11 - id 1273
+Species length: 27 totalizing 150 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 8, 9, 11, 12, 13, 14, 15, 19, 23, 24, 26, 29, 30, 32, 33, 34, 36, 37, 38, 39, 40]
+Each species size: [21, 11, 16, 6, 1, 7, 6, 4, 18, 2, 5, 2, 8, 2, 6, 2, 3, 7, 2, 8, 3, 3, 1, 3, 1, 1, 1]
+Amount to spawn  : [10, 6, 7, 5, 1, 9, 5, 7, 10, 2, 2, 7, 5, 2, 5, 4, 5, 8, 5, 10, 2, 7, 6, 6, 1, 7, 7]
+Species age      : [8, 8, 8, 8, 8, 7, 7, 7, 6, 5, 5, 5, 5, 5, 4, 4, 3, 2, 2, 2, 2, 2, 1, 0, 0, 0, 0]
+Species no improv: [0, 2, 2, 3, 2, 0, 1, 0, 0, 1, 5, 2, 1, 3, 3, 3, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 9 ****** 
+
+Population's average fitness: 0.00290 stdev: 0.00170
+Best fitness: 0.01 - size: (0, 4) - species 2 - id 1407
+Species length: 33 totalizing 150 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 8, 9, 11, 12, 13, 14, 15, 19, 23, 24, 26, 29, 30, 32, 33, 34, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+Each species size: [16, 11, 13, 14, 6, 9, 5, 8, 1, 6, 4, 4, 1, 1, 5, 3, 2, 3, 5, 10, 2, 1, 1, 2, 2, 1, 3, 2, 2, 1, 1, 2, 3]
+Amount to spawn  : [7, 7, 4, 5, 3, 8, 4, 5, 6, 2, 3, 4, 4, 1, 5, 3, 5, 6, 6, 8, 2, 3, 4, 4, 1, 4, 5, 6, 5, 5, 1, 7, 6]
+Species age      : [9, 9, 9, 9, 9, 8, 8, 8, 7, 6, 6, 6, 6, 6, 5, 5, 4, 3, 3, 3, 3, 3, 2, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+Species no improv: [1, 0, 3, 4, 0, 0, 2, 1, 1, 2, 6, 3, 2, 4, 4, 4, 0, 2, 2, 1, 0, 2, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+   Producing 1 more individual(s) to fill up the new population
+
+ ****** Running generation 10 ****** 
+
+Removing species 39 for being empty
+Removing species 41 for being empty
+Removing species 44 for being empty
+Removing species 45 for being empty
+Removing species 46 for being empty
+Population's average fitness: 0.00288 stdev: 0.00151
+Best fitness: 0.0091 - size: (0, 4) - species 36 - id 1606
+Species length: 32 totalizing 150 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 8, 9, 11, 12, 13, 14, 15, 19, 23, 24, 26, 29, 30, 32, 33, 34, 36, 37, 38, 40, 42, 43, 47, 48, 49, 50]
+Each species size: [14, 9, 7, 6, 9, 12, 4, 3, 12, 9, 3, 3, 4, 1, 1, 3, 5, 9, 1, 11, 2, 1, 5, 1, 1, 2, 2, 1, 1, 1, 5, 2]
+Amount to spawn  : [7, 4, 5, 4, 4, 6, 2, 7, 5, 4, 6, 8, 4, 1, 1, 3, 4, 6, 10, 6, 2, 7, 7, 3, 1, 9, 6, 8, 4, 1, 4, 3]
+Species age      : [10, 10, 10, 10, 10, 9, 9, 9, 8, 7, 7, 7, 7, 7, 6, 6, 5, 4, 4, 4, 4, 4, 3, 2, 2, 2, 1, 1, 0, 0, 0, 0]
+Species no improv: [2, 1, 4, 5, 0, 1, 3, 0, 2, 3, 0, 0, 3, 5, 5, 5, 1, 3, 0, 2, 0, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0]
+   Removing 2 excess individual(s) from the new population
+
+ ****** Running generation 11 ****** 
+
+Removing species 8 for being empty
+Removing species 32 for being empty
+Removing species 34 for being empty
+Removing species 47 for being empty
+Population's average fitness: 0.00304 stdev: 0.00185
+Best fitness: 0.01 - size: (0, 4) - species 2 - id 1739
+Species length: 33 totalizing 150 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 9, 11, 12, 13, 14, 15, 19, 23, 24, 26, 29, 30, 33, 36, 37, 38, 40, 42, 43, 48, 49, 50, 51, 52, 53, 54, 55]
+Each species size: [5, 18, 16, 11, 6, 12, 3, 6, 5, 7, 8, 3, 1, 1, 3, 4, 6, 1, 2, 7, 2, 2, 9, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1]
+Amount to spawn  : [7, 7, 6, 4, 2, 5, 10, 6, 6, 3, 6, 3, 1, 1, 3, 7, 7, 4, 1, 6, 1, 2, 7, 2, 7, 1, 4, 8, 6, 2, 4, 8, 2]
+Species age      : [11, 11, 11, 11, 11, 10, 10, 9, 8, 8, 8, 8, 8, 7, 7, 6, 5, 5, 5, 4, 3, 3, 3, 2, 2, 1, 1, 1, 0, 0, 0, 0, 0]
+Species no improv: [3, 2, 0, 6, 1, 2, 0, 3, 4, 1, 1, 4, 6, 6, 6, 0, 0, 1, 1, 1, 3, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+   Producing 1 more individual(s) to fill up the new population
+
+ ****** Running generation 12 ****** 
+
+Removing species 33 for being empty
+Removing species 42 for being empty
+Removing species 50 for being empty
+Removing species 52 for being empty
+Population's average fitness: 0.00303 stdev: 0.00183
+Best fitness: 0.0093 - size: (0, 4) - species 15 - id 1900
+Species length: 34 totalizing 150 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 9, 11, 12, 13, 14, 15, 19, 23, 24, 26, 29, 30, 36, 37, 38, 40, 43, 48, 49, 51, 53, 54, 55, 56, 57, 58, 59, 60]
+Each species size: [10, 6, 5, 4, 4, 6, 10, 6, 9, 4, 6, 12, 1, 1, 4, 2, 10, 5, 7, 6, 5, 7, 2, 1, 1, 3, 1, 2, 2, 1, 4, 1, 1, 1]
+Amount to spawn  : [7, 4, 6, 4, 3, 7, 4, 5, 5, 3, 5, 6, 1, 1, 4, 5, 8, 4, 4, 3, 4, 6, 4, 1, 3, 6, 3, 11, 3, 5, 7, 4, 3, 2]
+Species age      : [12, 12, 12, 12, 12, 11, 11, 10, 9, 9, 9, 9, 9, 8, 8, 7, 6, 6, 5, 4, 4, 4, 3, 2, 2, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+Species no improv: [4, 3, 0, 7, 2, 3, 1, 4, 5, 2, 2, 0, 7, 7, 7, 1, 0, 2, 2, 4, 0, 2, 2, 2, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 13 ****** 
+
+Removing species 26 for being empty
+Removing species 54 for being empty
+Removing species 60 for being empty
+Population's average fitness: 0.00309 stdev: 0.00177
+Best fitness: 0.0093 - size: (0, 4) - species 3 - id 2012
+Species length: 37 totalizing 150 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 9, 11, 12, 13, 14, 15, 19, 23, 24, 29, 30, 36, 37, 38, 40, 43, 48, 49, 51, 53, 55, 56, 57, 58, 59, 61, 62, 63, 64, 65, 66]
+Each species size: [14, 3, 13, 13, 12, 4, 1, 6, 5, 2, 5, 6, 1, 1, 3, 3, 2, 15, 2, 4, 7, 1, 1, 2, 6, 3, 1, 3, 1, 2, 1, 1, 1, 1, 1, 1, 2]
+Amount to spawn  : [5, 5, 5, 5, 4, 5, 1, 6, 4, 5, 7, 5, 1, 1, 6, 3, 6, 6, 2, 4, 8, 1, 1, 1, 5, 2, 1, 3, 3, 3, 5, 5, 8, 4, 7, 5, 2]
+Species age      : [13, 13, 13, 13, 13, 12, 12, 11, 10, 10, 10, 10, 10, 9, 9, 7, 7, 6, 5, 5, 5, 4, 3, 3, 2, 2, 2, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+Species no improv: [5, 4, 1, 0, 0, 4, 2, 5, 6, 0, 3, 1, 8, 8, 0, 1, 3, 3, 5, 1, 3, 3, 3, 2, 0, 2, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+
+ ****** Running generation 14 ****** 
+
+Removing species 30 for being empty
+Removing species 36 for being empty
+Removing species 43 for being empty
+Removing species 48 for being empty
+Removing species 49 for being empty
+Removing species 56 for being empty
+Removing species 57 for being empty
+Removing species 61 for being empty
+Population's average fitness: 0.00341 stdev: 0.00220
+Best fitness: 0.0190141921 - size: (0, 4) - species 13 - id 2171
+Species length: 33 totalizing 150 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 9, 11, 12, 13, 14, 15, 19, 23, 24, 29, 37, 38, 40, 51, 53, 55, 58, 59, 62, 63, 64, 65, 66, 67, 68, 69, 70]
+Each species size: [4, 14, 15, 8, 12, 1, 1, 10, 5, 5, 6, 4, 1, 4, 5, 2, 1, 2, 11, 5, 2, 2, 3, 1, 7, 3, 8, 3, 1, 1, 1, 1, 1]
+Amount to spawn  : [7, 6, 7, 5, 4, 4, 1, 6, 7, 8, 6, 6, 1, 3, 6, 6, 5, 4, 7, 7, 2, 1, 3, 5, 7, 4, 7, 4, 2, 5, 1, 1, 4]
+Species age      : [14, 14, 14, 14, 14, 13, 13, 12, 11, 11, 11, 11, 11, 10, 10, 8, 6, 6, 6, 3, 3, 3, 2, 2, 1, 1, 1, 1, 1, 0, 0, 0, 0]
+Species no improv: [0, 5, 0, 0, 1, 5, 3, 6, 7, 0, 4, 0, 9, 9, 1, 2, 0, 0, 4, 0, 3, 2, 2, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+   Removing 2 excess individual(s) from the new population
+
+ ****** Running generation 15 ****** 
+
+Removing species 66 for being empty
+Population's average fitness: 0.00331 stdev: 0.00175
+Best fitness: 0.0094 - size: (1, 5) - species 14 - id 2315
+Species length: 40 totalizing 150 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 9, 11, 12, 13, 14, 15, 19, 23, 24, 29, 37, 38, 40, 51, 53, 55, 58, 59, 62, 63, 64, 65, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78]
+Each species size: [10, 10, 13, 6, 5, 4, 1, 8, 1, 5, 8, 7, 1, 2, 3, 5, 4, 2, 9, 2, 2, 3, 2, 2, 4, 5, 6, 4, 3, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1]
+Amount to spawn  : [6, 5, 4, 4, 4, 3, 1, 4, 4, 3, 5, 4, 1, 4, 3, 7, 3, 1, 6, 4, 1, 1, 4, 3, 6, 3, 6, 4, 3, 1, 2, 3, 2, 8, 2, 3, 5, 7, 8, 3]
+Species age      : [15, 15, 15, 15, 15, 14, 14, 13, 12, 12, 12, 12, 12, 11, 11, 9, 7, 7, 7, 4, 4, 4, 3, 3, 2, 2, 2, 2, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+Species no improv: [0, 6, 1, 0, 0, 6, 4, 7, 8, 1, 5, 1, 10, 10, 2, 0, 1, 1, 5, 1, 4, 3, 0, 1, 2, 2, 0, 2, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 16 ****** 
+
+Removing species 38 for being empty
+Removing species 71 for being empty
+Removing species 74 for being empty
+Removing species 75 for being empty
+   Species 68 age  2 removed: produced no offspring
+Population's average fitness: 0.00372 stdev: 0.00206
+Best fitness: 0.0148622422 - size: (0, 4) - species 15 - id 2542
+Species length: 42 totalizing 149 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 9, 11, 12, 13, 14, 15, 19, 23, 24, 29, 37, 40, 51, 53, 55, 58, 59, 62, 63, 64, 65, 67, 69, 70, 72, 73, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85]
+Each species size: [13, 5, 8, 3, 9, 4, 1, 7, 3, 5, 4, 6, 1, 5, 3, 3, 1, 14, 4, 1, 1, 3, 6, 1, 3, 4, 4, 3, 1, 2, 5, 3, 2, 1, 1, 1, 1, 2, 1, 1, 1, 2]
+Amount to spawn  : [4, 5, 5, 5, 5, 4, 1, 3, 3, 4, 4, 6, 1, 3, 4, 4, 1, 5, 4, 1, 1, 2, 5, 6, 3, 4, 3, 1, 1, 5, 4, 3, 3, 6, 1, 3, 8, 4, 6, 3, 3, 5]
+Species age      : [16, 16, 16, 16, 16, 15, 15, 14, 13, 13, 13, 13, 13, 12, 12, 10, 8, 8, 5, 5, 5, 4, 4, 3, 3, 3, 3, 2, 2, 2, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+Species no improv: [1, 0, 2, 0, 0, 7, 5, 8, 9, 2, 6, 0, 11, 11, 3, 1, 2, 6, 2, 5, 4, 1, 0, 0, 3, 1, 3, 2, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+   Removing 2 excess individual(s) from the new population
+
+ ****** Running generation 17 ****** 
+
+Removing species 12 for being empty
+Removing species 65 for being empty
+Removing species 73 for being empty
+Removing species 77 for being empty
+   Species 37 age  9 removed: produced no offspring
+Population's average fitness: 0.00383 stdev: 0.00249
+Best fitness: 0.0187987309 - size: (1, 5) - species 80 - id 2689
+Species length: 43 totalizing 149 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 9, 11, 13, 14, 15, 19, 23, 24, 29, 40, 51, 53, 55, 58, 59, 62, 63, 64, 67, 69, 70, 72, 76, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91]
+Each species size: [7, 8, 16, 7, 4, 4, 1, 2, 4, 9, 5, 1, 3, 3, 1, 10, 7, 1, 1, 2, 4, 6, 4, 2, 1, 2, 1, 6, 1, 1, 1, 4, 2, 6, 3, 1, 1, 2, 1, 1, 1, 1, 1]
+Amount to spawn  : [4, 3, 4, 4, 3, 5, 1, 3, 5, 5, 3, 1, 4, 6, 5, 5, 5, 2, 1, 1, 4, 6, 3, 6, 2, 3, 5, 4, 3, 1, 1, 11, 4, 4, 2, 1, 3, 2, 3, 3, 1, 4, 5]
+Species age      : [17, 17, 17, 17, 17, 16, 16, 15, 14, 14, 14, 14, 13, 13, 11, 9, 6, 6, 6, 5, 5, 4, 4, 4, 3, 3, 3, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+Species no improv: [2, 1, 3, 1, 1, 8, 6, 9, 3, 0, 1, 12, 0, 0, 2, 7, 0, 6, 5, 2, 1, 0, 0, 0, 3, 0, 0, 2, 2, 2, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 18 ****** 
+
+Removing species 63 for being empty
+Removing species 79 for being empty
+Removing species 81 for being empty
+Removing species 84 for being empty
+Removing species 85 for being empty
+Population's average fitness: 0.00372 stdev: 0.00212
+Best fitness: 0.0145018251 - size: (1, 5) - species 14 - id 2745
+Species length: 46 totalizing 150 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 9, 11, 13, 14, 15, 19, 23, 24, 29, 40, 51, 53, 55, 58, 59, 62, 64, 67, 69, 70, 72, 76, 78, 80, 82, 83, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99]
+Each species size: [2, 5, 7, 5, 3, 5, 1, 4, 9, 15, 10, 1, 4, 7, 5, 3, 2, 2, 1, 1, 6, 6, 5, 2, 3, 3, 5, 1, 1, 2, 2, 2, 1, 1, 5, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1]
+Amount to spawn  : [3, 5, 4, 3, 5, 5, 1, 4, 5, 7, 4, 1, 5, 3, 4, 5, 4, 2, 1, 1, 5, 4, 4, 2, 6, 2, 6, 3, 1, 2, 6, 1, 3, 1, 4, 1, 4, 4, 4, 3, 4, 3, 3, 3, 3, 1]
+Species age      : [18, 18, 18, 18, 18, 17, 17, 16, 15, 15, 15, 15, 14, 14, 12, 10, 7, 7, 7, 6, 6, 5, 5, 4, 4, 4, 3, 3, 3, 2, 2, 2, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+Species no improv: [3, 2, 4, 2, 0, 0, 7, 10, 4, 0, 2, 13, 0, 1, 3, 8, 1, 7, 6, 3, 2, 1, 1, 4, 0, 1, 3, 3, 3, 1, 0, 2, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+   Removing 5 excess individual(s) from the new population
+
+ ****** Running generation 19 ****** 
+
+Removing species 72 for being empty
+Removing species 88 for being empty
+Removing species 98 for being empty
+Removing species 99 for being empty
+   Species 58 age  7 removed: produced no offspring
+Population's average fitness: 0.00365 stdev: 0.00195
+Best fitness: 0.0156969928 - size: (1, 5) - species 14 - id 2899
+Species length: 49 totalizing 149 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 9, 11, 13, 14, 15, 19, 23, 24, 29, 40, 51, 53, 55, 59, 62, 64, 67, 69, 70, 76, 78, 80, 82, 83, 86, 87, 89, 90, 91, 92, 93, 94, 95, 96, 97, 100, 101, 102, 103, 104, 105, 106, 107]
+Each species size: [9, 4, 9, 6, 4, 5, 1, 6, 3, 4, 3, 1, 5, 3, 2, 4, 6, 2, 1, 4, 4, 1, 1, 6, 1, 3, 1, 3, 5, 1, 3, 1, 1, 2, 7, 2, 3, 4, 3, 3, 1, 1, 1, 1, 2, 2, 2, 1, 1]
+Amount to spawn  : [3, 4, 4, 4, 5, 5, 1, 4, 3, 7, 3, 1, 3, 4, 3, 5, 3, 1, 1, 5, 5, 5, 1, 3, 2, 3, 1, 2, 3, 1, 1, 3, 1, 3, 3, 4, 4, 3, 2, 2, 2, 3, 1, 8, 2, 4, 4, 3, 1]
+Species age      : [19, 19, 19, 19, 19, 18, 18, 17, 16, 16, 16, 16, 15, 15, 13, 11, 8, 8, 8, 7, 6, 6, 5, 5, 5, 4, 4, 3, 3, 3, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+Species no improv: [4, 3, 5, 3, 0, 0, 8, 11, 5, 0, 3, 14, 1, 2, 4, 9, 2, 8, 7, 0, 2, 0, 5, 1, 2, 4, 4, 2, 1, 3, 1, 2, 0, 0, 2, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+   Producing 1 more individual(s) to fill up the new population
+
+ ****** Running generation 20 ****** 
+
+Removing species 82 for being empty
+Removing species 90 for being empty
+Removing species 91 for being empty
+Removing species 103 for being empty
+Removing species 105 for being empty
+Removing species 106 for being empty
+Removing species 107 for being empty
+Population's average fitness: 0.00352 stdev: 0.00199
+Best fitness: 0.0137104787 - size: (1, 5) - species 14 - id 3053
+Species length: 44 totalizing 150 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 9, 11, 13, 14, 15, 19, 23, 24, 29, 40, 51, 53, 55, 59, 62, 64, 67, 69, 70, 76, 78, 80, 83, 86, 87, 89, 92, 93, 94, 95, 96, 97, 100, 101, 102, 104, 108, 109]
+Each species size: [5, 6, 6, 3, 6, 6, 1, 3, 5, 8, 1, 1, 3, 9, 3, 7, 7, 1, 1, 9, 6, 4, 2, 3, 2, 3, 1, 3, 1, 1, 2, 1, 3, 4, 1, 2, 3, 2, 2, 1, 6, 4, 1, 1]
+Amount to spawn  : [5, 4, 4, 5, 8, 4, 2, 4, 5, 5, 4, 1, 4, 4, 3, 5, 4, 1, 1, 5, 5, 4, 1, 2, 2, 8, 1, 3, 1, 1, 3, 1, 5, 3, 4, 1, 3, 1, 2, 1, 6, 6, 1, 6]
+Species age      : [20, 20, 20, 20, 20, 19, 19, 18, 17, 17, 17, 17, 16, 16, 14, 12, 9, 9, 9, 8, 7, 7, 6, 6, 6, 5, 5, 4, 4, 3, 3, 3, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 0, 0]
+Species no improv: [5, 4, 6, 4, 0, 1, 9, 12, 6, 1, 4, 15, 2, 3, 5, 10, 3, 9, 8, 1, 3, 1, 6, 2, 3, 0, 5, 3, 4, 2, 3, 1, 1, 1, 2, 2, 1, 2, 1, 1, 1, 0, 0, 0]
+   Producing 1 more individual(s) to fill up the new population
+
+ ****** Running generation 21 ****** 
+
+Removing species 100 for being empty
+   Species 101 age  2 removed: produced no offspring
+Population's average fitness: 0.00362 stdev: 0.00223
+Best fitness: 0.0163309020 - size: (1, 5) - species 14 - id 3214
+Species length: 48 totalizing 149 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 9, 11, 13, 14, 15, 19, 23, 24, 29, 40, 51, 53, 55, 59, 62, 64, 67, 69, 70, 76, 78, 80, 83, 86, 87, 89, 92, 93, 94, 95, 96, 97, 102, 104, 108, 109, 110, 111, 112, 113, 114, 115]
+Each species size: [7, 5, 3, 9, 8, 5, 2, 5, 6, 7, 4, 1, 2, 1, 8, 6, 2, 1, 1, 2, 5, 3, 1, 2, 2, 4, 1, 1, 1, 1, 1, 1, 3, 3, 2, 1, 2, 2, 6, 6, 1, 2, 1, 2, 4, 3, 2, 1]
+Amount to spawn  : [3, 3, 4, 3, 6, 4, 1, 4, 3, 8, 3, 1, 5, 2, 3, 5, 5, 1, 1, 3, 3, 5, 1, 3, 2, 4, 1, 9, 1, 1, 1, 1, 4, 3, 2, 1, 6, 2, 3, 5, 1, 3, 7, 3, 3, 5, 1, 2]
+Species age      : [21, 21, 21, 21, 21, 20, 20, 19, 18, 18, 18, 18, 17, 17, 15, 13, 10, 10, 10, 9, 8, 8, 7, 7, 7, 6, 6, 5, 5, 4, 4, 4, 3, 3, 3, 3, 3, 3, 2, 2, 1, 1, 0, 0, 0, 0, 0, 0]
+Species no improv: [6, 5, 7, 5, 1, 2, 10, 13, 7, 0, 5, 16, 0, 4, 6, 11, 0, 10, 9, 2, 4, 2, 7, 3, 4, 1, 6, 4, 5, 3, 4, 2, 2, 2, 3, 3, 0, 3, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 22 ****** 
+
+Removing species 15 for being empty
+Removing species 87 for being empty
+Removing species 96 for being empty
+Removing species 104 for being empty
+Removing species 108 for being empty
+Removing species 115 for being empty
+
+   Species 19 (with  1 individuals) is stagnated: removing it
+   Species 86 age  5 removed: produced no offspring
+   Species 120 age  0 removed: produced no offspring
+Population's average fitness: 0.00381 stdev: 0.00325
+Best fitness: 0.0341337783 - size: (0, 4) - species 93 - id 3424
+Species length: 48 totalizing 147 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 9, 11, 13, 14, 23, 24, 29, 40, 51, 53, 55, 59, 62, 64, 67, 69, 70, 76, 78, 80, 83, 89, 92, 93, 94, 95, 97, 102, 109, 110, 111, 112, 113, 114, 116, 117, 118, 119, 121, 122, 123, 124]
+Each species size: [6, 6, 3, 3, 6, 6, 1, 8, 10, 12, 1, 2, 8, 6, 1, 1, 1, 2, 3, 5, 1, 3, 2, 7, 2, 3, 1, 3, 3, 3, 2, 1, 2, 3, 1, 2, 2, 4, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1]
+Amount to spawn  : [4, 3, 3, 4, 7, 4, 1, 4, 4, 3, 3, 2, 4, 4, 3, 1, 1, 3, 3, 5, 1, 3, 1, 5, 2, 6, 1, 2, 4, 12, 2, 1, 2, 2, 4, 6, 3, 3, 2, 2, 1, 5, 2, 2, 2, 2, 2, 5]
+Species age      : [22, 22, 22, 22, 22, 21, 21, 20, 19, 19, 18, 18, 16, 14, 11, 11, 11, 10, 9, 9, 8, 8, 8, 7, 7, 6, 6, 5, 4, 4, 4, 4, 4, 3, 2, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+Species no improv: [7, 6, 8, 6, 0, 3, 11, 0, 8, 1, 1, 5, 7, 12, 1, 11, 10, 3, 5, 3, 8, 4, 5, 2, 0, 5, 6, 0, 0, 0, 4, 4, 4, 3, 2, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 23 ****** 
+
+Removing species 97 for being empty
+Removing species 110 for being empty
+Removing species 119 for being empty
+Removing species 121 for being empty
+Removing species 124 for being empty
+   Species 109 age  3 removed: produced no offspring
+Population's average fitness: 0.00371 stdev: 0.00280
+Best fitness: 0.0264456912 - size: (0, 4) - species 93 - id 3568
+Species length: 51 totalizing 149 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 9, 11, 13, 14, 23, 24, 29, 40, 51, 53, 55, 59, 62, 64, 67, 69, 70, 76, 78, 80, 83, 89, 92, 93, 94, 95, 102, 111, 112, 113, 114, 116, 117, 118, 122, 123, 125, 126, 127, 128, 129, 130, 131, 132, 133]
+Each species size: [6, 7, 3, 6, 7, 9, 1, 2, 1, 10, 3, 6, 5, 2, 5, 1, 1, 4, 3, 5, 1, 3, 1, 3, 2, 1, 1, 1, 3, 11, 1, 1, 2, 3, 2, 1, 2, 1, 4, 2, 2, 2, 3, 1, 1, 1, 1, 1, 1, 1, 2]
+Amount to spawn  : [4, 2, 2, 2, 5, 4, 1, 3, 6, 3, 3, 3, 4, 3, 3, 1, 1, 3, 3, 4, 1, 3, 1, 4, 3, 7, 1, 3, 4, 3, 2, 3, 4, 2, 3, 3, 2, 2, 2, 3, 2, 2, 3, 6, 4, 2, 3, 2, 3, 4, 2]
+Species age      : [23, 23, 23, 23, 23, 22, 22, 21, 20, 20, 19, 19, 17, 15, 12, 12, 12, 11, 10, 10, 9, 9, 9, 8, 8, 7, 7, 6, 5, 5, 5, 5, 4, 2, 2, 2, 2, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Species no improv: [0, 7, 9, 7, 1, 4, 12, 1, 0, 2, 2, 6, 8, 13, 2, 12, 11, 4, 6, 4, 9, 5, 6, 3, 0, 6, 7, 0, 0, 1, 5, 0, 4, 1, 0, 2, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+   Producing 1 more individual(s) to fill up the new population
+
+ ****** Running generation 24 ****** 
+
+Removing species 78 for being empty
+Removing species 93 for being empty
+Removing species 130 for being empty
+Removing species 133 for being empty
+   Species  9 age 23 removed: produced no offspring
+   Species 53 age 13 removed: produced no offspring
+   Species 70 age 10 removed: produced no offspring
+   Species 80 age  8 removed: produced no offspring
+   Species 138 age  0 removed: produced no offspring
+Population's average fitness: 0.00370 stdev: 0.00202
+Best fitness: 0.0133210485 - size: (1, 6) - species 137 - id 3695
+Species length: 49 totalizing 144 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 11, 13, 14, 23, 24, 29, 40, 51, 55, 59, 62, 64, 67, 69, 76, 83, 89, 92, 94, 95, 102, 111, 112, 113, 114, 116, 117, 118, 122, 123, 125, 126, 127, 128, 129, 131, 132, 134, 135, 136, 137, 139, 140]
+Each species size: [8, 4, 2, 7, 4, 4, 4, 8, 7, 5, 3, 4, 3, 4, 1, 5, 3, 4, 1, 1, 4, 1, 1, 4, 1, 3, 4, 3, 4, 3, 2, 2, 2, 3, 1, 1, 3, 2, 2, 2, 3, 3, 1, 1, 2, 1, 1, 1, 1]
+Amount to spawn  : [3, 1, 2, 3, 4, 3, 3, 4, 5, 3, 3, 3, 5, 4, 1, 3, 3, 3, 1, 1, 2, 1, 1, 4, 2, 2, 4, 3, 5, 4, 2, 1, 3, 1, 5, 4, 3, 2, 2, 3, 4, 2, 3, 5, 2, 6, 11, 2, 2]
+Species age      : [24, 24, 24, 24, 24, 23, 22, 21, 21, 20, 20, 18, 16, 13, 13, 12, 11, 11, 10, 10, 9, 8, 7, 6, 6, 6, 5, 3, 3, 3, 3, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+Species no improv: [1, 8, 10, 8, 2, 5, 2, 1, 3, 3, 7, 9, 0, 3, 12, 5, 7, 5, 10, 6, 4, 8, 1, 0, 6, 1, 5, 0, 0, 3, 0, 1, 2, 1, 0, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+   Producing 1 more individual(s) to fill up the new population
+
+ ****** Running generation 25 ****** 
+
+Removing species 116 for being empty
+Removing species 127 for being empty
+Removing species 139 for being empty
+   Species 89 age  8 removed: produced no offspring
+   Species 118 age  3 removed: produced no offspring
+   Species 149 age  0 removed: produced no offspring
+Population's average fitness: 0.00393 stdev: 0.00216
+Best fitness: 0.0148367836 - size: (1, 5) - species 102 - id 3844
+Species length: 52 totalizing 147 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 11, 13, 14, 23, 24, 29, 40, 51, 55, 59, 62, 64, 67, 69, 76, 83, 92, 94, 95, 102, 111, 112, 113, 114, 117, 122, 123, 125, 126, 128, 129, 131, 132, 134, 135, 136, 137, 140, 141, 142, 143, 144, 145, 146, 147, 148]
+Each species size: [3, 1, 5, 3, 6, 4, 3, 3, 13, 3, 1, 1, 5, 5, 1, 5, 3, 1, 1, 1, 2, 1, 2, 3, 2, 2, 3, 4, 5, 2, 6, 4, 4, 2, 2, 2, 4, 2, 1, 4, 2, 2, 1, 2, 1, 1, 1, 1, 2, 6, 2, 1]
+Amount to spawn  : [3, 2, 3, 3, 2, 3, 3, 3, 3, 3, 4, 3, 3, 3, 1, 3, 3, 3, 1, 1, 3, 2, 2, 1, 4, 6, 4, 3, 3, 2, 3, 3, 3, 3, 2, 3, 3, 2, 1, 2, 2, 3, 1, 2, 4, 6, 6, 2, 2, 3, 6, 1]
+Species age      : [25, 25, 25, 25, 25, 24, 23, 22, 22, 21, 21, 19, 17, 14, 14, 13, 12, 12, 11, 11, 10, 9, 7, 7, 7, 6, 4, 4, 4, 4, 3, 3, 3, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+Species no improv: [2, 9, 0, 0, 3, 6, 3, 2, 4, 4, 8, 10, 1, 4, 13, 6, 8, 6, 11, 7, 5, 0, 1, 7, 0, 6, 0, 1, 4, 1, 3, 1, 1, 0, 2, 0, 1, 2, 2, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+   Producing 4 more individual(s) to fill up the new population
+
+ ****** Running generation 26 ****** 
+
+Removing species 24 for being empty
+Removing species 141 for being empty
+Removing species 143 for being empty
+Removing species 144 for being empty
+Removing species 145 for being empty
+Removing species 146 for being empty
+Population's average fitness: 0.00415 stdev: 0.00279
+Best fitness: 0.0190660665 - size: (1, 5) - species 102 - id 3988
+Species length: 50 totalizing 150 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 11, 13, 14, 23, 29, 40, 51, 55, 59, 62, 64, 67, 69, 76, 83, 92, 94, 95, 102, 111, 112, 113, 114, 117, 122, 123, 125, 126, 128, 129, 131, 132, 134, 135, 136, 137, 140, 142, 147, 148, 150, 151, 152, 153]
+Each species size: [4, 2, 6, 6, 7, 3, 3, 4, 6, 7, 3, 5, 7, 1, 5, 4, 2, 1, 1, 2, 2, 2, 1, 3, 5, 4, 6, 2, 2, 2, 3, 1, 3, 2, 3, 1, 1, 1, 3, 2, 4, 1, 2, 2, 3, 1, 1, 1, 2, 5]
+Amount to spawn  : [5, 3, 3, 2, 4, 3, 3, 3, 6, 3, 3, 3, 4, 1, 6, 2, 5, 1, 1, 3, 2, 1, 3, 2, 5, 6, 3, 3, 2, 3, 3, 2, 2, 1, 4, 3, 2, 3, 3, 2, 4, 1, 2, 5, 6, 1, 3, 2, 7, 2]
+Species age      : [26, 26, 26, 26, 26, 25, 24, 23, 23, 22, 20, 18, 15, 15, 14, 13, 13, 12, 12, 11, 10, 8, 8, 8, 7, 5, 5, 5, 5, 4, 4, 4, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 1, 1, 1, 0, 0, 0, 0]
+Species no improv: [0, 10, 1, 1, 4, 7, 4, 3, 0, 5, 11, 2, 5, 14, 0, 9, 7, 12, 8, 6, 1, 2, 8, 1, 7, 0, 2, 5, 2, 4, 2, 2, 1, 3, 0, 2, 3, 3, 2, 0, 2, 2, 2, 1, 1, 1, 0, 0, 0, 0]
+   Removing 2 excess individual(s) from the new population
+
+ ****** Running generation 27 ****** 
+
+Removing species 113 for being empty
+Removing species 123 for being empty
+Removing species 128 for being empty
+Removing species 129 for being empty
+Removing species 131 for being empty
+Removing species 132 for being empty
+Removing species 153 for being empty
+   Species 154 age  0 removed: produced no offspring
+Population's average fitness: 0.00427 stdev: 0.00251
+Best fitness: 0.0159160033 - size: (1, 6) - species 147 - id 4205
+Species length: 44 totalizing 149 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 11, 13, 14, 23, 29, 40, 51, 55, 59, 62, 64, 67, 69, 76, 83, 92, 94, 95, 102, 111, 112, 114, 117, 122, 125, 126, 134, 135, 136, 137, 140, 142, 147, 148, 150, 151, 152, 155]
+Each species size: [5, 4, 4, 4, 3, 5, 3, 6, 6, 9, 6, 3, 4, 1, 7, 1, 5, 1, 1, 2, 7, 1, 1, 7, 5, 6, 6, 2, 1, 3, 2, 1, 2, 2, 1, 1, 4, 3, 6, 1, 3, 1, 2, 1]
+Amount to spawn  : [4, 6, 3, 4, 5, 4, 4, 3, 4, 3, 3, 4, 4, 1, 3, 3, 5, 1, 1, 4, 3, 1, 2, 4, 6, 4, 3, 2, 5, 4, 2, 2, 3, 2, 2, 4, 2, 6, 5, 2, 2, 2, 7, 5]
+Species age      : [27, 27, 27, 27, 27, 26, 25, 24, 24, 23, 21, 19, 16, 16, 15, 14, 14, 13, 13, 12, 11, 9, 9, 9, 8, 6, 6, 6, 5, 5, 4, 4, 3, 3, 3, 3, 3, 2, 2, 2, 1, 1, 1, 0]
+Species no improv: [1, 0, 2, 2, 5, 8, 0, 4, 1, 6, 12, 3, 0, 15, 1, 10, 8, 13, 9, 7, 0, 3, 9, 2, 8, 1, 3, 3, 0, 3, 2, 4, 3, 1, 3, 3, 0, 2, 2, 0, 1, 0, 1, 0]
+   Producing 1 more individual(s) to fill up the new population
+
+ ****** Running generation 28 ****** 
+
+Removing species 136 for being empty
+   Species 67 age 14 removed: produced no offspring
+Population's average fitness: 0.00376 stdev: 0.00202
+Best fitness: 0.0158804190 - size: (1, 5) - species 102 - id 4307
+Species length: 52 totalizing 148 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 11, 13, 14, 23, 29, 40, 51, 55, 59, 62, 64, 69, 76, 83, 92, 94, 95, 102, 111, 112, 114, 117, 122, 125, 126, 134, 135, 137, 140, 142, 147, 148, 150, 151, 152, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165]
+Each species size: [5, 6, 4, 4, 5, 4, 5, 4, 4, 5, 1, 3, 2, 1, 3, 3, 3, 1, 4, 3, 1, 1, 3, 6, 4, 3, 2, 6, 1, 2, 2, 3, 2, 4, 1, 5, 5, 2, 2, 2, 6, 5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Amount to spawn  : [3, 4, 3, 3, 4, 4, 3, 2, 3, 4, 2, 3, 3, 1, 5, 2, 5, 1, 4, 4, 1, 2, 4, 4, 3, 4, 1, 2, 2, 3, 1, 2, 2, 2, 2, 3, 2, 1, 2, 2, 5, 3, 2, 3, 3, 6, 4, 5, 2, 4, 3, 5]
+Species age      : [28, 28, 28, 28, 28, 27, 26, 25, 25, 24, 22, 20, 17, 17, 16, 15, 15, 14, 13, 12, 10, 10, 10, 9, 7, 7, 7, 6, 6, 5, 5, 4, 4, 4, 4, 3, 3, 3, 2, 2, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Species no improv: [2, 1, 3, 3, 6, 0, 1, 5, 2, 0, 13, 4, 1, 16, 2, 11, 0, 10, 8, 0, 4, 10, 3, 9, 2, 4, 4, 1, 4, 3, 5, 4, 2, 4, 1, 3, 3, 1, 2, 1, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+   Removing 3 excess individual(s) from the new population
+
+ ****** Running generation 29 ****** 
+
+Removing species 13 for being empty
+Removing species 122 for being empty
+Removing species 148 for being empty
+Removing species 160 for being empty
+Removing species 165 for being empty
+
+   Species 55 (with  1 individuals) is stagnated: removing it
+Population's average fitness: 0.00407 stdev: 0.00237
+Best fitness: 0.0157634828 - size: (1, 5) - species 102 - id 4446
+Species length: 53 totalizing 149 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 11, 14, 23, 29, 40, 51, 59, 62, 64, 69, 76, 83, 92, 94, 95, 102, 111, 112, 114, 117, 125, 126, 134, 135, 137, 140, 142, 147, 150, 151, 152, 155, 156, 157, 158, 159, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171, 172]
+Each species size: [3, 2, 5, 5, 4, 4, 3, 3, 7, 1, 7, 3, 4, 4, 7, 1, 4, 2, 1, 1, 7, 4, 3, 4, 1, 5, 3, 1, 2, 2, 2, 2, 3, 1, 2, 2, 3, 2, 1, 2, 3, 2, 5, 2, 3, 3, 2, 1, 1, 1, 1, 1, 1]
+Amount to spawn  : [5, 4, 4, 3, 5, 3, 3, 3, 3, 2, 3, 2, 5, 4, 5, 1, 3, 2, 3, 1, 3, 5, 5, 2, 1, 3, 2, 1, 3, 1, 5, 4, 3, 1, 1, 2, 2, 4, 2, 3, 3, 3, 5, 3, 3, 3, 1, 3, 2, 2, 1, 3, 2]
+Species age      : [29, 29, 29, 29, 29, 28, 27, 26, 25, 23, 21, 18, 17, 16, 16, 15, 14, 13, 11, 11, 11, 10, 8, 8, 8, 7, 6, 6, 5, 5, 5, 5, 4, 4, 3, 3, 3, 2, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+Species no improv: [0, 2, 0, 4, 7, 1, 2, 3, 1, 14, 5, 2, 3, 12, 0, 11, 9, 1, 5, 11, 4, 10, 3, 5, 5, 2, 4, 6, 5, 3, 5, 0, 4, 4, 3, 2, 3, 2, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 30 ****** 
+
+Removing species 147 for being empty
+Removing species 152 for being empty
+Removing species 172 for being empty
+Population's average fitness: 0.00392 stdev: 0.00206
+Best fitness: 0.0148725331 - size: (1, 5) - species 59 - id 4568
+Species length: 57 totalizing 150 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 11, 14, 23, 29, 40, 51, 59, 62, 64, 69, 76, 83, 92, 94, 95, 102, 111, 112, 114, 117, 125, 126, 134, 135, 137, 140, 142, 150, 151, 155, 156, 157, 158, 159, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171, 173, 174, 175, 176, 177, 178, 179]
+Each species size: [5, 4, 4, 5, 5, 3, 3, 3, 2, 2, 3, 3, 11, 6, 4, 1, 3, 1, 3, 1, 2, 5, 5, 2, 1, 3, 3, 1, 2, 1, 5, 4, 1, 1, 5, 3, 1, 3, 2, 3, 2, 1, 3, 3, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2]
+Amount to spawn  : [3, 4, 2, 2, 5, 3, 3, 4, 3, 4, 3, 3, 5, 3, 3, 1, 2, 2, 2, 1, 3, 2, 3, 3, 2, 3, 2, 2, 2, 1, 1, 2, 4, 2, 2, 3, 1, 2, 2, 3, 4, 4, 2, 2, 1, 4, 4, 2, 1, 3, 1, 4, 2, 5, 4, 5, 2]
+Species age      : [30, 30, 30, 30, 30, 29, 28, 27, 26, 24, 22, 19, 18, 17, 17, 16, 15, 14, 12, 12, 12, 11, 9, 9, 9, 8, 7, 7, 6, 6, 6, 6, 5, 4, 4, 3, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+Species no improv: [1, 3, 1, 5, 8, 2, 3, 4, 2, 0, 6, 3, 4, 13, 1, 12, 10, 2, 6, 12, 5, 11, 4, 6, 6, 3, 5, 7, 6, 4, 6, 1, 5, 4, 0, 3, 2, 1, 1, 2, 1, 0, 2, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+   Removing 3 excess individual(s) from the new population
+
+ ****** Running generation 31 ****** 
+
+Removing species 134 for being empty
+Removing species 142 for being empty
+Removing species 158 for being empty
+Removing species 162 for being empty
+Removing species 171 for being empty
+Removing species 179 for being empty
+Population's average fitness: 0.00445 stdev: 0.00306
+Best fitness: 0.0182511269 - size: (1, 7) - species 6 - id 4692
+Species length: 53 totalizing 150 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 11, 14, 23, 29, 40, 51, 59, 62, 64, 69, 76, 83, 92, 94, 95, 102, 111, 112, 114, 117, 125, 126, 135, 137, 140, 150, 151, 155, 156, 157, 159, 161, 163, 164, 166, 167, 168, 169, 170, 173, 174, 175, 176, 177, 178, 180, 181]
+Each species size: [5, 4, 2, 2, 7, 3, 3, 4, 3, 9, 2, 3, 4, 5, 5, 1, 2, 7, 2, 1, 2, 3, 3, 6, 2, 3, 1, 2, 1, 4, 2, 1, 2, 5, 1, 2, 4, 4, 2, 2, 1, 4, 2, 2, 1, 1, 3, 1, 3, 3, 1, 1, 1]
+Amount to spawn  : [3, 3, 2, 1, 4, 3, 2, 4, 3, 2, 7, 4, 2, 6, 3, 1, 2, 3, 1, 1, 3, 1, 3, 3, 2, 3, 3, 1, 1, 5, 4, 2, 2, 3, 1, 2, 3, 3, 4, 7, 1, 2, 3, 3, 1, 2, 4, 2, 5, 4, 4, 3, 6]
+Species age      : [31, 31, 31, 31, 31, 30, 29, 28, 27, 25, 23, 20, 19, 18, 18, 17, 16, 15, 13, 13, 13, 12, 10, 10, 10, 9, 8, 8, 7, 7, 7, 5, 5, 4, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 0, 0]
+Species no improv: [2, 4, 2, 6, 9, 3, 4, 5, 3, 1, 0, 0, 5, 0, 2, 13, 11, 3, 7, 13, 6, 12, 5, 7, 7, 4, 0, 8, 5, 7, 2, 5, 0, 4, 3, 2, 3, 2, 0, 0, 0, 1, 1, 0, 2, 0, 1, 1, 0, 0, 1, 0, 0]
+   Removing 3 excess individual(s) from the new population
+
+ ****** Running generation 32 ****** 
+
+Removing species 94 for being empty
+Removing species 159 for being empty
+Removing species 177 for being empty
+Removing species 180 for being empty
+Population's average fitness: 0.00425 stdev: 0.00217
+Best fitness: 0.0148352734 - size: (1, 7) - species 6 - id 4842
+Species length: 55 totalizing 150 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 11, 14, 23, 29, 40, 51, 59, 62, 64, 69, 76, 83, 92, 95, 102, 111, 112, 114, 117, 125, 126, 135, 137, 140, 150, 151, 155, 156, 157, 161, 163, 164, 166, 167, 168, 169, 170, 173, 174, 175, 176, 178, 181, 182, 183, 184, 185, 186, 187]
+Each species size: [8, 3, 2, 3, 2, 3, 2, 4, 3, 4, 8, 5, 6, 9, 3, 1, 2, 1, 1, 4, 1, 3, 3, 2, 3, 1, 1, 1, 4, 4, 2, 2, 2, 1, 2, 5, 4, 6, 1, 1, 1, 3, 1, 2, 2, 1, 3, 4, 3, 2, 1, 1, 1, 1, 1]
+Amount to spawn  : [3, 4, 2, 2, 6, 3, 3, 5, 3, 3, 3, 4, 3, 4, 4, 1, 3, 4, 1, 4, 1, 3, 3, 2, 3, 1, 2, 1, 1, 2, 2, 3, 2, 1, 2, 3, 3, 3, 1, 4, 3, 2, 1, 1, 2, 4, 4, 3, 5, 3, 4, 3, 4, 2, 1]
+Species age      : [32, 32, 32, 32, 32, 31, 30, 29, 28, 26, 24, 21, 20, 19, 19, 18, 17, 16, 14, 14, 13, 11, 11, 11, 10, 9, 9, 8, 8, 8, 6, 6, 5, 4, 4, 4, 4, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 1, 0, 0, 0, 0, 0, 0]
+Species no improv: [3, 5, 3, 7, 0, 4, 5, 0, 4, 2, 1, 0, 6, 1, 0, 14, 12, 0, 8, 7, 13, 6, 8, 8, 5, 1, 9, 6, 8, 3, 6, 0, 5, 4, 3, 3, 1, 1, 1, 2, 2, 1, 3, 1, 2, 0, 1, 2, 1, 0, 0, 0, 0, 0, 0]
+
+ ****** Running generation 33 ****** 
+
+Removing species 83 for being empty
+Removing species 187 for being empty
+Population's average fitness: 0.00442 stdev: 0.00247
+Best fitness: 0.0168212290 - size: (1, 5) - species 102 - id 5048
+Species length: 57 totalizing 150 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 11, 14, 23, 29, 40, 51, 59, 62, 64, 69, 76, 92, 95, 102, 111, 112, 114, 117, 125, 126, 135, 137, 140, 150, 151, 155, 156, 157, 161, 163, 164, 166, 167, 168, 169, 170, 173, 174, 175, 176, 178, 181, 182, 183, 184, 185, 186, 188, 189, 190, 191]
+Each species size: [4, 4, 2, 6, 8, 3, 3, 5, 5, 5, 11, 5, 3, 5, 3, 1, 3, 1, 2, 1, 1, 4, 2, 3, 1, 2, 1, 1, 3, 2, 2, 3, 1, 2, 1, 3, 2, 1, 4, 3, 2, 1, 1, 3, 1, 3, 3, 2, 1, 1, 1, 4, 1, 1, 1, 1, 1]
+Amount to spawn  : [3, 3, 3, 2, 3, 3, 2, 4, 1, 2, 4, 3, 3, 4, 4, 1, 2, 2, 3, 11, 3, 3, 1, 3, 3, 2, 1, 1, 2, 3, 2, 3, 1, 2, 4, 2, 4, 1, 3, 3, 2, 2, 1, 4, 2, 3, 3, 4, 2, 3, 3, 2, 1, 2, 3, 2, 2]
+Species age      : [33, 33, 33, 33, 33, 32, 31, 30, 29, 27, 25, 22, 21, 20, 20, 19, 18, 15, 15, 14, 12, 12, 12, 11, 10, 10, 9, 9, 9, 7, 7, 6, 5, 5, 5, 5, 5, 4, 4, 4, 4, 4, 3, 3, 3, 3, 3, 2, 1, 1, 1, 1, 1, 0, 0, 0, 0]
+Species no improv: [4, 6, 4, 8, 1, 5, 6, 1, 5, 3, 2, 1, 7, 2, 0, 15, 13, 9, 8, 0, 7, 9, 9, 6, 0, 10, 7, 9, 4, 0, 1, 6, 5, 4, 4, 2, 2, 2, 3, 3, 2, 0, 2, 0, 1, 2, 3, 2, 1, 1, 0, 1, 1, 0, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 34 ****** 
+
+Removing species 111 for being empty
+Removing species 151 for being empty
+Removing species 168 for being empty
+Removing species 175 for being empty
+Removing species 184 for being empty
+Removing species 189 for being empty
+Removing species 191 for being empty
+   Species 182 age  2 removed: produced no offspring
+Population's average fitness: 0.00429 stdev: 0.00269
+Best fitness: 0.0160886022 - size: (1, 5) - species 102 - id 5195
+Species length: 54 totalizing 149 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 11, 14, 23, 29, 40, 51, 59, 62, 64, 69, 76, 92, 95, 102, 112, 114, 117, 125, 126, 135, 137, 140, 150, 155, 156, 157, 161, 163, 164, 166, 167, 169, 170, 173, 174, 176, 178, 181, 183, 185, 186, 188, 190, 192, 193, 194, 195, 196]
+Each species size: [5, 4, 3, 2, 3, 3, 2, 4, 3, 7, 6, 3, 6, 5, 4, 1, 3, 2, 3, 11, 5, 1, 3, 3, 2, 1, 2, 2, 3, 3, 1, 2, 8, 1, 1, 1, 2, 2, 2, 1, 2, 3, 3, 2, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1]
+Amount to spawn  : [3, 3, 1, 2, 3, 3, 3, 4, 2, 2, 3, 3, 3, 4, 4, 1, 3, 2, 5, 4, 2, 2, 1, 3, 3, 1, 1, 2, 3, 3, 1, 2, 4, 2, 3, 1, 3, 2, 2, 3, 3, 5, 3, 3, 4, 10, 2, 3, 4, 2, 2, 3, 3, 1]
+Species age      : [34, 34, 34, 34, 34, 33, 32, 31, 30, 28, 26, 23, 22, 21, 21, 20, 19, 16, 16, 15, 13, 13, 12, 11, 11, 10, 10, 10, 8, 7, 6, 6, 6, 6, 6, 5, 5, 5, 5, 4, 4, 4, 4, 3, 2, 2, 2, 1, 1, 0, 0, 0, 0, 0]
+Species no improv: [5, 7, 5, 9, 2, 6, 7, 2, 6, 4, 3, 2, 8, 3, 1, 16, 14, 10, 0, 1, 10, 10, 7, 0, 11, 8, 10, 5, 0, 7, 6, 5, 5, 3, 3, 3, 4, 3, 1, 0, 1, 3, 4, 3, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]
+
+ ****** Running generation 35 ****** 
+
+Removing species 51 for being empty
+Removing species 174 for being empty
+Removing species 183 for being empty
+Removing species 192 for being empty
+
+   Species 69 (with  1 individuals) is stagnated: removing it
+Population's average fitness: 0.00430 stdev: 0.00256
+Best fitness: 0.0172123320 - size: (1, 7) - species 173 - id 5384
+Species length: 53 totalizing 149 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 11, 14, 23, 29, 40, 59, 62, 64, 76, 92, 95, 102, 112, 114, 117, 125, 126, 135, 137, 140, 150, 155, 156, 157, 161, 163, 164, 166, 167, 169, 170, 173, 176, 178, 181, 185, 186, 188, 190, 193, 194, 195, 196, 197, 198, 199, 200]
+Each species size: [10, 3, 5, 2, 3, 3, 3, 4, 3, 7, 5, 3, 3, 5, 2, 2, 1, 3, 1, 2, 1, 3, 3, 1, 1, 2, 3, 3, 1, 2, 4, 2, 4, 1, 3, 2, 2, 3, 5, 3, 1, 9, 2, 2, 4, 2, 3, 2, 1, 1, 1, 1, 1]
+Amount to spawn  : [4, 5, 4, 3, 3, 3, 3, 4, 5, 3, 3, 3, 3, 4, 3, 2, 6, 2, 3, 1, 1, 1, 4, 1, 1, 3, 3, 3, 1, 2, 4, 3, 3, 2, 3, 2, 2, 6, 4, 4, 5, 3, 2, 3, 4, 2, 2, 3, 1, 3, 1, 1, 1]
+Species age      : [35, 35, 35, 35, 35, 34, 33, 32, 31, 29, 27, 23, 22, 22, 20, 17, 17, 16, 14, 14, 13, 12, 12, 11, 11, 11, 9, 8, 7, 7, 7, 7, 7, 6, 6, 6, 6, 5, 5, 5, 4, 3, 3, 2, 2, 1, 1, 1, 1, 0, 0, 0, 0]
+Species no improv: [6, 0, 0, 10, 3, 7, 8, 3, 0, 5, 4, 9, 4, 2, 15, 11, 0, 2, 11, 11, 8, 1, 12, 9, 11, 6, 1, 8, 7, 6, 6, 4, 4, 0, 5, 4, 2, 0, 4, 5, 4, 1, 3, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 36 ****** 
+
+Removing species 181 for being empty
+Removing species 197 for being empty
+Removing species 198 for being empty
+Removing species 200 for being empty
+   Species 137 age 12 removed: produced no offspring
+Population's average fitness: 0.00451 stdev: 0.00299
+Best fitness: 0.0185716164 - size: (1, 7) - species 173 - id 5541
+Species length: 53 totalizing 149 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 11, 14, 23, 29, 40, 59, 62, 64, 76, 92, 95, 102, 112, 114, 117, 125, 126, 135, 140, 150, 155, 156, 157, 161, 163, 164, 166, 167, 169, 170, 173, 176, 178, 185, 186, 188, 190, 193, 194, 195, 196, 199, 201, 202, 203, 204, 205]
+Each species size: [7, 5, 3, 3, 3, 3, 3, 4, 5, 3, 7, 7, 3, 4, 2, 2, 1, 3, 3, 2, 1, 1, 2, 1, 3, 3, 3, 1, 2, 4, 3, 3, 2, 4, 1, 2, 6, 4, 4, 3, 2, 3, 4, 2, 2, 2, 1, 1, 1, 1, 1, 2, 1]
+Amount to spawn  : [5, 4, 2, 2, 2, 3, 2, 2, 5, 3, 3, 3, 7, 4, 4, 1, 6, 2, 4, 2, 1, 1, 2, 1, 3, 4, 5, 1, 3, 4, 2, 3, 1, 3, 2, 3, 5, 4, 5, 2, 1, 4, 4, 2, 2, 2, 1, 1, 2, 1, 4, 2, 3]
+Species age      : [36, 36, 36, 36, 36, 35, 34, 33, 32, 30, 28, 24, 23, 23, 21, 18, 18, 17, 15, 15, 14, 13, 13, 12, 12, 10, 9, 8, 8, 8, 8, 8, 7, 7, 7, 7, 6, 6, 6, 4, 4, 3, 3, 2, 2, 2, 2, 1, 0, 0, 0, 0, 0]
+Species no improv: [0, 1, 1, 11, 4, 8, 9, 4, 1, 6, 5, 10, 0, 3, 16, 12, 1, 3, 0, 12, 9, 2, 13, 10, 7, 0, 0, 8, 7, 7, 5, 5, 1, 6, 5, 0, 1, 5, 0, 2, 4, 0, 0, 0, 2, 2, 2, 1, 0, 0, 0, 0, 0]
+
+ ****** Running generation 37 ****** 
+
+Removing species 95 for being empty
+Removing species 169 for being empty
+Removing species 196 for being empty
+Removing species 199 for being empty
+
+   Species 76 (with  3 individuals) is stagnated: removing it
+Population's average fitness: 0.00484 stdev: 0.00376
+Best fitness: 0.0237457190 - size: (1, 5) - species 1 - id 5585
+Species length: 51 totalizing 147 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 11, 14, 23, 29, 40, 59, 62, 64, 92, 102, 112, 114, 117, 125, 126, 135, 140, 150, 155, 156, 157, 161, 163, 164, 166, 167, 170, 173, 176, 178, 185, 186, 188, 190, 193, 194, 195, 201, 202, 203, 204, 205, 206, 207, 208]
+Each species size: [7, 4, 1, 2, 2, 3, 2, 2, 6, 2, 6, 5, 9, 4, 1, 3, 5, 4, 1, 2, 2, 1, 3, 3, 5, 1, 3, 1, 2, 3, 1, 3, 3, 5, 4, 4, 2, 3, 2, 4, 2, 2, 1, 2, 2, 4, 2, 1, 1, 2, 2]
+Amount to spawn  : [8, 2, 2, 2, 4, 4, 2, 6, 4, 4, 4, 3, 5, 4, 2, 6, 2, 2, 1, 2, 2, 1, 3, 3, 1, 1, 3, 4, 2, 2, 1, 4, 4, 8, 2, 4, 4, 2, 3, 2, 2, 3, 2, 2, 1, 3, 3, 2, 3, 3, 2]
+Species age      : [37, 37, 37, 37, 37, 36, 35, 34, 33, 31, 29, 25, 24, 24, 19, 18, 16, 16, 15, 14, 14, 13, 13, 11, 10, 9, 9, 9, 9, 9, 8, 8, 8, 7, 7, 7, 5, 5, 4, 4, 3, 3, 3, 1, 1, 1, 1, 1, 0, 0, 0]
+Species no improv: [0, 2, 2, 12, 5, 0, 10, 0, 2, 0, 6, 11, 1, 4, 13, 4, 1, 0, 10, 3, 14, 11, 8, 1, 1, 9, 8, 8, 6, 6, 2, 7, 0, 0, 6, 1, 3, 0, 1, 1, 1, 3, 3, 0, 0, 1, 0, 1, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 38 ****** 
+
+Removing species 206 for being empty
+Removing species 207 for being empty
+   Species 211 age  0 removed: produced no offspring
+   Species 212 age  0 removed: produced no offspring
+Population's average fitness: 0.00447 stdev: 0.00332
+Best fitness: 0.0235061243 - size: (1, 5) - species 102 - id 5795
+Species length: 52 totalizing 148 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 11, 14, 23, 29, 40, 59, 62, 64, 92, 102, 112, 114, 117, 125, 126, 135, 140, 150, 155, 156, 157, 161, 163, 164, 166, 167, 170, 173, 176, 178, 185, 186, 188, 190, 193, 194, 195, 201, 202, 203, 204, 205, 208, 209, 210, 213]
+Each species size: [14, 2, 2, 2, 4, 4, 2, 6, 4, 4, 6, 6, 3, 4, 2, 5, 2, 2, 1, 2, 2, 1, 4, 5, 1, 1, 3, 2, 2, 2, 1, 3, 4, 8, 2, 1, 3, 1, 3, 2, 2, 3, 2, 2, 1, 1, 3, 1, 1, 2, 1, 1]
+Amount to spawn  : [5, 3, 1, 2, 2, 4, 2, 5, 5, 3, 4, 3, 6, 3, 1, 4, 3, 2, 1, 2, 2, 1, 3, 4, 1, 1, 3, 4, 2, 5, 1, 3, 5, 3, 2, 1, 5, 4, 3, 2, 4, 3, 1, 2, 3, 6, 3, 2, 1, 4, 1, 2]
+Species age      : [38, 38, 38, 38, 38, 37, 36, 35, 34, 32, 30, 26, 25, 25, 20, 19, 17, 17, 16, 15, 15, 14, 14, 12, 11, 10, 10, 10, 10, 10, 9, 9, 9, 8, 8, 8, 6, 6, 5, 5, 4, 4, 4, 2, 2, 2, 2, 2, 1, 0, 0, 0]
+Species no improv: [1, 3, 3, 13, 6, 1, 11, 1, 3, 1, 7, 12, 2, 5, 14, 5, 2, 0, 11, 4, 15, 12, 9, 2, 2, 10, 9, 9, 7, 7, 3, 8, 0, 1, 7, 2, 4, 0, 2, 2, 0, 4, 4, 1, 0, 0, 1, 2, 1, 0, 0, 0]
+   Producing 2 more individual(s) to fill up the new population
+
+ ****** Running generation 39 ****** 
+
+Removing species 195 for being empty
+   Species 155 age 12 removed: produced no offspring
+   Species 216 age  0 removed: produced no offspring
+Population's average fitness: 0.00415 stdev: 0.00279
+Best fitness: 0.0170152769 - size: (1, 8) - species 14 - id 5909
+Species length: 56 totalizing 148 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 11, 14, 23, 29, 40, 59, 62, 64, 92, 102, 112, 114, 117, 125, 126, 135, 140, 150, 156, 157, 161, 163, 164, 166, 167, 170, 173, 176, 178, 185, 186, 188, 190, 193, 194, 201, 202, 203, 204, 205, 208, 209, 210, 213, 214, 215, 217, 218, 219, 220]
+Each species size: [11, 3, 1, 2, 2, 6, 2, 4, 5, 3, 6, 3, 5, 2, 1, 4, 3, 1, 1, 2, 2, 1, 4, 3, 1, 3, 2, 2, 6, 1, 3, 5, 2, 2, 1, 5, 2, 2, 2, 4, 3, 2, 2, 2, 3, 2, 1, 5, 1, 1, 1, 1, 1, 1, 1, 1]
+Amount to spawn  : [5, 5, 2, 4, 1, 3, 2, 7, 3, 3, 4, 4, 3, 4, 1, 1, 2, 2, 1, 3, 2, 1, 4, 2, 1, 4, 4, 3, 3, 1, 3, 4, 4, 3, 1, 2, 4, 3, 3, 3, 2, 2, 1, 3, 2, 2, 1, 3, 3, 2, 2, 4, 1, 4, 2, 2]
+Species age      : [39, 39, 39, 39, 39, 38, 37, 36, 35, 33, 31, 27, 26, 26, 21, 20, 18, 18, 17, 16, 16, 15, 15, 13, 11, 11, 11, 11, 11, 10, 10, 10, 9, 9, 9, 7, 7, 6, 6, 5, 5, 3, 3, 3, 3, 3, 2, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+Species no improv: [2, 4, 4, 0, 7, 2, 12, 0, 4, 2, 8, 13, 3, 6, 15, 6, 3, 1, 12, 5, 16, 13, 10, 3, 11, 0, 10, 8, 8, 4, 9, 1, 2, 8, 3, 5, 0, 3, 3, 1, 5, 2, 1, 1, 2, 3, 2, 1, 0, 1, 0, 0, 0, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 40 ****** 
+
+Removing species 214 for being empty
+Removing species 215 for being empty
+Removing species 220 for being empty
+
+   Species 126 (with  2 individuals) is stagnated: removing it
+   Species 117 age 18 removed: produced no offspring
+Population's average fitness: 0.00430 stdev: 0.00325
+Best fitness: 0.0196416671 - size: (1, 8) - species 14 - id 6064
+Species length: 56 totalizing 147 individuals
+Species ID       : [1, 2, 3, 4, 6, 7, 11, 14, 23, 29, 40, 59, 62, 64, 92, 102, 112, 114, 125, 135, 140, 150, 156, 157, 161, 163, 164, 166, 167, 170, 173, 176, 178, 185, 186, 188, 190, 193, 194, 201, 202, 203, 204, 205, 208, 209, 210, 213, 217, 218, 219, 221, 222, 223, 224, 225]
+Each species size: [6, 5, 2, 3, 1, 3, 2, 9, 3, 3, 7, 3, 1, 7, 2, 1, 2, 2, 3, 1, 4, 2, 1, 3, 1, 3, 3, 1, 3, 4, 4, 3, 1, 2, 4, 3, 3, 4, 2, 2, 2, 3, 2, 3, 1, 3, 3, 1, 1, 3, 1, 1, 1, 1, 1, 1]
+Amount to spawn  : [5, 2, 2, 2, 4, 2, 2, 6, 4, 2, 4, 3, 6, 3, 2, 1, 3, 3, 2, 1, 3, 5, 1, 1, 4, 2, 3, 1, 3, 4, 4, 3, 1, 2, 3, 2, 2, 3, 4, 3, 3, 5, 2, 2, 2, 3, 1, 3, 1, 3, 1, 2, 4, 2, 4, 4]
+Species age      : [40, 40, 40, 40, 40, 39, 38, 37, 36, 34, 32, 28, 27, 27, 22, 21, 19, 19, 17, 16, 16, 14, 12, 12, 12, 12, 12, 11, 11, 11, 10, 10, 10, 8, 8, 7, 7, 6, 6, 4, 4, 4, 4, 4, 3, 2, 2, 2, 1, 1, 1, 0, 0, 0, 0, 0]
+Species no improv: [3, 5, 5, 1, 8, 3, 13, 1, 5, 3, 9, 14, 4, 7, 16, 7, 4, 0, 6, 14, 11, 0, 12, 1, 11, 9, 9, 5, 10, 2, 3, 9, 4, 6, 1, 4, 4, 2, 0, 0, 0, 2, 3, 4, 3, 2, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0]
+   Removing 5 excess individual(s) from the new population
+
+ ****** Running generation 41 ****** 
+
+Removing species 186 for being empty
+Removing species 208 for being empty
+Removing species 225 for being empty
+
+   Species 92 (with  3 individuals) is stagnated: removing it
+   Species  2 age 41 removed: produced no offspring
+Population's average fitness: 0.00419 stdev: 0.00245
+Best fitness: 0.0159475011 - size: (1, 7) - species 170 - id 6269
+Species length: 53 totalizing 145 individuals
+Species ID       : [1, 3, 4, 6, 7, 11, 14, 23, 29, 40, 59, 62, 64, 102, 112, 114, 125, 135, 140, 150, 156, 157, 161, 163, 164, 166, 167, 170, 173, 176, 178, 185, 188, 190, 193, 194, 201, 202, 203, 204, 205, 209, 210, 213, 217, 218, 219, 221, 222, 223, 224, 226, 227]
+Each species size: [8, 2, 2, 4, 4, 2, 5, 4, 2, 7, 8, 4, 2, 3, 3, 2, 1, 1, 4, 5, 1, 3, 1, 2, 2, 1, 3, 4, 4, 3, 1, 2, 2, 2, 3, 4, 3, 4, 4, 2, 2, 3, 1, 2, 1, 2, 1, 2, 1, 1, 3, 1, 1]
+Amount to spawn  : [4, 2, 2, 3, 3, 3, 3, 6, 2, 4, 2, 3, 3, 1, 3, 4, 2, 1, 3, 2, 1, 3, 4, 3, 4, 1, 2, 6, 5, 3, 2, 1, 3, 3, 3, 3, 4, 2, 5, 4, 2, 3, 1, 3, 1, 3, 2, 2, 4, 2, 3, 5, 2]
+Species age      : [41, 41, 41, 41, 40, 39, 38, 37, 35, 33, 29, 28, 28, 22, 20, 20, 18, 17, 17, 15, 13, 13, 13, 13, 13, 12, 12, 12, 11, 11, 11, 9, 8, 8, 7, 7, 5, 5, 5, 5, 5, 3, 3, 3, 2, 2, 2, 1, 1, 1, 1, 0, 0]
+Species no improv: [4, 6, 2, 9, 4, 14, 2, 0, 4, 10, 15, 5, 8, 8, 5, 0, 7, 15, 12, 1, 13, 2, 12, 10, 10, 6, 11, 0, 4, 10, 5, 7, 5, 5, 3, 1, 0, 1, 3, 0, 5, 3, 2, 1, 2, 2, 0, 0, 0, 0, 1, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 42 ****** 
+
+Removing species 213 for being empty
+Removing species 221 for being empty
+Removing species 222 for being empty
+   Species 210 age  4 removed: produced no offspring
+Population's average fitness: 0.00464 stdev: 0.00280
+Best fitness: 0.0184311010 - size: (2, 10) - species 226 - id 6490
+Species length: 53 totalizing 149 individuals
+Species ID       : [1, 3, 4, 6, 7, 11, 14, 23, 29, 40, 59, 62, 64, 102, 112, 114, 125, 135, 140, 150, 156, 157, 161, 163, 164, 166, 167, 170, 173, 176, 178, 185, 188, 190, 193, 194, 201, 202, 203, 204, 205, 209, 217, 218, 219, 223, 224, 226, 227, 228, 229, 230, 231]
+Each species size: [7, 2, 4, 3, 3, 3, 3, 5, 2, 6, 1, 1, 3, 1, 3, 4, 2, 1, 3, 2, 1, 6, 2, 3, 5, 1, 2, 6, 5, 3, 2, 1, 4, 3, 1, 3, 4, 3, 5, 4, 3, 2, 1, 2, 2, 1, 3, 5, 1, 1, 2, 2, 1]
+Amount to spawn  : [3, 1, 2, 3, 3, 3, 6, 4, 2, 3, 5, 5, 2, 6, 2, 2, 2, 1, 6, 3, 1, 2, 3, 3, 3, 1, 3, 3, 4, 3, 1, 1, 3, 3, 1, 3, 1, 2, 4, 3, 4, 4, 1, 4, 1, 2, 4, 5, 1, 1, 4, 3, 1]
+Species age      : [42, 42, 42, 42, 41, 40, 39, 38, 36, 34, 30, 29, 29, 23, 21, 21, 19, 18, 18, 16, 14, 14, 14, 14, 14, 13, 13, 13, 12, 12, 12, 10, 9, 9, 8, 8, 6, 6, 6, 6, 6, 4, 3, 3, 3, 2, 2, 1, 1, 0, 0, 0, 0]
+Species no improv: [5, 7, 3, 10, 5, 15, 3, 1, 5, 11, 0, 6, 9, 9, 6, 1, 8, 16, 0, 2, 14, 3, 13, 11, 11, 7, 12, 1, 5, 11, 6, 8, 6, 6, 4, 2, 1, 2, 4, 1, 0, 0, 3, 0, 1, 1, 2, 0, 1, 0, 0, 0, 0]
+   Producing 3 more individual(s) to fill up the new population
+
+ ****** Running generation 43 ****** 
+
+Removing species 188 for being empty
+Removing species 205 for being empty
+Removing species 228 for being empty
+Removing species 231 for being empty
+
+   Species 135 (with  1 individuals) is stagnated: removing it
+   Species 201 age  7 removed: produced no offspring
+Population's average fitness: 0.00484 stdev: 0.00371
+Best fitness: 0.0222842702 - size: (1, 6) - species 224 - id 6624
+Species length: 51 totalizing 148 individuals
+Species ID       : [1, 3, 4, 6, 7, 11, 14, 23, 29, 40, 59, 62, 64, 102, 112, 114, 125, 140, 150, 156, 157, 161, 163, 164, 166, 167, 170, 173, 176, 178, 185, 190, 193, 194, 202, 203, 204, 209, 217, 218, 219, 223, 224, 226, 227, 229, 230, 232, 233, 234, 235]
+Each species size: [5, 2, 2, 3, 7, 3, 6, 5, 2, 3, 5, 5, 2, 3, 2, 2, 2, 6, 3, 1, 2, 3, 3, 6, 1, 3, 3, 4, 4, 1, 1, 3, 1, 3, 2, 4, 3, 4, 1, 4, 1, 2, 4, 5, 1, 3, 3, 1, 1, 1, 1]
+Amount to spawn  : [3, 2, 3, 3, 3, 3, 8, 2, 3, 4, 4, 3, 2, 2, 3, 3, 2, 2, 1, 1, 3, 3, 4, 3, 1, 2, 4, 4, 1, 1, 4, 3, 3, 4, 3, 4, 3, 3, 1, 3, 1, 2, 6, 9, 3, 3, 3, 1, 3, 6, 1]
+Species age      : [43, 43, 43, 43, 42, 41, 40, 39, 37, 35, 31, 30, 30, 24, 22, 22, 20, 19, 17, 15, 15, 15, 15, 15, 14, 14, 14, 13, 13, 13, 11, 10, 9, 9, 7, 7, 7, 5, 4, 4, 4, 3, 3, 2, 2, 1, 1, 0, 0, 0, 0]
+Species no improv: [6, 8, 0, 11, 6, 0, 0, 2, 6, 12, 1, 7, 10, 10, 7, 2, 9, 1, 3, 15, 4, 14, 0, 12, 8, 13, 2, 6, 12, 7, 9, 7, 5, 0, 3, 5, 2, 1, 4, 1, 2, 2, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+   Removing 2 excess individual(s) from the new population
+
+ ****** Running generation 44 ****** 
+
+Removing species 102 for being empty
+Removing species 235 for being empty
+   Species 178 age 14 removed: produced no offspring
+Population's average fitness: 0.00481 stdev: 0.00413
+Best fitness: 0.0284827293 - size: (2, 10) - species 14 - id 6767
+Species length: 53 totalizing 149 individuals
+Species ID       : [1, 3, 4, 6, 7, 11, 14, 23, 29, 40, 59, 62, 64, 112, 114, 125, 140, 150, 156, 157, 161, 163, 164, 166, 167, 170, 173, 176, 185, 190, 193, 194, 202, 203, 204, 209, 217, 218, 219, 223, 224, 226, 227, 229, 230, 232, 233, 234, 236, 237, 238, 239, 240]
+Each species size: [3, 4, 4, 3, 1, 3, 9, 2, 2, 4, 2, 3, 2, 1, 3, 2, 2, 1, 1, 4, 3, 3, 4, 1, 2, 4, 4, 1, 4, 3, 3, 4, 2, 4, 3, 3, 1, 3, 1, 2, 6, 8, 3, 3, 3, 2, 3, 3, 2, 1, 2, 1, 1]
+Amount to spawn  : [4, 2, 3, 3, 3, 4, 8, 3, 1, 4, 3, 4, 2, 2, 3, 2, 5, 2, 1, 3, 4, 3, 3, 1, 2, 3, 6, 1, 2, 3, 2, 3, 3, 2, 2, 2, 1, 3, 2, 2, 6, 6, 3, 2, 2, 2, 5, 2, 3, 2, 3, 1, 2]
+Species age      : [44, 44, 44, 44, 43, 42, 41, 40, 38, 36, 32, 31, 31, 23, 23, 21, 20, 18, 16, 16, 16, 16, 16, 15, 15, 15, 14, 14, 12, 11, 10, 10, 8, 8, 8, 6, 5, 5, 5, 4, 4, 3, 3, 2, 2, 1, 1, 1, 0, 0, 0, 0, 0]
+Species no improv: [7, 9, 1, 12, 7, 0, 1, 3, 7, 13, 2, 8, 11, 8, 3, 10, 2, 4, 16, 5, 15, 1, 13, 9, 14, 3, 7, 13, 10, 8, 6, 1, 4, 6, 3, 2, 5, 2, 0, 3, 1, 1, 1, 2, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 45 ****** 
+
+Removing species 193 for being empty
+Removing species 236 for being empty
+
+   Species 156 (with  1 individuals) is stagnated: removing it
+Population's average fitness: 0.00438 stdev: 0.00307
+Best fitness: 0.0233904513 - size: (2, 10) - species 14 - id 6817
+Species length: 56 totalizing 149 individuals
+Species ID       : [1, 3, 4, 6, 7, 11, 14, 23, 29, 40, 59, 62, 64, 112, 114, 125, 140, 150, 157, 161, 163, 164, 166, 167, 170, 173, 176, 185, 190, 194, 202, 203, 204, 209, 217, 218, 219, 223, 224, 226, 227, 229, 230, 232, 233, 234, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246]
+Each species size: [4, 2, 2, 3, 3, 4, 13, 3, 3, 4, 3, 3, 2, 2, 6, 2, 5, 2, 2, 4, 3, 5, 1, 2, 3, 6, 1, 2, 3, 3, 3, 2, 2, 2, 1, 3, 2, 2, 5, 1, 3, 2, 1, 1, 5, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1]
+Amount to spawn  : [4, 6, 3, 3, 2, 3, 6, 4, 2, 4, 2, 3, 3, 3, 4, 2, 4, 1, 4, 4, 4, 3, 1, 2, 4, 4, 1, 2, 4, 4, 1, 1, 3, 2, 1, 3, 2, 1, 3, 1, 3, 2, 2, 3, 3, 3, 2, 2, 1, 2, 3, 4, 2, 1, 2, 2]
+Species age      : [45, 45, 45, 45, 44, 43, 42, 41, 39, 37, 33, 32, 32, 24, 24, 22, 21, 19, 17, 17, 17, 17, 16, 16, 16, 15, 15, 13, 12, 11, 9, 9, 9, 7, 6, 6, 6, 5, 5, 4, 4, 3, 3, 2, 2, 2, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+Species no improv: [8, 0, 2, 13, 8, 1, 2, 4, 8, 14, 3, 9, 12, 9, 0, 11, 3, 5, 0, 16, 2, 14, 10, 15, 4, 8, 14, 11, 9, 2, 5, 7, 4, 3, 6, 3, 1, 4, 2, 2, 0, 3, 2, 0, 1, 2, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 46 ****** 
+
+Removing species 218 for being empty
+
+   Species 161 (with  4 individuals) is stagnated: removing it
+   Species 202 age 10 removed: produced no offspring
+   Species 239 age  2 removed: produced no offspring
+Population's average fitness: 0.00467 stdev: 0.00360
+Best fitness: 0.0257617783 - size: (2, 10) - species 226 - id 6969
+Species length: 52 totalizing 144 individuals
+Species ID       : [1, 3, 4, 6, 7, 11, 14, 23, 29, 40, 59, 62, 64, 112, 114, 125, 140, 150, 157, 163, 164, 166, 167, 170, 173, 176, 185, 190, 194, 203, 204, 209, 217, 219, 223, 224, 226, 227, 229, 230, 232, 233, 234, 237, 238, 240, 241, 242, 243, 244, 245, 246]
+Each species size: [4, 6, 6, 3, 3, 3, 6, 4, 4, 4, 2, 6, 3, 1, 4, 5, 3, 1, 4, 2, 4, 1, 2, 4, 4, 1, 2, 4, 4, 1, 3, 2, 1, 2, 1, 3, 1, 3, 2, 2, 3, 3, 3, 2, 1, 3, 2, 1, 2, 1, 1, 1]
+Amount to spawn  : [4, 7, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 2, 3, 2, 3, 2, 3, 2, 3, 1, 1, 1, 4, 1, 3, 1, 4, 5, 2, 3, 3, 1, 1, 4, 16, 4, 2, 3, 2, 3, 2, 2, 3, 2, 2, 2, 1, 4, 2, 1]
+Species age      : [46, 46, 46, 46, 45, 44, 43, 42, 40, 38, 34, 33, 33, 25, 25, 23, 22, 20, 18, 18, 18, 17, 17, 17, 16, 16, 14, 13, 12, 10, 10, 8, 7, 7, 6, 6, 5, 5, 4, 4, 3, 3, 3, 2, 2, 2, 1, 1, 1, 1, 1, 1]
+Species no improv: [9, 0, 3, 14, 9, 2, 3, 5, 9, 15, 4, 10, 13, 10, 1, 12, 4, 6, 1, 3, 15, 11, 16, 5, 9, 15, 12, 10, 0, 8, 5, 4, 0, 2, 5, 3, 0, 0, 4, 3, 1, 2, 3, 0, 0, 0, 1, 1, 1, 0, 1, 1]
+   Producing 2 more individual(s) to fill up the new population
+
+ ****** Running generation 47 ****** 
+
+Removing species 237 for being empty
+Removing species 240 for being empty
+Removing species 244 for being empty
+Removing species 245 for being empty
+
+   Species 167 (with  1 individuals) is stagnated: removing it
+   Species 166 age 18 removed: produced no offspring
+   Species 247 age  0 removed: produced no offspring
+Population's average fitness: 0.00504 stdev: 0.00437
+Best fitness: 0.0273145998 - size: (1, 5) - species 3 - id 7104
+Species length: 49 totalizing 147 individuals
+Species ID       : [1, 3, 4, 6, 7, 11, 14, 23, 29, 40, 59, 62, 64, 112, 114, 125, 140, 150, 157, 163, 164, 170, 173, 176, 185, 190, 194, 203, 204, 209, 217, 219, 223, 224, 226, 227, 229, 230, 232, 233, 234, 238, 241, 242, 243, 246, 248, 249, 250]
+Each species size: [4, 6, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4, 2, 3, 3, 2, 3, 2, 4, 3, 5, 1, 4, 1, 2, 1, 4, 5, 2, 3, 3, 1, 1, 8, 15, 4, 2, 4, 3, 3, 2, 2, 2, 1, 1, 1, 1, 1, 1]
+Amount to spawn  : [3, 7, 4, 2, 2, 3, 4, 4, 4, 4, 4, 4, 2, 3, 2, 3, 4, 2, 3, 3, 3, 3, 4, 1, 3, 4, 4, 6, 2, 3, 4, 2, 2, 4, 6, 4, 2, 3, 1, 2, 4, 2, 2, 5, 1, 2, 2, 1, 3]
+Species age      : [47, 47, 47, 47, 46, 45, 44, 43, 41, 39, 35, 34, 34, 26, 26, 24, 23, 21, 19, 19, 19, 18, 17, 17, 15, 14, 13, 11, 11, 9, 8, 8, 7, 7, 6, 6, 5, 5, 4, 4, 4, 3, 2, 2, 2, 2, 0, 0, 0]
+Species no improv: [10, 1, 0, 15, 10, 3, 4, 6, 10, 16, 5, 11, 14, 11, 2, 13, 5, 7, 2, 4, 16, 6, 10, 16, 13, 11, 1, 0, 6, 5, 0, 3, 6, 4, 1, 1, 5, 4, 2, 3, 4, 1, 2, 0, 2, 2, 0, 0, 0]
+   Removing 2 excess individual(s) from the new population
+
+ ****** Running generation 48 ****** 
+
+Removing species 238 for being empty
+
+   Species 40 (with  4 individuals) is stagnated: removing it
+
+   Species 164 (with  3 individuals) is stagnated: removing it
+
+   Species 176 (with  1 individuals) is stagnated: removing it
+   Species 243 age  3 removed: produced no offspring
+Population's average fitness: 0.00479 stdev: 0.00375
+Best fitness: 0.0214580818 - size: (3, 12) - species 256 - id 7363
+Species length: 52 totalizing 141 individuals
+Species ID       : [1, 3, 4, 6, 7, 11, 14, 23, 29, 59, 62, 64, 112, 114, 125, 140, 150, 157, 163, 170, 173, 185, 190, 194, 203, 204, 209, 217, 219, 223, 224, 226, 227, 229, 230, 232, 233, 234, 241, 242, 246, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258]
+Each species size: [3, 7, 5, 2, 5, 3, 4, 3, 4, 3, 5, 2, 2, 2, 3, 1, 2, 5, 1, 3, 4, 3, 4, 4, 5, 2, 3, 4, 3, 2, 3, 4, 4, 2, 3, 2, 2, 3, 2, 3, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1]
+Amount to spawn  : [5, 3, 2, 2, 3, 3, 4, 5, 3, 3, 4, 2, 2, 2, 2, 3, 1, 2, 3, 2, 7, 1, 3, 4, 2, 2, 3, 2, 1, 1, 2, 2, 4, 2, 3, 2, 4, 2, 2, 4, 1, 2, 1, 3, 2, 1, 4, 3, 9, 12, 2, 1]
+Species age      : [48, 48, 48, 48, 47, 46, 45, 44, 42, 36, 35, 35, 27, 27, 25, 24, 22, 20, 20, 19, 18, 16, 15, 14, 12, 12, 10, 9, 9, 8, 8, 7, 7, 6, 6, 5, 5, 5, 3, 3, 3, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+Species no improv: [11, 2, 1, 16, 11, 4, 5, 0, 11, 6, 12, 15, 12, 3, 14, 6, 8, 3, 0, 7, 0, 14, 12, 2, 1, 7, 6, 1, 4, 7, 5, 2, 2, 6, 0, 0, 4, 5, 3, 1, 3, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+ ****** Running generation 49 ****** 
+
+Removing species 246 for being empty
+Removing species 252 for being empty
+Removing species 253 for being empty
+Removing species 254 for being empty
+
+   Species  6 (with  2 individuals) is stagnated: removing it
+   Species 248 age  2 removed: produced no offspring
+Population's average fitness: 0.00456 stdev: 0.00321
+Best fitness: 0.0180698758 - size: (3, 12) - species 256 - id 7542
+Species length: 48 totalizing 146 individuals
+Species ID       : [1, 3, 4, 7, 11, 14, 23, 29, 59, 62, 64, 112, 114, 125, 140, 150, 157, 163, 170, 173, 185, 190, 194, 203, 204, 209, 217, 219, 223, 224, 226, 227, 229, 230, 232, 233, 234, 241, 242, 249, 250, 251, 255, 256, 257, 258, 259, 260]
+Each species size: [5, 3, 6, 4, 3, 4, 6, 1, 7, 6, 2, 2, 2, 2, 2, 1, 3, 2, 2, 7, 1, 3, 4, 5, 2, 2, 2, 2, 3, 8, 2, 3, 2, 2, 1, 4, 2, 2, 2, 1, 1, 2, 3, 12, 2, 1, 1, 1]
+Amount to spawn  : [3, 2, 3, 2, 3, 7, 3, 3, 4, 4, 3, 2, 2, 3, 4, 2, 3, 3, 2, 6, 3, 4, 5, 4, 2, 4, 2, 2, 2, 6, 3, 4, 2, 3, 4, 4, 3, 1, 4, 1, 3, 1, 3, 3, 4, 3, 1, 5]
+Species age      : [49, 49, 49, 48, 47, 46, 45, 43, 37, 36, 36, 28, 28, 26, 25, 23, 21, 21, 20, 19, 17, 16, 15, 13, 13, 11, 10, 10, 9, 9, 8, 8, 7, 7, 6, 6, 6, 4, 4, 2, 2, 1, 1, 1, 1, 1, 0, 0]
+Species no improv: [12, 3, 2, 12, 5, 6, 1, 12, 7, 13, 16, 13, 4, 15, 7, 9, 4, 1, 8, 1, 15, 13, 3, 2, 8, 7, 2, 5, 0, 6, 3, 3, 7, 1, 0, 5, 6, 4, 2, 2, 1, 1, 1, 1, 0, 0, 0, 0]
+
+ ****** Running generation 50 ****** 
+
+Removing species 140 for being empty
+Removing species 250 for being empty
+
+   Species 64 (with  3 individuals) is stagnated: removing it
+   Species 261 age  0 removed: produced no offspring
+Population's average fitness: 0.00493 stdev: 0.00376
+Best fitness: 0.0227825225 - size: (3, 13) - species 256 - id 7685
+Species length: 48 totalizing 146 individuals
+Species ID       : [1, 3, 4, 7, 11, 14, 23, 29, 59, 62, 112, 114, 125, 150, 157, 163, 170, 173, 185, 190, 194, 203, 204, 209, 217, 219, 223, 224, 226, 227, 229, 230, 232, 233, 234, 241, 242, 249, 251, 255, 256, 257, 258, 259, 260, 262, 263, 264]
+Each species size: [3, 2, 5, 6, 3, 7, 2, 3, 1, 3, 2, 2, 3, 2, 3, 1, 2, 6, 3, 4, 5, 4, 2, 3, 2, 2, 5, 6, 3, 7, 2, 3, 4, 4, 3, 1, 3, 1, 1, 3, 3, 4, 3, 2, 2, 3, 1, 1]
+Amount to spawn  : [3, 5, 2, 3, 2, 8, 2, 4, 2, 5, 3, 2, 2, 2, 2, 2, 2, 5, 3, 4, 4, 3, 2, 3, 3, 2, 3, 2, 5, 4, 4, 3, 3, 7, 3, 1, 3, 1, 2, 4, 6, 3, 3, 2, 3, 3, 1, 2]
+Species age      : [50, 50, 50, 49, 48, 47, 46, 44, 38, 37, 29, 29, 27, 24, 22, 22, 21, 20, 18, 17, 16, 14, 14, 12, 11, 11, 10, 10, 9, 9, 8, 8, 7, 7, 7, 5, 5, 3, 2, 2, 2, 2, 2, 1, 1, 0, 0, 0]
+Species no improv: [13, 4, 3, 13, 6, 7, 2, 0, 8, 14, 14, 5, 16, 10, 5, 2, 9, 2, 16, 14, 4, 3, 9, 8, 3, 6, 0, 7, 4, 4, 0, 2, 1, 0, 7, 5, 3, 3, 2, 2, 2, 1, 0, 0, 1, 0, 0, 0]
+   Producing 2 more individual(s) to fill up the new population
+
+ ****** Running generation 51 ****** 
+
+Removing species 241 for being empty
+
+   Species 125 (with  1 individuals) is stagnated: removing it
+
+   Species 185 (with  3 individuals) is stagnated: removing it
+   Species 170 age 22 removed: produced no offspring
+Population's average fitness: 0.00493 stdev: 0.00346
+Best fitness: 0.0184299238 - size: (1, 9) - species 173 - id 7753
+Species length: 48 totalizing 145 individuals
+Species ID       : [1, 3, 4, 7, 11, 14, 23, 29, 59, 62, 112, 114, 150, 157, 163, 173, 190, 194, 203, 204, 209, 217, 219, 223, 224, 226, 227, 229, 230, 232, 233, 234, 242, 249, 251, 255, 256, 257, 258, 259, 260, 262, 263, 264, 265, 266, 267, 268]
+Each species size: [4, 5, 2, 3, 2, 8, 2, 4, 2, 8, 3, 3, 2, 2, 2, 5, 4, 4, 3, 2, 3, 3, 2, 3, 3, 5, 6, 4, 2, 3, 7, 3, 1, 1, 2, 3, 6, 3, 1, 2, 1, 3, 1, 3, 1, 1, 1, 1]
+Amount to spawn  : [4, 3, 3, 5, 3, 6, 4, 4, 2, 5, 3, 3, 2, 3, 1, 8, 4, 4, 2, 2, 2, 2, 2, 3, 5, 4, 4, 3, 4, 3, 5, 4, 1, 2, 1, 3, 1, 2, 4, 3, 5, 3, 1, 3, 2, 3, 1, 5]
+Species age      : [51, 51, 51, 50, 49, 48, 47, 45, 39, 38, 30, 30, 25, 23, 23, 21, 18, 17, 15, 15, 13, 12, 12, 11, 11, 10, 10, 9, 9, 8, 8, 8, 6, 4, 3, 3, 3, 3, 3, 2, 2, 1, 1, 1, 0, 0, 0, 0]
+Species no improv: [14, 5, 4, 0, 7, 8, 3, 1, 9, 15, 15, 6, 11, 6, 3, 3, 15, 5, 4, 10, 9, 4, 7, 0, 8, 5, 5, 1, 3, 2, 1, 8, 4, 0, 3, 3, 3, 2, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]
+   Removing 2 excess individual(s) from the new population
+
+ ****** Running generation 52 ****** 
+
+Removing species 203 for being empty
+Removing species 258 for being empty
+   Species 163 age 24 removed: produced no offspring
+Population's average fitness: 0.00505 stdev: 0.00351
+Best fitness: 0.0224739518 - size: (2, 10) - species 14 - id 7867
+Species length: 48 totalizing 149 individuals
+Species ID       : [1, 3, 4, 7, 11, 14, 23, 29, 59, 62, 112, 114, 150, 157, 173, 190, 194, 204, 209, 217, 219, 223, 224, 226, 227, 229, 230, 232, 233, 234, 242, 249, 251, 255, 256, 257, 259, 260, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271]
+Each species size: [4, 3, 4, 7, 3, 6, 6, 6, 2, 5, 4, 2, 2, 3, 8, 4, 4, 1, 1, 2, 2, 3, 5, 4, 6, 3, 6, 1, 5, 4, 5, 2, 1, 3, 1, 2, 2, 3, 3, 1, 2, 2, 1, 1, 1, 1, 1, 1]
+Amount to spawn  : [3, 2, 2, 3, 3, 7, 4, 3, 3, 6, 3, 3, 1, 3, 5, 4, 4, 2, 3, 1, 2, 2, 5, 1, 4, 2, 3, 4, 4, 2, 3, 2, 2, 4, 11, 1, 2, 3, 3, 2, 2, 3, 3, 1, 2, 3, 1, 5]
+Species age      : [52, 52, 52, 51, 50, 49, 48, 46, 40, 39, 31, 31, 26, 24, 22, 19, 18, 16, 14, 13, 13, 12, 12, 11, 11, 10, 10, 9, 9, 9, 7, 5, 4, 4, 4, 4, 3, 3, 2, 2, 2, 1, 1, 1, 1, 0, 0, 0]
+Species no improv: [15, 6, 5, 1, 8, 9, 4, 2, 10, 16, 16, 7, 12, 7, 4, 16, 6, 11, 10, 5, 8, 1, 9, 6, 6, 2, 4, 0, 2, 9, 5, 1, 4, 4, 4, 3, 1, 3, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0]
+   Producing 3 more individual(s) to fill up the new population
+
+ ****** Running generation 53 ****** 
+
+Removing species 270 for being empty
+
+   Species 62 (with  6 individuals) is stagnated: removing it
+
+   Species 112 (with  2 individuals) is stagnated: removing it
+
+   Species 190 (with  4 individuals) is stagnated: removing it
+Population's average fitness: 0.00506 stdev: 0.00360
+Best fitness: 0.0235095852 - size: (3, 13) - species 256 - id 8114
+Species length: 48 totalizing 138 individuals
+Species ID       : [1, 3, 4, 7, 11, 14, 23, 29, 59, 114, 150, 157, 173, 194, 204, 209, 217, 219, 223, 224, 226, 227, 229, 230, 232, 233, 234, 242, 249, 251, 255, 256, 257, 259, 260, 262, 263, 264, 265, 266, 267, 268, 269, 271, 272, 273, 274, 275]
+Each species size: [3, 3, 4, 3, 2, 7, 4, 5, 4, 3, 1, 3, 4, 4, 2, 3, 1, 2, 2, 6, 1, 4, 2, 4, 3, 4, 2, 3, 2, 2, 3, 11, 1, 3, 3, 2, 2, 5, 3, 2, 1, 1, 3, 1, 1, 1, 1, 1]
+Amount to spawn  : [5, 2, 3, 3, 3, 7, 4, 3, 3, 4, 2, 3, 4, 3, 2, 3, 3, 2, 4, 3, 1, 4, 3, 2, 3, 5, 2, 2, 2, 2, 5, 6, 2, 2, 5, 3, 4, 4, 3, 4, 2, 2, 2, 2, 2, 4, 3, 4]
+Species age      : [53, 53, 53, 52, 51, 50, 49, 47, 41, 32, 27, 25, 23, 19, 17, 15, 14, 14, 13, 13, 12, 12, 11, 11, 10, 10, 10, 8, 6, 5, 5, 5, 5, 4, 4, 3, 3, 3, 2, 2, 2, 2, 1, 1, 0, 0, 0, 0]
+Species no improv: [16, 7, 6, 2, 9, 10, 5, 3, 11, 8, 13, 8, 5, 7, 12, 11, 6, 9, 0, 10, 7, 7, 3, 5, 1, 3, 10, 6, 2, 5, 5, 5, 4, 2, 4, 2, 0, 0, 1, 0, 0, 2, 1, 1, 0, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 54 ****** 
+
+Removing species 232 for being empty
+Removing species 255 for being empty
+
+   Species  1 (with  5 individuals) is stagnated: removing it
+Population's average fitness: 0.00421 stdev: 0.00253
+Best fitness: 0.0183859577 - size: (2, 10) - species 14 - id 8173
+Species length: 46 totalizing 145 individuals
+Species ID       : [3, 4, 7, 11, 14, 23, 29, 59, 114, 150, 157, 173, 194, 204, 209, 217, 219, 223, 224, 226, 227, 229, 230, 233, 234, 242, 249, 251, 256, 257, 259, 260, 262, 263, 264, 265, 266, 267, 268, 269, 271, 272, 273, 274, 275, 276]
+Each species size: [2, 3, 5, 4, 6, 4, 6, 4, 2, 2, 3, 4, 3, 2, 3, 3, 2, 4, 8, 1, 4, 3, 2, 5, 2, 2, 2, 2, 6, 2, 2, 5, 2, 4, 5, 3, 4, 2, 2, 2, 1, 1, 4, 3, 3, 1]
+Amount to spawn  : [1, 4, 4, 4, 7, 3, 4, 4, 3, 1, 4, 4, 3, 1, 3, 1, 2, 5, 5, 1, 5, 3, 4, 6, 3, 4, 1, 2, 2, 2, 4, 5, 4, 6, 3, 3, 4, 2, 2, 3, 3, 1, 3, 3, 4, 4]
+Species age      : [54, 54, 53, 52, 51, 50, 48, 42, 33, 28, 26, 24, 20, 18, 16, 15, 15, 14, 14, 13, 13, 12, 12, 11, 11, 9, 7, 6, 6, 6, 5, 5, 4, 4, 4, 3, 3, 3, 3, 2, 2, 1, 1, 1, 1, 0]
+Species no improv: [8, 7, 3, 10, 11, 6, 4, 12, 9, 14, 9, 6, 8, 13, 12, 7, 10, 0, 11, 8, 8, 4, 6, 4, 11, 7, 3, 6, 6, 5, 0, 5, 3, 0, 1, 2, 1, 0, 3, 2, 2, 1, 1, 1, 1, 0]
+
+ ****** Running generation 55 ****** 
+
+Removing species 268 for being empty
+Population's average fitness: 0.00475 stdev: 0.00285
+Best fitness: 0.0169218034 - size: (1, 9) - species 279 - id 8440
+Species length: 48 totalizing 150 individuals
+Species ID       : [3, 4, 7, 11, 14, 23, 29, 59, 114, 150, 157, 173, 194, 204, 209, 217, 219, 223, 224, 226, 227, 229, 230, 233, 234, 242, 249, 251, 256, 257, 259, 260, 262, 263, 264, 265, 266, 267, 269, 271, 272, 273, 274, 275, 276, 277, 278, 279]
+Each species size: [1, 4, 4, 4, 7, 3, 4, 6, 3, 1, 4, 4, 3, 1, 3, 1, 2, 5, 4, 1, 5, 3, 6, 6, 3, 4, 1, 2, 2, 1, 4, 5, 2, 6, 4, 3, 4, 2, 3, 2, 1, 1, 3, 4, 4, 1, 1, 2]
+Amount to spawn  : [1, 3, 4, 3, 5, 4, 3, 3, 3, 3, 3, 3, 3, 1, 3, 1, 2, 3, 4, 1, 6, 2, 3, 3, 3, 3, 2, 2, 4, 7, 3, 3, 3, 5, 3, 3, 2, 3, 2, 2, 2, 5, 3, 3, 4, 3, 4, 7]
+Species age      : [55, 55, 54, 53, 52, 51, 49, 43, 34, 29, 27, 25, 21, 19, 17, 16, 16, 15, 15, 14, 14, 13, 13, 12, 12, 10, 8, 7, 7, 7, 6, 6, 5, 5, 5, 4, 4, 4, 3, 3, 2, 2, 2, 2, 1, 0, 0, 0]
+Species no improv: [9, 8, 4, 11, 12, 7, 5, 13, 10, 15, 10, 7, 9, 14, 13, 8, 11, 1, 12, 9, 0, 5, 7, 5, 12, 8, 4, 7, 7, 0, 1, 6, 4, 0, 2, 0, 2, 0, 3, 3, 2, 0, 0, 2, 0, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 56 ****** 
+
+Removing species 251 for being empty
+Removing species 271 for being empty
+   Species  3 age 56 removed: produced no offspring
+   Species 226 age 15 removed: produced no offspring
+   Species 229 age 14 removed: produced no offspring
+Population's average fitness: 0.00468 stdev: 0.00308
+Best fitness: 0.0168725424 - size: (2, 10) - species 14 - id 8463
+Species length: 48 totalizing 147 individuals
+Species ID       : [4, 7, 11, 14, 23, 29, 59, 114, 150, 157, 173, 194, 204, 209, 217, 219, 223, 224, 227, 230, 233, 234, 242, 249, 256, 257, 259, 260, 262, 263, 264, 265, 266, 267, 269, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284]
+Each species size: [5, 3, 3, 5, 4, 3, 3, 3, 3, 3, 3, 3, 1, 3, 1, 2, 3, 6, 5, 3, 10, 3, 3, 2, 4, 3, 3, 3, 2, 5, 4, 3, 2, 3, 2, 2, 5, 3, 3, 4, 1, 1, 6, 1, 1, 1, 1, 1]
+Amount to spawn  : [3, 4, 3, 7, 3, 3, 3, 3, 2, 3, 3, 3, 1, 4, 1, 2, 2, 3, 5, 2, 6, 2, 3, 1, 4, 3, 2, 2, 3, 3, 2, 2, 2, 2, 2, 2, 3, 2, 3, 5, 3, 11, 2, 5, 4, 2, 3, 2]
+Species age      : [56, 55, 54, 53, 52, 50, 44, 35, 30, 28, 26, 22, 20, 18, 17, 17, 16, 16, 15, 14, 13, 13, 11, 9, 8, 8, 7, 7, 6, 6, 6, 5, 5, 5, 4, 3, 3, 3, 3, 2, 1, 1, 1, 0, 0, 0, 0, 0]
+Species no improv: [9, 5, 12, 13, 8, 6, 14, 11, 16, 11, 8, 10, 15, 14, 9, 0, 2, 13, 1, 8, 6, 13, 9, 5, 8, 1, 2, 7, 0, 1, 3, 1, 3, 1, 4, 3, 1, 1, 3, 0, 1, 0, 1, 0, 0, 0, 0, 0]
+   Producing 4 more individual(s) to fill up the new population
+
+ ****** Running generation 57 ****** 
+
+Removing species 262 for being empty
+Removing species 283 for being empty
+
+   Species 150 (with  2 individuals) is stagnated: removing it
+Population's average fitness: 0.00529 stdev: 0.00424
+Best fitness: 0.0226583721 - size: (1, 5) - species 233 - id 8667
+Species length: 50 totalizing 148 individuals
+Species ID       : [4, 7, 11, 14, 23, 29, 59, 114, 157, 173, 194, 204, 209, 217, 219, 223, 224, 227, 230, 233, 234, 242, 249, 256, 257, 259, 260, 263, 264, 265, 266, 267, 269, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 284, 285, 286, 287, 288, 289]
+Each species size: [3, 4, 3, 7, 3, 3, 9, 3, 3, 3, 3, 1, 5, 1, 2, 2, 3, 6, 2, 7, 2, 3, 1, 5, 3, 1, 2, 3, 2, 2, 2, 2, 2, 2, 3, 2, 2, 5, 3, 10, 2, 5, 1, 2, 2, 2, 1, 1, 1, 1]
+Amount to spawn  : [3, 3, 2, 7, 3, 3, 3, 2, 2, 2, 2, 1, 3, 1, 2, 3, 2, 4, 4, 9, 3, 4, 1, 2, 3, 3, 3, 5, 3, 2, 2, 3, 2, 2, 3, 3, 1, 6, 2, 8, 2, 5, 5, 3, 2, 4, 2, 4, 1, 1]
+Species age      : [57, 56, 55, 54, 53, 51, 45, 36, 29, 27, 23, 21, 19, 18, 18, 17, 17, 16, 15, 14, 14, 12, 10, 9, 9, 8, 8, 7, 7, 6, 6, 6, 5, 4, 4, 4, 4, 3, 2, 2, 2, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+Species no improv: [10, 6, 13, 14, 9, 7, 15, 12, 12, 9, 11, 16, 15, 10, 1, 3, 14, 2, 9, 0, 14, 10, 6, 9, 2, 0, 8, 0, 4, 2, 4, 2, 5, 4, 2, 2, 4, 0, 2, 1, 2, 1, 0, 1, 0, 0, 0, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 58 ****** 
+
+Removing species 259 for being empty
+Removing species 281 for being empty
+Removing species 289 for being empty
+
+   Species 204 (with  1 individuals) is stagnated: removing it
+   Species 217 age 19 removed: produced no offspring
+   Species 272 age  5 removed: produced no offspring
+Population's average fitness: 0.00504 stdev: 0.00364
+Best fitness: 0.0203753629 - size: (2, 11) - species 14 - id 8765
+Species length: 48 totalizing 146 individuals
+Species ID       : [4, 7, 11, 14, 23, 29, 59, 114, 157, 173, 194, 209, 219, 223, 224, 227, 230, 233, 234, 242, 249, 256, 257, 260, 263, 264, 265, 266, 267, 269, 273, 274, 275, 276, 277, 278, 279, 280, 282, 284, 285, 286, 287, 288, 290, 291, 292, 293]
+Each species size: [3, 3, 2, 6, 3, 3, 3, 2, 1, 2, 2, 6, 2, 3, 2, 11, 3, 10, 3, 4, 1, 2, 3, 3, 5, 3, 2, 2, 3, 2, 3, 3, 1, 6, 2, 7, 2, 5, 3, 2, 2, 2, 3, 1, 1, 1, 1, 1]
+Amount to spawn  : [3, 3, 2, 8, 3, 3, 2, 2, 3, 2, 3, 2, 5, 3, 4, 3, 2, 5, 3, 3, 1, 4, 3, 3, 5, 3, 3, 1, 5, 2, 3, 3, 1, 3, 2, 5, 4, 3, 2, 3, 3, 2, 5, 4, 6, 1, 2, 3]
+Species age      : [58, 57, 56, 55, 54, 52, 46, 37, 30, 28, 24, 20, 19, 18, 18, 17, 16, 15, 15, 13, 11, 10, 10, 9, 8, 8, 7, 7, 7, 6, 5, 5, 5, 4, 3, 3, 3, 2, 2, 2, 1, 1, 1, 1, 0, 0, 0, 0]
+Species no improv: [11, 7, 14, 15, 10, 8, 16, 13, 13, 10, 12, 16, 0, 4, 15, 3, 10, 1, 15, 11, 7, 10, 3, 9, 0, 5, 3, 5, 0, 6, 3, 0, 5, 1, 3, 2, 3, 2, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+   Producing 1 more individual(s) to fill up the new population
+
+ ****** Running generation 59 ****** 
+
+Removing species 293 for being empty
+
+   Species 59 (with  2 individuals) is stagnated: removing it
+
+   Species 209 (with  2 individuals) is stagnated: removing it
+Population's average fitness: 0.00567 stdev: 0.00444
+Best fitness: 0.0218715120 - size: (1, 6) - species 233 - id 9013
+Species length: 49 totalizing 146 individuals
+Species ID       : [4, 7, 11, 14, 23, 29, 114, 157, 173, 194, 219, 223, 224, 227, 230, 233, 234, 242, 249, 256, 257, 260, 263, 264, 265, 266, 267, 269, 273, 274, 275, 276, 277, 278, 279, 280, 282, 284, 285, 286, 287, 288, 290, 291, 292, 294, 295, 296, 297]
+Each species size: [3, 3, 2, 8, 3, 3, 2, 3, 2, 3, 4, 3, 4, 3, 3, 16, 3, 3, 1, 4, 3, 3, 5, 3, 3, 1, 4, 2, 3, 3, 1, 3, 2, 1, 4, 2, 2, 2, 3, 2, 3, 3, 6, 1, 1, 1, 1, 1, 1]
+Amount to spawn  : [3, 1, 2, 8, 4, 2, 2, 2, 4, 2, 3, 2, 3, 4, 3, 5, 3, 4, 1, 2, 3, 3, 7, 4, 2, 1, 5, 2, 3, 5, 3, 6, 2, 1, 2, 5, 2, 2, 1, 1, 2, 4, 5, 1, 2, 4, 5, 2, 2]
+Species age      : [59, 58, 57, 56, 55, 53, 38, 31, 29, 25, 20, 19, 19, 18, 17, 16, 16, 14, 12, 11, 11, 10, 9, 9, 8, 8, 8, 7, 6, 6, 6, 5, 4, 4, 4, 3, 3, 3, 2, 2, 2, 2, 1, 1, 1, 0, 0, 0, 0]
+Species no improv: [12, 8, 15, 0, 11, 9, 14, 14, 11, 13, 1, 5, 16, 4, 11, 2, 16, 12, 8, 11, 4, 10, 0, 6, 4, 6, 0, 7, 4, 0, 6, 0, 4, 3, 4, 0, 3, 0, 2, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0]
+   Producing 3 more individual(s) to fill up the new population
+
+ ****** Running generation 60 ****** 
+
+Removing species 292 for being empty
+Removing species 294 for being empty
+
+   Species 224 (with  3 individuals) is stagnated: removing it
+
+   Species 234 (with  3 individuals) is stagnated: removing it
+Population's average fitness: 0.00462 stdev: 0.00309
+Best fitness: 0.0173223400 - size: (1, 8) - species 267 - id 9137
+Species length: 50 totalizing 144 individuals
+Species ID       : [4, 7, 11, 14, 23, 29, 114, 157, 173, 194, 219, 223, 227, 230, 233, 242, 249, 256, 257, 260, 263, 264, 265, 266, 267, 269, 273, 274, 275, 276, 277, 278, 279, 280, 282, 284, 285, 286, 287, 288, 290, 291, 295, 296, 297, 298, 299, 300, 301, 302]
+Each species size: [3, 1, 2, 7, 4, 2, 2, 2, 4, 2, 6, 3, 4, 6, 8, 4, 1, 2, 1, 3, 6, 5, 2, 1, 4, 2, 3, 5, 3, 7, 2, 1, 2, 6, 2, 1, 1, 1, 2, 1, 6, 1, 2, 1, 2, 1, 1, 1, 1, 4]
+Amount to spawn  : [3, 2, 3, 2, 4, 3, 2, 2, 3, 3, 3, 4, 5, 3, 4, 3, 1, 7, 2, 4, 3, 4, 2, 2, 4, 1, 3, 4, 4, 4, 2, 1, 3, 3, 2, 3, 2, 2, 4, 4, 3, 2, 4, 2, 2, 4, 1, 1, 7, 6]
+Species age      : [60, 59, 58, 57, 56, 54, 39, 32, 30, 26, 21, 20, 19, 18, 17, 15, 13, 12, 12, 11, 10, 10, 9, 9, 9, 8, 7, 7, 7, 6, 5, 5, 5, 4, 4, 4, 3, 3, 3, 3, 2, 2, 1, 1, 1, 0, 0, 0, 0, 0]
+Species no improv: [13, 9, 16, 1, 12, 10, 15, 15, 12, 14, 2, 6, 5, 12, 3, 13, 9, 12, 5, 11, 1, 7, 5, 7, 1, 8, 5, 1, 7, 1, 5, 4, 5, 1, 4, 1, 3, 2, 2, 1, 2, 2, 1, 1, 1, 0, 0, 0, 0, 0]
+   Removing 2 excess individual(s) from the new population
+
+ ****** Running generation 61 ****** 
+
+Removing species 296 for being empty
+Removing species 298 for being empty
+Removing species 300 for being empty
+
+   Species 11 (with  3 individuals) is stagnated: removing it
+Population's average fitness: 0.00539 stdev: 0.00387
+Best fitness: 0.0221560422 - size: (3, 13) - species 256 - id 9257
+Species length: 48 totalizing 147 individuals
+Species ID       : [4, 7, 14, 23, 29, 114, 157, 173, 194, 219, 223, 227, 230, 233, 242, 249, 256, 257, 260, 263, 264, 265, 266, 267, 269, 273, 274, 275, 276, 277, 278, 279, 280, 282, 284, 285, 286, 287, 288, 290, 291, 295, 297, 299, 301, 302, 303, 304]
+Each species size: [3, 2, 5, 4, 3, 2, 2, 3, 3, 2, 4, 5, 3, 4, 3, 1, 7, 1, 4, 4, 5, 2, 2, 8, 1, 3, 4, 4, 4, 2, 3, 3, 5, 2, 3, 2, 2, 4, 7, 3, 2, 3, 1, 1, 3, 1, 1, 1]
+Amount to spawn  : [3, 3, 6, 4, 3, 1, 3, 2, 4, 2, 3, 5, 4, 5, 1, 1, 7, 3, 4, 2, 4, 3, 2, 4, 1, 2, 6, 4, 5, 2, 3, 1, 3, 2, 3, 2, 2, 5, 4, 5, 2, 3, 2, 1, 3, 6, 4, 4]
+Species age      : [61, 60, 58, 57, 55, 40, 33, 31, 27, 22, 21, 20, 19, 18, 16, 14, 13, 13, 12, 11, 11, 10, 10, 10, 9, 8, 8, 8, 7, 6, 6, 6, 5, 5, 5, 4, 4, 4, 4, 3, 3, 2, 2, 1, 1, 1, 0, 0]
+Species no improv: [14, 10, 2, 13, 11, 16, 16, 13, 15, 3, 7, 6, 0, 4, 14, 10, 13, 6, 12, 2, 8, 6, 8, 2, 9, 6, 0, 8, 2, 6, 5, 6, 2, 0, 0, 4, 3, 3, 0, 3, 0, 2, 2, 1, 1, 0, 0, 0]
+   Removing 4 excess individual(s) from the new population
+
+ ****** Running generation 62 ****** 
+
+Removing species 288 for being empty
+Removing species 297 for being empty
+
+   Species 114 (with  1 individuals) is stagnated: removing it
+
+   Species 157 (with  2 individuals) is stagnated: removing it
+   Species 242 age 17 removed: produced no offspring
+Population's average fitness: 0.00518 stdev: 0.00363
+Best fitness: 0.0212640233 - size: (3, 13) - species 256 - id 9409
+Species length: 48 totalizing 146 individuals
+Species ID       : [4, 7, 14, 23, 29, 173, 194, 219, 223, 227, 230, 233, 249, 256, 257, 260, 263, 264, 265, 266, 267, 269, 273, 274, 275, 276, 277, 278, 279, 280, 282, 284, 285, 286, 287, 290, 291, 295, 299, 301, 302, 303, 304, 305, 306, 307, 308, 309]
+Each species size: [2, 3, 7, 4, 2, 2, 4, 1, 3, 5, 4, 10, 1, 7, 3, 4, 2, 6, 3, 2, 5, 1, 2, 6, 4, 5, 2, 3, 1, 3, 1, 3, 2, 2, 5, 5, 2, 3, 2, 1, 4, 3, 1, 1, 1, 1, 1, 1]
+Amount to spawn  : [3, 3, 6, 3, 2, 5, 4, 2, 3, 3, 3, 3, 1, 8, 2, 4, 6, 3, 2, 2, 4, 1, 2, 4, 3, 5, 2, 3, 1, 4, 3, 3, 3, 2, 3, 3, 2, 1, 8, 6, 1, 2, 3, 3, 2, 2, 2, 2]
+Species age      : [62, 61, 59, 58, 56, 32, 28, 23, 22, 21, 20, 19, 15, 14, 14, 13, 12, 12, 11, 11, 11, 10, 9, 9, 9, 8, 7, 7, 7, 6, 6, 6, 5, 5, 5, 4, 4, 3, 2, 2, 2, 1, 1, 0, 0, 0, 0, 0]
+Species no improv: [15, 11, 3, 14, 12, 14, 0, 4, 8, 7, 1, 5, 11, 14, 7, 13, 3, 9, 7, 9, 3, 10, 7, 1, 9, 3, 7, 6, 7, 3, 0, 0, 5, 0, 4, 4, 0, 3, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0]
+   Producing 2 more individual(s) to fill up the new population
+
+ ****** Running generation 63 ****** 
+
+Removing species 302 for being empty
+Removing species 305 for being empty
+   Species 310 age  0 removed: produced no offspring
+   Species 313 age  0 removed: produced no offspring
+Population's average fitness: 0.00548 stdev: 0.00407
+Best fitness: 0.0280366124 - size: (3, 13) - species 256 - id 9553
+Species length: 49 totalizing 148 individuals
+Species ID       : [4, 7, 14, 23, 29, 173, 194, 219, 223, 227, 230, 233, 249, 256, 257, 260, 263, 264, 265, 266, 267, 269, 273, 274, 275, 276, 277, 278, 279, 280, 282, 284, 285, 286, 287, 290, 291, 295, 299, 301, 303, 304, 306, 307, 308, 309, 311, 312, 314]
+Each species size: [6, 3, 6, 3, 2, 5, 4, 4, 3, 3, 3, 6, 1, 6, 2, 4, 6, 2, 2, 2, 4, 1, 2, 4, 3, 5, 2, 2, 1, 4, 3, 3, 3, 2, 3, 3, 3, 2, 8, 4, 2, 1, 2, 1, 2, 2, 1, 1, 1]
+Amount to spawn  : [2, 3, 3, 4, 3, 6, 4, 2, 3, 3, 4, 3, 1, 5, 2, 2, 2, 4, 4, 1, 3, 1, 2, 4, 2, 5, 3, 6, 1, 3, 2, 2, 2, 2, 3, 7, 2, 1, 3, 3, 5, 3, 2, 2, 2, 2, 10, 1, 2]
+Species age      : [63, 62, 60, 59, 57, 33, 29, 24, 23, 22, 21, 20, 16, 15, 15, 14, 13, 13, 12, 12, 12, 11, 10, 10, 10, 9, 8, 8, 8, 7, 7, 7, 6, 6, 6, 5, 5, 4, 3, 3, 2, 2, 1, 1, 1, 1, 0, 0, 0]
+Species no improv: [16, 12, 4, 15, 13, 15, 0, 5, 9, 8, 0, 6, 12, 15, 8, 14, 4, 0, 0, 10, 4, 11, 8, 2, 10, 4, 0, 7, 8, 4, 1, 1, 6, 0, 5, 0, 0, 4, 1, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0]
+   Producing 3 more individual(s) to fill up the new population
+
+ ****** Running generation 64 ****** 
+
+Removing species 299 for being empty
+
+   Species  4 (with  2 individuals) is stagnated: removing it
+Population's average fitness: 0.00562 stdev: 0.00470
+Best fitness: 0.0294132948 - size: (3, 13) - species 311 - id 9799
+Species length: 51 totalizing 148 individuals
+Species ID       : [7, 14, 23, 29, 173, 194, 219, 223, 227, 230, 233, 249, 256, 257, 260, 263, 264, 265, 266, 267, 269, 273, 274, 275, 276, 277, 278, 279, 280, 282, 284, 285, 286, 287, 290, 291, 295, 301, 303, 304, 306, 307, 308, 309, 311, 312, 314, 315, 316, 317, 318]
+Each species size: [3, 3, 4, 3, 6, 4, 3, 3, 3, 4, 4, 1, 8, 2, 2, 2, 4, 4, 1, 3, 1, 2, 4, 2, 5, 3, 9, 1, 4, 2, 2, 2, 3, 3, 7, 2, 1, 1, 5, 2, 1, 2, 2, 2, 6, 1, 2, 1, 1, 1, 1]
+Amount to spawn  : [3, 1, 6, 4, 7, 4, 1, 2, 3, 3, 2, 1, 3, 4, 4, 2, 2, 3, 1, 3, 1, 3, 4, 2, 6, 2, 5, 1, 6, 3, 2, 3, 2, 4, 6, 2, 1, 6, 5, 2, 3, 3, 1, 3, 8, 1, 2, 1, 3, 3, 2]
+Species age      : [63, 61, 60, 58, 34, 30, 25, 24, 23, 22, 21, 17, 16, 16, 15, 14, 14, 13, 13, 13, 12, 11, 11, 11, 10, 9, 9, 9, 8, 8, 8, 7, 7, 7, 6, 6, 5, 4, 3, 3, 2, 2, 2, 2, 1, 1, 1, 0, 0, 0, 0]
+Species no improv: [13, 5, 16, 14, 16, 1, 6, 10, 9, 1, 7, 13, 16, 9, 15, 5, 1, 1, 11, 5, 12, 9, 3, 11, 5, 1, 8, 9, 0, 2, 2, 7, 1, 6, 1, 1, 5, 2, 1, 3, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0]
+   Removing 5 excess individual(s) from the new population
+
+ ****** Running generation 65 ****** 
+
+Removing species 318 for being empty
+
+   Species 23 (with  6 individuals) is stagnated: removing it
+
+   Species 173 (with  7 individuals) is stagnated: removing it
+
+   Species 256 (with  2 individuals) is stagnated: removing it
+Population's average fitness: 0.00546 stdev: 0.00451
+Best fitness: 0.0264163182 - size: (3, 14) - species 317 - id 9952
+Species length: 49 totalizing 135 individuals
+Species ID       : [7, 14, 29, 194, 219, 223, 227, 230, 233, 249, 257, 260, 263, 264, 265, 266, 267, 269, 273, 274, 275, 276, 277, 278, 279, 280, 282, 284, 285, 286, 287, 290, 291, 295, 301, 303, 304, 306, 307, 308, 309, 311, 312, 314, 315, 316, 317, 319, 320]
+Each species size: [3, 1, 5, 4, 2, 1, 3, 3, 2, 1, 1, 4, 2, 2, 3, 1, 3, 1, 3, 4, 2, 6, 2, 8, 1, 6, 3, 2, 1, 2, 4, 6, 2, 1, 3, 5, 1, 3, 3, 1, 3, 6, 1, 2, 1, 3, 3, 3, 2]
+Amount to spawn  : [4, 2, 3, 4, 3, 3, 2, 3, 2, 1, 3, 4, 2, 2, 3, 2, 4, 1, 3, 8, 4, 7, 2, 6, 1, 4, 3, 1, 3, 2, 3, 5, 2, 1, 3, 2, 2, 3, 3, 2, 3, 5, 3, 2, 3, 2, 11, 2, 3]
+Species age      : [64, 62, 59, 31, 26, 25, 24, 23, 22, 18, 17, 16, 15, 15, 14, 14, 14, 13, 12, 12, 12, 11, 10, 10, 10, 9, 9, 9, 8, 8, 8, 7, 7, 6, 5, 4, 4, 3, 3, 3, 3, 2, 2, 2, 1, 1, 1, 0, 0]
+Species no improv: [14, 6, 15, 2, 7, 11, 10, 2, 8, 14, 10, 16, 6, 2, 2, 12, 6, 13, 10, 0, 12, 6, 2, 9, 10, 1, 0, 3, 8, 2, 7, 2, 2, 6, 3, 2, 4, 1, 1, 2, 0, 2, 0, 2, 0, 1, 0, 0, 0]
+   Removing 2 excess individual(s) from the new population
+
+ ****** Running generation 66 ****** 
+
+
+   Species 260 (with  4 individuals) is stagnated: removing it
+Population's average fitness: 0.00481 stdev: 0.00324
+Best fitness: 0.0179926475 - size: (3, 14) - species 311 - id 10103
+Species length: 51 totalizing 146 individuals
+Species ID       : [7, 14, 29, 194, 219, 223, 227, 230, 233, 249, 257, 263, 264, 265, 266, 267, 269, 273, 274, 275, 276, 277, 278, 279, 280, 282, 284, 285, 286, 287, 290, 291, 295, 301, 303, 304, 306, 307, 308, 309, 311, 312, 314, 315, 316, 317, 319, 320, 321, 322, 323]
+Each species size: [4, 2, 3, 4, 5, 3, 2, 3, 2, 1, 3, 2, 2, 3, 2, 4, 1, 3, 8, 4, 7, 2, 3, 1, 4, 3, 1, 3, 2, 3, 5, 2, 1, 4, 2, 2, 3, 1, 2, 2, 12, 3, 2, 2, 2, 4, 2, 1, 1, 2, 1]
+Amount to spawn  : [4, 2, 2, 3, 5, 2, 4, 4, 1, 1, 2, 4, 2, 5, 2, 3, 1, 3, 5, 2, 4, 2, 3, 1, 5, 3, 3, 3, 3, 4, 5, 3, 1, 3, 5, 3, 3, 3, 6, 2, 4, 1, 3, 2, 2, 3, 2, 4, 4, 3, 2]
+Species age      : [65, 63, 60, 32, 27, 26, 25, 24, 23, 19, 18, 16, 16, 15, 15, 15, 14, 13, 13, 13, 12, 11, 11, 11, 10, 10, 10, 9, 9, 9, 8, 8, 7, 6, 5, 5, 4, 4, 4, 4, 3, 3, 3, 2, 2, 2, 1, 1, 0, 0, 0]
+Species no improv: [15, 7, 16, 3, 8, 12, 11, 3, 9, 15, 11, 7, 3, 3, 13, 7, 14, 11, 1, 13, 7, 3, 10, 11, 2, 0, 0, 9, 3, 8, 3, 0, 7, 4, 3, 5, 0, 0, 0, 1, 3, 1, 0, 1, 2, 1, 0, 0, 0, 0, 0]
+   Removing 2 excess individual(s) from the new population
+
+ ****** Running generation 67 ****** 
+
+Removing species 309 for being empty
+Removing species 323 for being empty
+
+   Species 29 (with  1 individuals) is stagnated: removing it
+   Species 328 age  0 removed: produced no offspring
+Population's average fitness: 0.00455 stdev: 0.00385
+Best fitness: 0.0294004208 - size: (1, 7) - species 278 - id 10266
+Species length: 52 totalizing 148 individuals
+Species ID       : [7, 14, 194, 219, 223, 227, 230, 233, 249, 257, 263, 264, 265, 266, 267, 269, 273, 274, 275, 276, 277, 278, 279, 280, 282, 284, 285, 286, 287, 290, 291, 295, 301, 303, 304, 306, 307, 308, 311, 312, 314, 315, 316, 317, 319, 320, 321, 322, 324, 325, 326, 327]
+Each species size: [4, 2, 3, 6, 2, 4, 3, 1, 1, 2, 4, 2, 5, 2, 3, 1, 3, 5, 2, 4, 2, 4, 1, 4, 3, 3, 3, 3, 4, 5, 5, 1, 3, 5, 3, 3, 2, 6, 4, 1, 3, 2, 2, 1, 2, 4, 4, 2, 1, 1, 1, 1]
+Amount to spawn  : [4, 1, 3, 3, 2, 3, 4, 1, 1, 4, 4, 3, 3, 2, 3, 1, 2, 6, 3, 5, 2, 12, 1, 4, 3, 2, 5, 2, 3, 4, 2, 1, 1, 1, 3, 3, 2, 2, 2, 3, 3, 3, 2, 2, 2, 4, 4, 4, 2, 4, 5, 2]
+Species age      : [66, 64, 33, 28, 27, 26, 25, 24, 20, 19, 17, 17, 16, 16, 16, 15, 14, 14, 14, 13, 12, 12, 12, 11, 11, 11, 10, 10, 10, 9, 9, 8, 7, 6, 6, 5, 5, 5, 4, 4, 4, 3, 3, 3, 2, 2, 1, 1, 0, 0, 0, 0]
+Species no improv: [16, 8, 4, 9, 13, 12, 4, 10, 16, 12, 8, 4, 4, 14, 8, 15, 12, 2, 14, 8, 4, 0, 12, 3, 1, 1, 0, 4, 9, 4, 1, 8, 5, 4, 6, 1, 1, 1, 4, 0, 0, 0, 3, 2, 1, 1, 1, 0, 0, 0, 0, 0]
+   Removing 3 excess individual(s) from the new population
+
+ ****** Running generation 68 ****** 
+
+Removing species 327 for being empty
+
+   Species  7 (with  4 individuals) is stagnated: removing it
+
+   Species 249 (with  1 individuals) is stagnated: removing it
+   Species 311 age  5 removed: produced no offspring
+Population's average fitness: 0.00522 stdev: 0.00332
+Best fitness: 0.0177613801 - size: (1, 7) - species 278 - id 10331
+Species length: 54 totalizing 143 individuals
+Species ID       : [14, 194, 219, 223, 227, 230, 233, 257, 263, 264, 265, 266, 267, 269, 273, 274, 275, 276, 277, 278, 279, 280, 282, 284, 285, 286, 287, 290, 291, 295, 301, 303, 304, 306, 307, 308, 312, 314, 315, 316, 317, 319, 320, 321, 322, 324, 325, 326, 329, 330, 331, 332, 333, 334]
+Each species size: [1, 3, 3, 1, 2, 5, 1, 3, 4, 3, 3, 2, 3, 1, 2, 6, 3, 5, 2, 15, 1, 6, 2, 2, 5, 2, 2, 4, 2, 1, 4, 1, 3, 3, 1, 2, 3, 3, 2, 2, 2, 2, 4, 1, 2, 2, 3, 2, 1, 1, 1, 1, 1, 1]
+Amount to spawn  : [2, 3, 2, 3, 4, 4, 2, 3, 3, 2, 3, 1, 3, 1, 2, 5, 3, 5, 2, 6, 1, 4, 3, 2, 3, 2, 4, 2, 3, 1, 5, 3, 2, 3, 3, 1, 3, 5, 2, 2, 1, 2, 3, 5, 4, 3, 3, 4, 3, 3, 1, 2, 3, 3]
+Species age      : [65, 34, 29, 28, 27, 26, 25, 20, 18, 18, 17, 17, 17, 16, 15, 15, 15, 14, 13, 13, 13, 12, 12, 12, 11, 11, 11, 10, 10, 9, 8, 7, 7, 6, 6, 6, 5, 5, 4, 4, 4, 3, 3, 2, 2, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+Species no improv: [9, 5, 10, 14, 13, 5, 11, 13, 9, 5, 5, 15, 9, 16, 13, 3, 15, 9, 5, 1, 13, 4, 0, 2, 1, 5, 10, 5, 0, 9, 6, 5, 7, 2, 2, 2, 0, 0, 1, 4, 3, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+   Removing 3 excess individual(s) from the new population
+
+ ****** Running generation 69 ****** 
+
+Removing species 319 for being empty
+Removing species 325 for being empty
+Removing species 330 for being empty
+Removing species 334 for being empty
+
+   Species 269 (with  1 individuals) is stagnated: removing it
+Population's average fitness: 0.00523 stdev: 0.00340
+Best fitness: 0.0239973244 - size: (3, 15) - species 290 - id 10500
+Species length: 54 totalizing 149 individuals
+Species ID       : [14, 194, 219, 223, 227, 230, 233, 257, 263, 264, 265, 266, 267, 273, 274, 275, 276, 277, 278, 279, 280, 282, 284, 285, 286, 287, 290, 291, 295, 301, 303, 304, 306, 307, 308, 312, 314, 315, 316, 317, 320, 321, 322, 324, 326, 329, 331, 332, 333, 335, 336, 337, 338, 339]
+Each species size: [2, 3, 2, 3, 7, 7, 2, 5, 3, 2, 3, 1, 3, 2, 5, 3, 5, 2, 4, 1, 4, 3, 2, 4, 2, 5, 2, 3, 1, 5, 3, 1, 3, 3, 1, 3, 4, 2, 2, 1, 1, 5, 4, 3, 4, 3, 1, 2, 2, 1, 1, 1, 1, 1]
+Amount to spawn  : [2, 2, 3, 2, 3, 3, 3, 2, 1, 2, 2, 1, 1, 3, 4, 1, 5, 3, 5, 1, 4, 3, 1, 3, 2, 3, 9, 3, 1, 4, 1, 1, 3, 2, 2, 3, 4, 6, 2, 1, 3, 5, 4, 2, 3, 3, 2, 1, 3, 3, 2, 4, 3, 3]
+Species age      : [66, 35, 30, 29, 28, 27, 26, 21, 19, 19, 18, 18, 18, 16, 16, 16, 15, 14, 14, 14, 13, 13, 13, 12, 12, 12, 11, 11, 10, 9, 8, 8, 7, 7, 7, 6, 6, 5, 5, 5, 4, 3, 3, 2, 2, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+Species no improv: [10, 6, 11, 15, 14, 6, 12, 14, 10, 6, 6, 16, 10, 14, 4, 16, 10, 6, 2, 14, 5, 0, 3, 2, 6, 11, 0, 0, 10, 7, 6, 8, 0, 3, 3, 0, 1, 0, 5, 4, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+   Producing 2 more individual(s) to fill up the new population
+
+ ****** Running generation 70 ****** 
+
+Removing species 331 for being empty
+
+   Species 266 (with  1 individuals) is stagnated: removing it
+
+   Species 275 (with  1 individuals) is stagnated: removing it
+Population's average fitness: 0.00567 stdev: 0.00405
+Best fitness: 0.0231121609 - size: (3, 15) - species 290 - id 10643
+Species length: 54 totalizing 148 individuals
+Species ID       : [14, 194, 219, 223, 227, 230, 233, 257, 263, 264, 265, 267, 273, 274, 276, 277, 278, 279, 280, 282, 284, 285, 286, 287, 290, 291, 295, 301, 303, 304, 306, 307, 308, 312, 314, 315, 316, 317, 320, 321, 322, 324, 326, 329, 332, 333, 335, 336, 337, 338, 339, 340, 341, 342]
+Each species size: [2, 2, 3, 3, 3, 2, 3, 4, 1, 2, 2, 1, 3, 4, 5, 3, 6, 1, 4, 3, 1, 4, 2, 3, 9, 3, 1, 4, 1, 1, 3, 1, 2, 2, 8, 6, 2, 1, 3, 5, 7, 2, 3, 2, 1, 3, 1, 2, 1, 3, 1, 1, 1, 1]
+Amount to spawn  : [2, 3, 2, 2, 3, 2, 1, 3, 3, 2, 1, 1, 2, 4, 4, 2, 7, 1, 4, 1, 2, 3, 2, 4, 5, 3, 2, 3, 2, 1, 3, 2, 1, 2, 3, 5, 2, 1, 3, 7, 4, 2, 4, 3, 1, 3, 5, 3, 3, 2, 5, 3, 3, 2]
+Species age      : [67, 36, 31, 30, 29, 28, 27, 22, 20, 20, 19, 19, 17, 17, 16, 15, 15, 15, 14, 14, 14, 13, 13, 13, 12, 12, 11, 10, 9, 9, 8, 8, 8, 7, 7, 6, 6, 6, 5, 4, 4, 3, 3, 2, 2, 2, 1, 1, 1, 1, 1, 0, 0, 0]
+Species no improv: [11, 7, 12, 16, 15, 7, 13, 15, 11, 7, 7, 11, 15, 5, 11, 7, 3, 15, 6, 1, 4, 3, 7, 12, 1, 1, 11, 8, 7, 9, 1, 4, 4, 1, 2, 1, 6, 5, 0, 0, 0, 2, 0, 0, 2, 1, 0, 0, 1, 1, 0, 0, 0, 0]
+   Producing 1 more individual(s) to fill up the new population
+
+ ****** Running generation 71 ****** 
+
+Removing species 337 for being empty
+Removing species 339 for being empty
+
+   Species 223 (with  2 individuals) is stagnated: removing it
+   Species 277 age 16 removed: produced no offspring
+Population's average fitness: 0.00615 stdev: 0.00467
+Best fitness: 0.0251792389 - size: (1, 7) - species 278 - id 10763
+Species length: 53 totalizing 146 individuals
+Species ID       : [14, 194, 219, 227, 230, 233, 257, 263, 264, 265, 267, 273, 274, 276, 278, 279, 280, 282, 284, 285, 286, 287, 290, 291, 295, 301, 303, 304, 306, 307, 308, 312, 314, 315, 316, 317, 320, 321, 322, 324, 326, 329, 332, 333, 335, 336, 338, 340, 341, 342, 343, 344, 345]
+Each species size: [2, 3, 2, 3, 2, 1, 3, 3, 2, 1, 1, 2, 4, 4, 7, 1, 4, 1, 2, 3, 2, 4, 5, 3, 2, 2, 2, 1, 3, 1, 1, 2, 6, 4, 2, 1, 3, 7, 9, 2, 4, 3, 1, 3, 6, 3, 2, 3, 2, 2, 2, 1, 1]
+Amount to spawn  : [1, 3, 2, 2, 2, 2, 2, 4, 2, 1, 1, 3, 4, 3, 8, 2, 2, 4, 2, 4, 2, 3, 5, 2, 2, 3, 6, 1, 2, 2, 2, 3, 4, 3, 3, 1, 3, 7, 6, 2, 3, 2, 4, 6, 4, 2, 3, 2, 2, 2, 1, 2, 2]
+Species age      : [68, 37, 32, 30, 29, 28, 23, 21, 21, 20, 20, 18, 18, 17, 16, 16, 15, 15, 15, 14, 14, 14, 13, 13, 12, 11, 10, 10, 9, 9, 9, 8, 8, 7, 7, 7, 6, 5, 5, 4, 4, 3, 3, 3, 2, 2, 2, 1, 1, 1, 0, 0, 0]
+Species no improv: [12, 8, 13, 16, 8, 14, 16, 12, 8, 8, 12, 16, 6, 12, 4, 16, 7, 0, 5, 0, 8, 13, 2, 2, 12, 9, 0, 10, 2, 5, 5, 2, 3, 2, 7, 6, 0, 0, 0, 3, 1, 1, 0, 0, 1, 1, 2, 1, 1, 1, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 72 ****** 
+
+Removing species 345 for being empty
+
+   Species 227 (with  2 individuals) is stagnated: removing it
+
+   Species 257 (with  2 individuals) is stagnated: removing it
+
+   Species 273 (with  3 individuals) is stagnated: removing it
+
+   Species 279 (with  2 individuals) is stagnated: removing it
+Population's average fitness: 0.00571 stdev: 0.00446
+Best fitness: 0.0261015304 - size: (1, 7) - species 347 - id 10910
+Species length: 54 totalizing 141 individuals
+Species ID       : [14, 194, 219, 230, 233, 263, 264, 265, 267, 274, 276, 278, 280, 282, 284, 285, 286, 287, 290, 291, 295, 301, 303, 304, 306, 307, 308, 312, 314, 315, 316, 317, 320, 321, 322, 324, 326, 329, 332, 333, 335, 336, 338, 340, 341, 342, 343, 344, 346, 347, 348, 349, 350, 351]
+Each species size: [1, 3, 2, 3, 1, 4, 2, 1, 1, 4, 3, 6, 2, 4, 2, 4, 2, 3, 5, 2, 2, 3, 6, 1, 2, 2, 2, 3, 4, 3, 2, 1, 4, 3, 6, 2, 3, 2, 4, 6, 2, 2, 1, 1, 3, 2, 1, 2, 1, 2, 1, 4, 2, 1]
+Amount to spawn  : [1, 3, 4, 2, 1, 2, 3, 1, 2, 3, 2, 5, 3, 2, 2, 3, 1, 3, 6, 2, 3, 3, 4, 1, 3, 2, 1, 2, 3, 5, 2, 1, 3, 4, 3, 2, 3, 5, 3, 3, 6, 2, 3, 3, 2, 2, 1, 1, 2, 8, 3, 5, 2, 3]
+Species age      : [69, 38, 33, 30, 29, 22, 22, 21, 21, 19, 18, 17, 16, 16, 16, 15, 15, 15, 14, 14, 13, 12, 11, 11, 10, 10, 10, 9, 9, 8, 8, 8, 7, 6, 6, 5, 5, 4, 4, 4, 3, 3, 3, 2, 2, 2, 1, 1, 0, 0, 0, 0, 0, 0]
+Species no improv: [13, 9, 14, 9, 15, 13, 9, 9, 13, 7, 13, 5, 8, 1, 6, 1, 9, 14, 3, 3, 13, 10, 1, 11, 3, 6, 6, 3, 4, 3, 8, 7, 1, 1, 1, 4, 2, 0, 1, 1, 0, 2, 0, 0, 2, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+
+ ****** Running generation 73 ****** 
+
+Removing species 341 for being empty
+Removing species 348 for being empty
+   Species 265 age 22 removed: produced no offspring
+   Species 317 age  9 removed: produced no offspring
+Population's average fitness: 0.00645 stdev: 0.00515
+Best fitness: 0.0256952381 - size: (1, 7) - species 278 - id 11050
+Species length: 53 totalizing 148 individuals
+Species ID       : [14, 194, 219, 230, 233, 263, 264, 267, 274, 276, 278, 280, 282, 284, 285, 286, 287, 290, 291, 295, 301, 303, 304, 306, 307, 308, 312, 314, 315, 316, 320, 321, 322, 324, 326, 329, 332, 333, 335, 336, 338, 340, 342, 343, 344, 346, 347, 349, 350, 351, 352, 353, 354]
+Each species size: [1, 2, 4, 2, 2, 2, 3, 2, 3, 2, 5, 3, 2, 2, 3, 1, 3, 6, 2, 3, 3, 4, 1, 3, 4, 1, 2, 3, 5, 5, 3, 6, 3, 2, 3, 3, 3, 2, 7, 2, 5, 3, 2, 1, 1, 1, 8, 3, 1, 1, 1, 2, 1]
+Amount to spawn  : [1, 2, 2, 2, 1, 1, 3, 1, 3, 4, 8, 4, 3, 2, 3, 2, 3, 4, 2, 2, 2, 2, 1, 2, 2, 1, 2, 3, 5, 2, 3, 5, 7, 2, 5, 4, 2, 3, 4, 2, 3, 3, 2, 1, 2, 9, 4, 5, 2, 3, 1, 1, 2]
+Species age      : [70, 39, 34, 31, 30, 23, 23, 22, 20, 19, 18, 17, 17, 17, 16, 16, 16, 15, 15, 14, 13, 12, 12, 11, 11, 11, 10, 10, 9, 9, 8, 7, 7, 6, 6, 5, 5, 5, 4, 4, 4, 3, 3, 2, 2, 1, 1, 1, 1, 1, 0, 0, 0]
+Species no improv: [14, 10, 15, 10, 16, 14, 10, 14, 8, 14, 6, 9, 0, 7, 2, 0, 15, 4, 4, 14, 11, 2, 12, 4, 7, 7, 4, 5, 4, 9, 2, 2, 0, 0, 0, 1, 2, 2, 1, 3, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+
+ ****** Running generation 74 ****** 
+
+Removing species 344 for being empty
+Removing species 349 for being empty
+Removing species 353 for being empty
+
+   Species 233 (with  2 individuals) is stagnated: removing it
+   Species 267 age 23 removed: produced no offspring
+   Species 284 age 18 removed: produced no offspring
+   Species 304 age 13 removed: produced no offspring
+   Species 308 age 12 removed: produced no offspring
+   Species 355 age  0 removed: produced no offspring
+Population's average fitness: 0.00688 stdev: 0.00560
+Best fitness: 0.0341566383 - size: (1, 7) - species 278 - id 11197
+Species length: 46 totalizing 143 individuals
+Species ID       : [14, 194, 219, 230, 263, 264, 274, 276, 278, 280, 282, 285, 286, 287, 290, 291, 295, 301, 303, 306, 307, 312, 314, 315, 316, 320, 321, 322, 324, 326, 329, 332, 333, 335, 336, 338, 340, 342, 343, 346, 347, 350, 351, 352, 354, 356]
+Each species size: [1, 2, 2, 2, 1, 3, 3, 4, 9, 4, 3, 3, 2, 3, 4, 2, 2, 2, 2, 2, 3, 2, 3, 5, 2, 3, 10, 6, 2, 5, 5, 2, 4, 4, 3, 3, 3, 2, 1, 8, 3, 2, 3, 1, 1, 1]
+Amount to spawn  : [1, 3, 3, 4, 1, 3, 6, 3, 9, 3, 2, 3, 2, 3, 4, 2, 2, 6, 3, 3, 2, 2, 3, 3, 2, 3, 6, 7, 3, 3, 3, 2, 2, 7, 2, 2, 3, 2, 1, 3, 6, 2, 2, 1, 1, 9]
+Species age      : [71, 40, 35, 32, 24, 24, 21, 20, 19, 18, 18, 17, 17, 17, 16, 16, 15, 14, 13, 12, 12, 11, 11, 10, 10, 9, 8, 8, 7, 7, 6, 6, 6, 5, 5, 5, 4, 4, 3, 2, 2, 2, 2, 1, 1, 0]
+Species no improv: [15, 11, 16, 0, 15, 11, 9, 15, 7, 10, 1, 3, 1, 16, 5, 5, 15, 0, 3, 5, 8, 5, 6, 5, 10, 0, 3, 0, 0, 1, 2, 3, 3, 0, 4, 2, 1, 0, 0, 1, 2, 1, 1, 1, 1, 0]
+   Producing 2 more individual(s) to fill up the new population
+
+ ****** Running generation 75 ****** 
+
+Removing species 354 for being empty
+
+   Species 219 (with  3 individuals) is stagnated: removing it
+
+   Species 287 (with  3 individuals) is stagnated: removing it
+   Species 14 age 72 removed: produced no offspring
+Population's average fitness: 0.00720 stdev: 0.00588
+Best fitness: 0.0270551079 - size: (3, 15) - species 290 - id 11374
+Species length: 46 totalizing 143 individuals
+Species ID       : [194, 230, 263, 264, 274, 276, 278, 280, 282, 285, 286, 290, 291, 295, 301, 303, 306, 307, 312, 314, 315, 316, 320, 321, 322, 324, 326, 329, 332, 333, 335, 336, 338, 340, 342, 343, 346, 347, 350, 351, 352, 356, 357, 358, 359, 360]
+Each species size: [3, 4, 1, 3, 6, 3, 11, 3, 2, 3, 2, 4, 2, 2, 6, 3, 3, 3, 2, 4, 3, 1, 3, 4, 7, 3, 3, 3, 2, 3, 4, 1, 2, 3, 2, 1, 3, 6, 2, 2, 1, 9, 2, 1, 1, 1]
+Amount to spawn  : [1, 2, 1, 3, 6, 6, 10, 3, 2, 5, 1, 11, 2, 2, 5, 4, 3, 2, 2, 3, 4, 2, 3, 4, 8, 2, 3, 3, 4, 3, 4, 3, 2, 2, 2, 1, 4, 5, 2, 3, 2, 4, 2, 1, 2, 1]
+Species age      : [41, 33, 25, 25, 22, 21, 20, 19, 19, 18, 18, 17, 17, 16, 15, 14, 13, 13, 12, 12, 11, 11, 10, 9, 9, 8, 8, 7, 7, 7, 6, 6, 6, 5, 5, 4, 3, 3, 3, 3, 2, 1, 0, 0, 0, 0]
+Species no improv: [12, 1, 16, 12, 10, 0, 8, 11, 2, 0, 2, 0, 6, 16, 1, 4, 6, 9, 6, 7, 6, 11, 0, 4, 1, 1, 2, 3, 4, 4, 1, 0, 3, 2, 1, 1, 2, 3, 0, 0, 0, 1, 0, 0, 0, 0]
+
+ ****** Running generation 76 ****** 
+
+
+   Species 263 (with  1 individuals) is stagnated: removing it
+
+   Species 295 (with  2 individuals) is stagnated: removing it
+   Species 312 age 13 removed: produced no offspring
+   Species 360 age  1 removed: produced no offspring
+   Species 361 age  0 removed: produced no offspring
+   Species 368 age  0 removed: produced no offspring
+Population's average fitness: 0.00744 stdev: 0.00640
+Best fitness: 0.0292522131 - size: (1, 7) - species 278 - id 11499
+Species length: 48 totalizing 142 individuals
+Species ID       : [194, 230, 264, 274, 276, 278, 280, 282, 285, 286, 290, 291, 301, 303, 306, 307, 314, 315, 316, 320, 321, 322, 324, 326, 329, 332, 333, 335, 336, 338, 340, 342, 343, 346, 347, 350, 351, 352, 356, 357, 358, 359, 362, 363, 364, 365, 366, 367]
+Each species size: [2, 2, 3, 6, 6, 12, 3, 2, 4, 1, 11, 2, 5, 4, 2, 3, 3, 3, 2, 3, 4, 4, 2, 1, 2, 4, 3, 4, 2, 2, 2, 2, 1, 4, 5, 4, 3, 1, 1, 2, 1, 2, 1, 1, 1, 1, 2, 1]
+Amount to spawn  : [2, 3, 3, 5, 5, 8, 2, 2, 3, 1, 6, 3, 3, 3, 3, 2, 3, 3, 2, 3, 6, 5, 3, 2, 2, 2, 2, 5, 2, 2, 2, 2, 1, 4, 6, 2, 3, 1, 2, 5, 1, 3, 8, 3, 3, 5, 2, 2]
+Species age      : [42, 34, 26, 23, 22, 21, 20, 20, 19, 19, 18, 18, 16, 15, 14, 14, 13, 12, 12, 11, 10, 10, 9, 9, 8, 8, 8, 7, 7, 7, 6, 6, 5, 4, 4, 4, 4, 3, 2, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+Species no improv: [13, 2, 13, 11, 1, 9, 12, 3, 1, 3, 1, 0, 2, 5, 7, 10, 8, 7, 12, 1, 0, 2, 0, 3, 4, 5, 5, 2, 1, 4, 3, 2, 2, 3, 4, 1, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 77 ****** 
+
+Removing species 352 for being empty
+Removing species 367 for being empty
+Population's average fitness: 0.00691 stdev: 0.00563
+Best fitness: 0.0378955032 - size: (3, 14) - species 290 - id 11665
+Species length: 51 totalizing 150 individuals
+Species ID       : [194, 230, 264, 274, 276, 278, 280, 282, 285, 286, 290, 291, 301, 303, 306, 307, 314, 315, 316, 320, 321, 322, 324, 326, 329, 332, 333, 335, 336, 338, 340, 342, 343, 346, 347, 350, 351, 356, 357, 358, 359, 362, 363, 364, 365, 366, 369, 370, 371, 372, 373]
+Each species size: [3, 3, 3, 5, 5, 6, 2, 2, 10, 1, 6, 3, 3, 3, 4, 2, 3, 4, 2, 3, 6, 8, 3, 2, 3, 2, 2, 5, 1, 1, 2, 2, 1, 4, 5, 2, 3, 2, 5, 4, 2, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1]
+Amount to spawn  : [2, 3, 3, 4, 3, 5, 1, 1, 3, 1, 5, 3, 6, 1, 2, 1, 3, 2, 1, 2, 5, 6, 3, 4, 2, 2, 2, 8, 2, 3, 3, 1, 1, 4, 6, 3, 3, 1, 7, 6, 2, 3, 1, 3, 5, 3, 2, 1, 3, 2, 2]
+Species age      : [43, 35, 27, 24, 23, 22, 21, 21, 20, 20, 19, 19, 17, 16, 15, 15, 14, 13, 13, 12, 11, 11, 10, 10, 9, 9, 9, 8, 8, 8, 7, 7, 6, 5, 5, 5, 5, 3, 2, 2, 2, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+Species no improv: [14, 3, 14, 12, 2, 10, 13, 4, 2, 4, 2, 0, 3, 6, 8, 11, 9, 8, 13, 2, 1, 3, 1, 4, 5, 6, 6, 0, 2, 5, 4, 3, 3, 4, 5, 0, 1, 3, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 78 ****** 
+
+Removing species 363 for being empty
+Removing species 369 for being empty
+Removing species 370 for being empty
+Removing species 372 for being empty
+   Species 280 age 22 removed: produced no offspring
+   Species 282 age 22 removed: produced no offspring
+   Species 286 age 21 removed: produced no offspring
+Population's average fitness: 0.00816 stdev: 0.00664
+Best fitness: 0.0398221264 - size: (1, 7) - species 322 - id 11900
+Species length: 47 totalizing 147 individuals
+Species ID       : [194, 230, 264, 274, 276, 278, 285, 290, 291, 301, 303, 306, 307, 314, 315, 316, 320, 321, 322, 324, 326, 329, 332, 333, 335, 336, 338, 340, 342, 343, 346, 347, 350, 351, 356, 357, 358, 359, 362, 364, 365, 366, 371, 373, 374, 375, 376]
+Each species size: [2, 3, 3, 4, 3, 9, 3, 5, 3, 6, 1, 3, 1, 3, 2, 3, 3, 5, 11, 1, 3, 2, 2, 2, 9, 3, 2, 3, 1, 1, 4, 1, 2, 3, 1, 7, 3, 2, 3, 3, 5, 3, 3, 1, 2, 1, 1]
+Amount to spawn  : [1, 3, 3, 5, 6, 5, 3, 6, 3, 4, 7, 2, 2, 3, 3, 2, 3, 4, 7, 1, 2, 2, 1, 2, 5, 1, 2, 3, 2, 1, 4, 2, 3, 3, 1, 5, 10, 2, 3, 5, 5, 4, 2, 3, 2, 2, 3]
+Species age      : [44, 36, 28, 25, 24, 23, 21, 20, 20, 18, 17, 16, 16, 15, 14, 14, 13, 12, 12, 11, 11, 10, 10, 10, 9, 9, 9, 8, 8, 7, 6, 6, 6, 6, 4, 3, 3, 3, 2, 2, 2, 2, 1, 1, 0, 0, 0]
+Species no improv: [15, 4, 15, 0, 0, 11, 3, 3, 0, 4, 0, 9, 0, 10, 9, 0, 3, 2, 0, 2, 5, 6, 7, 7, 1, 3, 6, 5, 4, 4, 5, 6, 0, 2, 4, 1, 0, 2, 2, 0, 0, 0, 1, 0, 0, 0, 0]
+   Removing 3 excess individual(s) from the new population
+
+ ****** Running generation 79 ****** 
+
+Removing species 376 for being empty
+   Species 332 age 11 removed: produced no offspring
+Population's average fitness: 0.00782 stdev: 0.00655
+Best fitness: 0.0333233978 - size: (1, 7) - species 350 - id 12040
+Species length: 52 totalizing 149 individuals
+Species ID       : [194, 230, 264, 274, 276, 278, 285, 290, 291, 301, 303, 306, 307, 314, 315, 316, 320, 321, 322, 324, 326, 329, 333, 335, 336, 338, 340, 342, 343, 346, 347, 350, 351, 356, 357, 358, 359, 362, 364, 365, 366, 371, 373, 374, 375, 377, 378, 379, 380, 381, 382, 383]
+Each species size: [1, 3, 3, 5, 6, 3, 2, 6, 3, 4, 7, 2, 2, 3, 2, 2, 3, 4, 4, 1, 2, 2, 2, 5, 1, 2, 3, 2, 1, 4, 2, 8, 3, 1, 5, 6, 2, 2, 4, 5, 5, 2, 1, 2, 2, 1, 1, 3, 1, 1, 1, 1]
+Amount to spawn  : [2, 1, 2, 2, 3, 5, 2, 1, 5, 2, 2, 2, 2, 2, 4, 3, 2, 4, 6, 1, 2, 1, 2, 6, 2, 2, 2, 1, 1, 3, 2, 6, 2, 4, 7, 6, 2, 2, 4, 3, 2, 2, 3, 1, 2, 3, 2, 5, 3, 3, 6, 2]
+Species age      : [45, 37, 29, 26, 25, 24, 22, 21, 21, 19, 18, 17, 17, 16, 15, 15, 14, 13, 13, 12, 12, 11, 11, 10, 10, 10, 9, 9, 8, 7, 7, 7, 7, 5, 4, 4, 4, 3, 3, 3, 3, 2, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+Species no improv: [16, 5, 16, 1, 1, 12, 4, 4, 0, 5, 1, 10, 1, 11, 10, 0, 4, 3, 0, 3, 6, 7, 8, 2, 4, 7, 6, 5, 5, 6, 7, 0, 3, 5, 0, 1, 3, 3, 1, 1, 1, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+   Producing 3 more individual(s) to fill up the new population
+
+ ****** Running generation 80 ****** 
+
+Removing species 350 for being empty
+
+   Species 194 (with  2 individuals) is stagnated: removing it
+
+   Species 264 (with  2 individuals) is stagnated: removing it
+   Species 378 age  1 removed: produced no offspring
+Population's average fitness: 0.00787 stdev: 0.00612
+Best fitness: 0.0305481788 - size: (1, 7) - species 322 - id 12128
+Species length: 50 totalizing 145 individuals
+Species ID       : [230, 274, 276, 278, 285, 290, 291, 301, 303, 306, 307, 314, 315, 316, 320, 321, 322, 324, 326, 329, 333, 335, 336, 338, 340, 342, 343, 346, 347, 351, 356, 357, 358, 359, 362, 364, 365, 366, 371, 373, 374, 375, 377, 379, 380, 381, 382, 383, 384, 385]
+Each species size: [1, 2, 3, 7, 3, 1, 5, 2, 2, 2, 2, 2, 5, 3, 3, 4, 11, 1, 2, 1, 2, 6, 2, 2, 2, 1, 1, 3, 2, 2, 4, 7, 6, 2, 2, 6, 3, 3, 2, 3, 1, 2, 2, 4, 3, 3, 4, 1, 1, 1]
+Amount to spawn  : [1, 1, 3, 7, 3, 1, 3, 2, 4, 3, 2, 4, 2, 2, 2, 4, 6, 2, 2, 2, 2, 6, 2, 3, 1, 2, 1, 4, 1, 3, 3, 7, 5, 2, 3, 5, 7, 4, 2, 3, 2, 2, 2, 1, 6, 2, 6, 2, 2, 5]
+Species age      : [38, 27, 26, 25, 23, 22, 22, 20, 19, 18, 18, 17, 16, 16, 15, 14, 14, 13, 13, 12, 12, 11, 11, 11, 10, 10, 9, 8, 8, 8, 6, 5, 5, 5, 4, 4, 4, 4, 3, 3, 2, 2, 1, 1, 1, 1, 1, 1, 0, 0]
+Species no improv: [6, 2, 2, 13, 5, 5, 1, 6, 2, 0, 2, 0, 11, 1, 5, 4, 1, 4, 7, 8, 9, 3, 5, 8, 7, 0, 6, 7, 8, 4, 6, 1, 2, 4, 4, 0, 0, 0, 3, 1, 2, 1, 1, 1, 0, 1, 1, 1, 0, 0]
+   Removing 2 excess individual(s) from the new population
+
+ ****** Running generation 81 ****** 
+
+Removing species 377 for being empty
+Population's average fitness: 0.00932 stdev: 0.01230
+Best fitness: 0.1035256717 - size: (1, 7) - species 358 - id 12324
+Species length: 52 totalizing 150 individuals
+Species ID       : [230, 274, 276, 278, 285, 290, 291, 301, 303, 306, 307, 314, 315, 316, 320, 321, 322, 324, 326, 329, 333, 335, 336, 338, 340, 342, 343, 346, 347, 351, 356, 357, 358, 359, 362, 364, 365, 366, 371, 373, 374, 375, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388]
+Each species size: [1, 1, 3, 8, 5, 1, 3, 2, 4, 2, 2, 4, 2, 2, 2, 4, 7, 2, 2, 2, 2, 3, 2, 3, 1, 2, 1, 4, 1, 3, 3, 7, 4, 2, 3, 7, 7, 4, 2, 3, 2, 2, 1, 5, 2, 4, 2, 2, 2, 1, 1, 3]
+Amount to spawn  : [1, 3, 1, 5, 4, 1, 4, 2, 5, 1, 1, 3, 2, 2, 2, 2, 5, 1, 2, 2, 1, 6, 1, 2, 2, 2, 1, 2, 8, 2, 1, 5, 21, 2, 3, 4, 6, 2, 1, 1, 2, 3, 1, 3, 2, 4, 2, 2, 4, 3, 1, 3]
+Species age      : [39, 28, 27, 26, 24, 23, 23, 21, 20, 19, 19, 18, 17, 17, 16, 15, 15, 14, 14, 13, 13, 12, 12, 12, 11, 11, 10, 9, 9, 9, 7, 6, 6, 6, 5, 5, 5, 5, 4, 4, 3, 3, 2, 2, 2, 2, 2, 1, 1, 0, 0, 0]
+Species no improv: [7, 3, 3, 14, 0, 6, 2, 7, 3, 1, 3, 1, 12, 2, 6, 5, 2, 5, 8, 9, 10, 4, 6, 9, 8, 0, 0, 8, 0, 5, 7, 2, 0, 5, 5, 1, 1, 1, 4, 2, 0, 0, 2, 1, 2, 2, 0, 1, 0, 0, 0, 0]
+   Removing 2 excess individual(s) from the new population
+
+ ****** Running generation 82 ****** 
+
+Removing species 388 for being empty
+   Species 391 age  0 removed: produced no offspring
+   Species 392 age  0 removed: produced no offspring
+Population's average fitness: 0.00890 stdev: 0.01149
+Best fitness: 0.0707963282 - size: (1, 8) - species 358 - id 12480
+Species length: 55 totalizing 148 individuals
+Species ID       : [230, 274, 276, 278, 285, 290, 291, 301, 303, 306, 307, 314, 315, 316, 320, 321, 322, 324, 326, 329, 333, 335, 336, 338, 340, 342, 343, 346, 347, 351, 356, 357, 358, 359, 362, 364, 365, 366, 371, 373, 374, 375, 379, 380, 381, 382, 383, 384, 385, 386, 387, 389, 390, 393, 394]
+Each species size: [1, 3, 1, 5, 4, 1, 4, 2, 5, 2, 1, 3, 2, 2, 1, 2, 20, 1, 2, 2, 1, 7, 1, 2, 2, 1, 1, 2, 7, 2, 1, 4, 4, 2, 4, 6, 5, 2, 1, 1, 2, 3, 1, 3, 1, 2, 2, 2, 4, 2, 1, 2, 1, 1, 1]
+Amount to spawn  : [1, 4, 3, 7, 2, 1, 3, 3, 3, 2, 1, 2, 3, 3, 2, 1, 9, 1, 1, 3, 2, 4, 1, 3, 2, 1, 1, 2, 1, 4, 2, 6, 8, 2, 2, 4, 4, 3, 2, 3, 2, 2, 1, 4, 2, 3, 1, 2, 5, 1, 1, 5, 1, 4, 4]
+Species age      : [40, 29, 28, 27, 25, 24, 24, 22, 21, 20, 20, 19, 18, 18, 17, 16, 16, 15, 15, 14, 14, 13, 13, 13, 12, 12, 11, 10, 10, 10, 8, 7, 7, 7, 6, 6, 6, 6, 5, 5, 4, 4, 3, 3, 3, 3, 3, 2, 2, 1, 1, 0, 0, 0, 0]
+Species no improv: [8, 4, 4, 15, 1, 7, 3, 8, 4, 2, 4, 2, 13, 3, 7, 6, 0, 6, 9, 10, 11, 5, 7, 10, 9, 1, 1, 9, 1, 0, 8, 3, 1, 6, 6, 2, 2, 2, 5, 3, 1, 1, 3, 2, 3, 3, 1, 2, 0, 1, 1, 0, 0, 0, 0]
+
+ ****** Running generation 83 ****** 
+
+Removing species 336 for being empty
+Removing species 382 for being empty
+Removing species 387 for being empty
+Removing species 394 for being empty
+   Species 290 age 25 removed: produced no offspring
+Population's average fitness: 0.00933 stdev: 0.01208
+Best fitness: 0.1055380136 - size: (1, 8) - species 322 - id 12626
+Species length: 52 totalizing 149 individuals
+Species ID       : [230, 274, 276, 278, 285, 291, 301, 303, 306, 307, 314, 315, 316, 320, 321, 322, 324, 326, 329, 333, 335, 338, 340, 342, 343, 346, 347, 351, 356, 357, 358, 359, 362, 364, 365, 366, 371, 373, 374, 375, 379, 380, 381, 383, 384, 385, 386, 389, 390, 393, 395, 396]
+Each species size: [1, 4, 3, 12, 2, 3, 3, 3, 2, 2, 2, 3, 3, 2, 1, 6, 1, 1, 3, 2, 4, 3, 2, 1, 1, 2, 1, 4, 2, 6, 6, 2, 2, 7, 8, 3, 2, 3, 2, 2, 1, 4, 2, 1, 2, 5, 1, 5, 1, 3, 1, 1]
+Amount to spawn  : [1, 5, 3, 6, 3, 3, 2, 3, 1, 1, 3, 3, 2, 2, 1, 12, 1, 2, 1, 2, 5, 2, 2, 1, 1, 1, 1, 2, 1, 3, 13, 1, 2, 4, 4, 2, 2, 2, 2, 1, 1, 3, 2, 2, 2, 5, 1, 6, 2, 2, 2, 14]
+Species age      : [41, 30, 29, 28, 26, 25, 23, 22, 21, 21, 20, 19, 19, 18, 17, 17, 16, 16, 15, 15, 14, 14, 13, 13, 12, 11, 11, 11, 9, 8, 8, 8, 7, 7, 7, 7, 6, 6, 5, 5, 4, 4, 4, 4, 3, 3, 2, 1, 1, 1, 0, 0]
+Species no improv: [9, 0, 5, 16, 2, 4, 9, 5, 3, 5, 3, 14, 4, 8, 7, 0, 7, 10, 11, 12, 6, 11, 10, 2, 2, 10, 2, 1, 9, 4, 2, 7, 7, 3, 3, 3, 6, 4, 2, 2, 4, 3, 4, 2, 3, 0, 2, 0, 0, 1, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 84 ****** 
+
+Removing species 395 for being empty
+
+   Species 278 (with  9 individuals) is stagnated: removing it
+   Species 342 age 14 removed: produced no offspring
+Population's average fitness: 0.01025 stdev: 0.01326
+Best fitness: 0.0884337081 - size: (1, 8) - species 322 - id 12732
+Species length: 53 totalizing 140 individuals
+Species ID       : [230, 274, 276, 285, 291, 301, 303, 306, 307, 314, 315, 316, 320, 321, 322, 324, 326, 329, 333, 335, 338, 340, 343, 346, 347, 351, 356, 357, 358, 359, 362, 364, 365, 366, 371, 373, 374, 375, 379, 380, 381, 383, 384, 385, 386, 389, 390, 393, 396, 397, 398, 399, 400]
+Each species size: [1, 5, 3, 3, 3, 2, 3, 1, 1, 2, 3, 2, 2, 1, 23, 1, 2, 1, 2, 5, 2, 2, 1, 1, 1, 2, 1, 5, 3, 1, 2, 3, 4, 2, 2, 2, 2, 1, 1, 3, 2, 2, 2, 5, 1, 5, 2, 2, 8, 1, 1, 1, 1]
+Amount to spawn  : [1, 6, 4, 4, 3, 2, 4, 1, 1, 3, 2, 3, 3, 1, 9, 1, 2, 2, 3, 6, 3, 2, 1, 3, 1, 2, 2, 4, 12, 2, 2, 4, 5, 3, 2, 2, 2, 2, 1, 2, 2, 2, 2, 6, 1, 3, 3, 4, 6, 3, 1, 1, 1]
+Species age      : [42, 31, 30, 27, 26, 24, 23, 22, 22, 21, 20, 20, 19, 18, 18, 17, 17, 16, 16, 15, 15, 14, 13, 12, 12, 12, 10, 9, 9, 9, 8, 8, 8, 8, 7, 7, 6, 6, 5, 5, 5, 5, 4, 4, 3, 2, 2, 2, 1, 0, 0, 0, 0]
+Species no improv: [10, 0, 6, 3, 5, 10, 6, 4, 6, 4, 15, 5, 9, 8, 1, 8, 11, 12, 13, 7, 12, 11, 3, 11, 3, 2, 10, 5, 3, 8, 8, 4, 4, 4, 7, 5, 3, 3, 5, 4, 5, 3, 4, 0, 3, 1, 0, 2, 1, 0, 0, 0, 0]
+   Removing 3 excess individual(s) from the new population
+
+ ****** Running generation 85 ****** 
+
+Removing species 398 for being empty
+Removing species 399 for being empty
+Removing species 400 for being empty
+Population's average fitness: 0.01008 stdev: 0.01317
+Best fitness: 0.1035745217 - size: (1, 7) - species 358 - id 12915
+Species length: 55 totalizing 150 individuals
+Species ID       : [230, 274, 276, 285, 291, 301, 303, 306, 307, 314, 315, 316, 320, 321, 322, 324, 326, 329, 333, 335, 338, 340, 343, 346, 347, 351, 356, 357, 358, 359, 362, 364, 365, 366, 371, 373, 374, 375, 379, 380, 381, 383, 384, 385, 386, 389, 390, 393, 396, 397, 401, 402, 403, 404, 405]
+Each species size: [1, 6, 4, 4, 3, 2, 4, 1, 1, 3, 2, 3, 3, 1, 6, 1, 2, 2, 3, 6, 3, 2, 1, 3, 1, 2, 2, 3, 12, 2, 1, 3, 5, 3, 2, 2, 2, 2, 1, 2, 2, 2, 2, 5, 1, 3, 3, 4, 4, 3, 1, 1, 1, 1, 5]
+Amount to spawn  : [1, 3, 2, 3, 2, 1, 9, 1, 1, 1, 2, 2, 2, 1, 6, 1, 2, 1, 2, 3, 2, 1, 1, 1, 1, 2, 1, 6, 8, 2, 1, 2, 4, 4, 2, 2, 2, 1, 1, 2, 2, 1, 2, 4, 1, 3, 1, 5, 12, 11, 8, 1, 1, 2, 5]
+Species age      : [43, 32, 31, 28, 27, 25, 24, 23, 23, 22, 21, 21, 20, 19, 19, 18, 18, 17, 17, 16, 16, 15, 14, 13, 13, 13, 11, 10, 10, 10, 9, 9, 9, 9, 8, 8, 7, 7, 6, 6, 6, 6, 5, 5, 4, 3, 3, 3, 2, 1, 0, 0, 0, 0, 0]
+Species no improv: [11, 1, 7, 4, 6, 11, 0, 5, 7, 5, 16, 6, 10, 9, 2, 9, 12, 13, 14, 8, 13, 12, 4, 12, 4, 3, 11, 0, 4, 9, 9, 5, 5, 0, 8, 6, 4, 4, 6, 5, 6, 4, 5, 1, 4, 2, 1, 0, 2, 0, 0, 0, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 86 ****** 
+
+Removing species 402 for being empty
+
+   Species 315 (with  2 individuals) is stagnated: removing it
+Population's average fitness: 0.01067 stdev: 0.01083
+Best fitness: 0.0944763056 - size: (1, 7) - species 358 - id 13056
+Species length: 56 totalizing 148 individuals
+Species ID       : [230, 274, 276, 285, 291, 301, 303, 306, 307, 314, 316, 320, 321, 322, 324, 326, 329, 333, 335, 338, 340, 343, 346, 347, 351, 356, 357, 358, 359, 362, 364, 365, 366, 371, 373, 374, 375, 379, 380, 381, 383, 384, 385, 386, 389, 390, 393, 396, 397, 401, 403, 404, 405, 406, 407, 408]
+Each species size: [1, 3, 2, 3, 2, 1, 9, 1, 1, 1, 2, 2, 1, 7, 1, 2, 1, 2, 3, 2, 1, 1, 1, 1, 2, 1, 10, 14, 2, 2, 2, 4, 4, 2, 2, 2, 1, 1, 2, 2, 1, 2, 5, 1, 3, 1, 5, 3, 10, 3, 1, 2, 3, 1, 2, 1]
+Amount to spawn  : [2, 5, 2, 2, 2, 1, 5, 1, 1, 1, 1, 2, 2, 5, 1, 2, 1, 2, 6, 2, 2, 1, 2, 1, 3, 2, 6, 7, 2, 2, 4, 3, 2, 2, 2, 2, 3, 1, 3, 2, 1, 2, 5, 1, 4, 2, 7, 1, 5, 9, 1, 4, 4, 7, 1, 1]
+Species age      : [44, 33, 32, 29, 28, 26, 25, 24, 24, 23, 22, 21, 20, 20, 19, 19, 18, 18, 17, 17, 16, 15, 14, 14, 14, 12, 11, 11, 11, 10, 10, 10, 10, 9, 9, 8, 8, 7, 7, 7, 7, 6, 6, 5, 4, 4, 4, 3, 2, 1, 1, 1, 1, 0, 0, 0]
+Species no improv: [0, 0, 8, 5, 7, 12, 1, 6, 8, 6, 7, 11, 10, 3, 10, 13, 14, 15, 0, 14, 13, 5, 13, 5, 4, 12, 1, 5, 10, 10, 0, 6, 1, 9, 7, 5, 0, 7, 6, 7, 5, 6, 0, 5, 3, 2, 0, 3, 1, 0, 1, 0, 1, 0, 0, 0]
+   Removing 3 excess individual(s) from the new population
+
+ ****** Running generation 87 ****** 
+
+Removing species 386 for being empty
+Removing species 401 for being empty
+Removing species 404 for being empty
+Removing species 407 for being empty
+Removing species 408 for being empty
+Population's average fitness: 0.00845 stdev: 0.01023
+Best fitness: 0.0912082875 - size: (1, 7) - species 358 - id 13205
+Species length: 56 totalizing 150 individuals
+Species ID       : [230, 274, 276, 285, 291, 301, 303, 306, 307, 314, 316, 320, 321, 322, 324, 326, 329, 333, 335, 338, 340, 343, 346, 347, 351, 356, 357, 358, 359, 362, 364, 365, 366, 371, 373, 374, 375, 379, 380, 381, 383, 384, 385, 389, 390, 393, 396, 397, 403, 405, 406, 409, 410, 411, 412, 413]
+Each species size: [1, 5, 2, 2, 2, 1, 4, 2, 1, 1, 1, 2, 2, 3, 1, 2, 1, 2, 6, 2, 2, 1, 2, 1, 3, 2, 14, 7, 2, 2, 4, 3, 2, 2, 2, 2, 3, 5, 3, 2, 1, 2, 5, 4, 2, 7, 1, 4, 1, 4, 6, 1, 1, 2, 1, 1]
+Amount to spawn  : [3, 1, 5, 2, 3, 2, 5, 1, 1, 2, 1, 2, 2, 7, 1, 2, 1, 2, 3, 3, 1, 1, 2, 1, 3, 1, 5, 13, 2, 2, 3, 4, 2, 2, 1, 1, 4, 3, 2, 2, 2, 2, 5, 2, 2, 1, 1, 5, 1, 7, 5, 1, 2, 2, 1, 8]
+Species age      : [45, 34, 33, 30, 29, 27, 26, 25, 25, 24, 23, 22, 21, 21, 20, 20, 19, 19, 18, 18, 17, 16, 15, 15, 15, 13, 12, 12, 12, 11, 11, 11, 11, 10, 10, 9, 9, 8, 8, 8, 8, 7, 7, 5, 5, 5, 4, 3, 2, 2, 1, 0, 0, 0, 0, 0]
+Species no improv: [1, 1, 9, 6, 8, 13, 2, 7, 9, 7, 8, 12, 11, 4, 11, 14, 15, 16, 1, 0, 14, 6, 14, 6, 5, 13, 2, 6, 11, 11, 1, 7, 2, 10, 8, 6, 0, 8, 7, 8, 6, 7, 1, 4, 3, 1, 4, 2, 2, 0, 1, 0, 0, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 88 ****** 
+
+
+   Species 333 (with  2 individuals) is stagnated: removing it
+   Species 306 age 26 removed: produced no offspring
+   Species 307 age 26 removed: produced no offspring
+   Species 329 age 20 removed: produced no offspring
+Population's average fitness: 0.00949 stdev: 0.01352
+Best fitness: 0.1049545067 - size: (1, 7) - species 358 - id 13367
+Species length: 60 totalizing 145 individuals
+Species ID       : [230, 274, 276, 285, 291, 301, 303, 314, 316, 320, 321, 322, 324, 326, 335, 338, 340, 343, 346, 347, 351, 356, 357, 358, 359, 362, 364, 365, 366, 371, 373, 374, 375, 379, 380, 381, 383, 384, 385, 389, 390, 393, 396, 397, 403, 405, 406, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421]
+Each species size: [3, 1, 5, 1, 3, 2, 6, 2, 1, 2, 2, 8, 1, 2, 3, 3, 1, 1, 2, 1, 2, 1, 2, 10, 2, 2, 3, 4, 2, 2, 1, 1, 4, 3, 2, 2, 2, 2, 9, 2, 2, 1, 1, 4, 1, 3, 5, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 2, 1, 4]
+Amount to spawn  : [1, 1, 3, 2, 2, 1, 3, 1, 1, 2, 2, 4, 1, 2, 5, 3, 2, 1, 1, 1, 2, 2, 3, 10, 2, 2, 1, 3, 3, 1, 1, 2, 3, 2, 2, 2, 2, 2, 4, 2, 1, 2, 1, 2, 1, 15, 4, 1, 5, 1, 1, 5, 2, 2, 5, 1, 2, 2, 1, 7]
+Species age      : [46, 35, 34, 31, 30, 28, 27, 25, 24, 23, 22, 22, 21, 21, 19, 19, 18, 17, 16, 16, 16, 14, 13, 13, 13, 12, 12, 12, 12, 11, 11, 10, 10, 9, 9, 9, 9, 8, 8, 6, 6, 6, 5, 4, 3, 3, 2, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+Species no improv: [2, 2, 10, 7, 9, 14, 3, 8, 9, 13, 12, 5, 12, 15, 2, 0, 15, 7, 15, 7, 6, 14, 3, 7, 12, 12, 2, 8, 0, 11, 9, 7, 1, 9, 8, 9, 7, 8, 2, 5, 4, 2, 5, 3, 3, 0, 2, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 89 ****** 
+
+Removing species 409 for being empty
+Removing species 417 for being empty
+   Species 426 age  0 removed: produced no offspring
+Population's average fitness: 0.01058 stdev: 0.01312
+Best fitness: 0.1037156935 - size: (1, 8) - species 405 - id 13555
+Species length: 62 totalizing 149 individuals
+Species ID       : [230, 274, 276, 285, 291, 301, 303, 314, 316, 320, 321, 322, 324, 326, 335, 338, 340, 343, 346, 347, 351, 356, 357, 358, 359, 362, 364, 365, 366, 371, 373, 374, 375, 379, 380, 381, 383, 384, 385, 389, 390, 393, 396, 397, 403, 405, 406, 410, 411, 412, 413, 414, 415, 416, 418, 419, 420, 421, 422, 423, 424, 425]
+Each species size: [2, 1, 3, 2, 2, 1, 3, 1, 1, 2, 2, 3, 1, 2, 5, 3, 2, 1, 1, 1, 2, 2, 4, 9, 2, 2, 1, 3, 2, 1, 1, 2, 3, 2, 2, 2, 2, 2, 3, 2, 1, 2, 1, 2, 1, 19, 2, 5, 1, 2, 6, 2, 2, 4, 2, 2, 1, 1, 1, 1, 1, 2]
+Amount to spawn  : [1, 1, 5, 2, 2, 1, 2, 1, 1, 2, 1, 4, 1, 1, 4, 4, 1, 1, 1, 1, 3, 1, 2, 7, 1, 1, 1, 2, 2, 2, 1, 1, 3, 1, 1, 1, 1, 2, 3, 1, 1, 3, 1, 3, 1, 4, 1, 3, 1, 3, 6, 2, 2, 2, 2, 3, 7, 22, 2, 5, 3, 5]
+Species age      : [47, 36, 35, 32, 31, 29, 28, 26, 25, 24, 23, 23, 22, 22, 20, 20, 19, 18, 17, 17, 17, 15, 14, 14, 14, 13, 13, 13, 13, 12, 12, 11, 11, 10, 10, 10, 10, 9, 9, 7, 7, 7, 6, 5, 4, 4, 3, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0]
+Species no improv: [3, 3, 0, 8, 10, 15, 4, 9, 10, 0, 13, 6, 13, 16, 3, 0, 16, 0, 16, 8, 0, 15, 4, 8, 13, 13, 3, 9, 1, 0, 10, 8, 2, 10, 9, 10, 8, 0, 3, 6, 5, 3, 6, 4, 4, 1, 3, 1, 2, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+   Removing 6 excess individual(s) from the new population
+
+ ****** Running generation 90 ****** 
+
+Removing species 416 for being empty
+Removing species 425 for being empty
+
+   Species 326 (with  1 individuals) is stagnated: removing it
+
+   Species 340 (with  1 individuals) is stagnated: removing it
+
+   Species 346 (with  1 individuals) is stagnated: removing it
+   Species 343 age 19 removed: produced no offspring
+   Species 406 age  4 removed: produced no offspring
+   Species 418 age  2 removed: produced no offspring
+   Species 429 age  0 removed: produced no offspring
+Population's average fitness: 0.01117 stdev: 0.01619
+Best fitness: 0.1035665153 - size: (1, 7) - species 358 - id 13638
+Species length: 57 totalizing 143 individuals
+Species ID       : [230, 274, 276, 285, 291, 301, 303, 314, 316, 320, 321, 322, 324, 335, 338, 347, 351, 356, 357, 358, 359, 362, 364, 365, 366, 371, 373, 374, 375, 379, 380, 381, 383, 384, 385, 389, 390, 393, 396, 397, 403, 405, 410, 411, 412, 413, 414, 415, 419, 420, 421, 422, 423, 424, 427, 428, 430]
+Each species size: [1, 1, 5, 2, 2, 1, 2, 1, 1, 2, 1, 7, 1, 4, 4, 1, 3, 1, 2, 13, 1, 1, 1, 2, 3, 1, 1, 1, 3, 1, 1, 1, 1, 2, 4, 1, 1, 2, 1, 1, 1, 11, 3, 1, 5, 5, 2, 2, 3, 6, 12, 2, 1, 1, 1, 1, 1]
+Amount to spawn  : [2, 2, 2, 2, 3, 1, 4, 1, 1, 1, 2, 9, 1, 6, 3, 1, 2, 1, 4, 9, 2, 2, 1, 2, 2, 1, 1, 2, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 1, 6, 1, 4, 3, 1, 3, 7, 2, 3, 1, 8, 7, 1, 3, 5, 1, 1, 5]
+Species age      : [48, 37, 36, 33, 32, 30, 29, 27, 26, 25, 24, 24, 23, 21, 21, 18, 18, 16, 15, 15, 15, 14, 14, 14, 14, 13, 13, 12, 12, 11, 11, 11, 11, 10, 10, 8, 8, 8, 7, 6, 5, 5, 3, 3, 3, 3, 2, 2, 2, 2, 2, 1, 1, 1, 0, 0, 0]
+Species no improv: [4, 4, 1, 9, 11, 16, 5, 10, 11, 1, 14, 7, 14, 0, 1, 9, 1, 16, 5, 9, 14, 14, 4, 10, 2, 1, 11, 0, 3, 11, 10, 11, 9, 1, 4, 7, 6, 4, 7, 5, 5, 2, 2, 3, 1, 1, 2, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0]
+   Removing 2 excess individual(s) from the new population
+
+ ****** Running generation 91 ****** 
+
+Removing species 424 for being empty
+Removing species 430 for being empty
+
+   Species 301 (with  1 individuals) is stagnated: removing it
+
+   Species 356 (with  1 individuals) is stagnated: removing it
+   Species 314 age 28 removed: produced no offspring
+   Species 347 age 19 removed: produced no offspring
+   Species 362 age 15 removed: produced no offspring
+   Species 380 age 12 removed: produced no offspring
+   Species 403 age  6 removed: produced no offspring
+   Species 405 age  6 removed: produced no offspring
+Population's average fitness: 0.01161 stdev: 0.01577
+Best fitness: 0.1028960886 - size: (1, 8) - species 421 - id 13884
+Species length: 55 totalizing 140 individuals
+Species ID       : [230, 274, 276, 285, 291, 303, 316, 320, 321, 322, 324, 335, 338, 351, 357, 358, 359, 364, 365, 366, 371, 373, 374, 375, 379, 381, 383, 384, 385, 389, 390, 393, 396, 397, 410, 411, 412, 413, 414, 415, 419, 420, 421, 422, 423, 427, 428, 431, 432, 433, 434, 435, 436, 437, 438]
+Each species size: [2, 2, 2, 2, 3, 4, 1, 1, 2, 10, 1, 6, 3, 2, 4, 11, 2, 1, 2, 7, 1, 1, 2, 3, 1, 1, 2, 2, 3, 2, 2, 2, 1, 5, 3, 1, 3, 7, 1, 3, 4, 4, 4, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Amount to spawn  : [1, 1, 2, 2, 2, 3, 1, 2, 2, 9, 1, 3, 3, 2, 3, 8, 1, 1, 3, 2, 1, 1, 1, 3, 5, 1, 1, 2, 4, 1, 1, 2, 1, 5, 5, 2, 5, 4, 2, 2, 4, 7, 9, 1, 3, 1, 1, 6, 1, 3, 2, 1, 1, 5, 1]
+Species age      : [49, 38, 37, 34, 33, 30, 27, 26, 25, 25, 24, 22, 22, 19, 16, 16, 16, 15, 15, 15, 14, 14, 13, 13, 12, 12, 12, 11, 11, 9, 9, 9, 8, 7, 4, 4, 4, 4, 3, 3, 3, 3, 3, 2, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+Species no improv: [5, 5, 2, 10, 12, 6, 12, 2, 15, 8, 15, 1, 2, 2, 6, 10, 15, 5, 11, 3, 2, 12, 1, 4, 0, 12, 10, 0, 5, 8, 7, 5, 8, 6, 0, 0, 0, 2, 0, 1, 0, 2, 2, 2, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+   Producing 3 more individual(s) to fill up the new population
+
+ ****** Running generation 92 ****** 
+
+   Species 396 age  9 removed: produced no offspring
+   Species 422 age  3 removed: produced no offspring
+   Species 428 age  2 removed: produced no offspring
+Population's average fitness: 0.01307 stdev: 0.01600
+Best fitness: 0.1040640150 - size: (1, 8) - species 421 - id 14021
+Species length: 56 totalizing 147 individuals
+Species ID       : [230, 274, 276, 285, 291, 303, 316, 320, 321, 322, 324, 335, 338, 351, 357, 358, 359, 364, 365, 366, 371, 373, 374, 375, 379, 381, 383, 384, 385, 389, 390, 393, 397, 410, 411, 412, 413, 414, 415, 419, 420, 421, 423, 427, 431, 432, 433, 434, 435, 436, 437, 438, 439, 440, 441, 442]
+Each species size: [1, 1, 2, 2, 2, 3, 1, 2, 2, 17, 1, 4, 2, 2, 3, 4, 1, 1, 3, 2, 1, 1, 1, 3, 5, 1, 1, 2, 4, 1, 1, 2, 7, 4, 2, 5, 4, 2, 2, 6, 5, 8, 2, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 6, 1]
+Amount to spawn  : [1, 2, 3, 2, 2, 1, 1, 2, 1, 7, 1, 5, 2, 2, 1, 5, 1, 1, 3, 4, 1, 1, 1, 3, 3, 1, 1, 1, 4, 1, 1, 3, 6, 3, 1, 3, 5, 1, 2, 7, 7, 12, 3, 1, 1, 1, 4, 6, 2, 1, 1, 1, 2, 1, 7, 2]
+Species age      : [50, 39, 38, 35, 34, 31, 28, 27, 26, 26, 25, 23, 23, 20, 17, 17, 17, 16, 16, 16, 15, 15, 14, 14, 13, 13, 13, 12, 12, 10, 10, 10, 8, 5, 5, 5, 5, 4, 4, 4, 4, 4, 3, 2, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0]
+Species no improv: [6, 6, 3, 11, 13, 7, 13, 3, 16, 9, 16, 2, 3, 3, 7, 11, 16, 6, 12, 0, 3, 13, 2, 5, 1, 13, 11, 1, 6, 9, 8, 6, 7, 1, 1, 1, 3, 1, 2, 0, 3, 3, 3, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0]
+   Producing 2 more individual(s) to fill up the new population
+
+ ****** Running generation 93 ****** 
+
+Removing species 431 for being empty
+Removing species 440 for being empty
+
+   Species 321 (with  1 individuals) is stagnated: removing it
+
+   Species 324 (with  1 individuals) is stagnated: removing it
+
+   Species 359 (with  1 individuals) is stagnated: removing it
+   Species 364 age 17 removed: produced no offspring
+   Species 433 age  2 removed: produced no offspring
+Population's average fitness: 0.01298 stdev: 0.01710
+Best fitness: 0.1087041433 - size: (1, 8) - species 438 - id 14167
+Species length: 53 totalizing 145 individuals
+Species ID       : [230, 274, 276, 285, 291, 303, 316, 320, 322, 335, 338, 351, 357, 358, 365, 366, 371, 373, 374, 375, 379, 381, 383, 384, 385, 389, 390, 393, 397, 410, 411, 412, 413, 414, 415, 419, 420, 421, 423, 427, 432, 434, 435, 436, 437, 438, 439, 441, 442, 443, 444, 445, 446]
+Each species size: [2, 2, 3, 2, 2, 1, 1, 2, 3, 5, 2, 2, 1, 5, 3, 4, 1, 1, 1, 2, 3, 1, 1, 1, 4, 1, 1, 3, 7, 4, 1, 3, 6, 1, 2, 7, 12, 11, 2, 1, 1, 4, 2, 1, 2, 7, 2, 1, 1, 1, 4, 1, 1]
+Amount to spawn  : [1, 4, 3, 2, 1, 4, 1, 1, 3, 5, 2, 4, 2, 3, 4, 2, 1, 1, 1, 1, 2, 1, 2, 1, 2, 1, 1, 4, 3, 3, 6, 3, 4, 2, 2, 3, 8, 9, 6, 1, 1, 4, 2, 1, 1, 7, 3, 1, 1, 1, 6, 10, 1]
+Species age      : [51, 40, 39, 36, 35, 32, 29, 28, 27, 24, 24, 21, 18, 18, 17, 17, 16, 16, 15, 15, 14, 14, 14, 13, 13, 11, 11, 11, 9, 6, 6, 6, 6, 5, 5, 5, 5, 5, 4, 3, 2, 2, 2, 2, 2, 2, 1, 1, 1, 0, 0, 0, 0]
+Species no improv: [7, 7, 4, 12, 14, 8, 14, 4, 10, 0, 4, 0, 8, 12, 13, 1, 4, 14, 3, 6, 2, 14, 0, 2, 7, 10, 9, 7, 8, 2, 0, 2, 4, 2, 3, 1, 0, 4, 0, 1, 2, 1, 0, 2, 2, 0, 0, 1, 1, 0, 0, 0, 0]
+   Producing 1 more individual(s) to fill up the new population
+
+ ****** Running generation 94 ****** 
+
+Removing species 432 for being empty
+Removing species 435 for being empty
+Removing species 443 for being empty
+Removing species 446 for being empty
+   Species 373 age 17 removed: produced no offspring
+   Species 383 age 15 removed: produced no offspring
+   Species 390 age 12 removed: produced no offspring
+Population's average fitness: 0.01246 stdev: 0.01560
+Best fitness: 0.1023169814 - size: (1, 8) - species 434 - id 14302
+Species length: 51 totalizing 146 individuals
+Species ID       : [230, 274, 276, 285, 291, 303, 316, 320, 322, 335, 338, 351, 357, 358, 365, 366, 371, 374, 375, 379, 381, 384, 385, 389, 393, 397, 410, 411, 412, 413, 414, 415, 419, 420, 421, 423, 427, 434, 436, 437, 438, 439, 441, 442, 444, 445, 447, 448, 449, 450, 451]
+Each species size: [1, 4, 3, 2, 1, 4, 1, 1, 4, 5, 2, 4, 2, 9, 4, 2, 1, 1, 2, 2, 1, 1, 2, 1, 4, 3, 3, 5, 3, 4, 4, 2, 3, 7, 1, 6, 1, 7, 1, 2, 6, 3, 1, 1, 12, 2, 1, 1, 1, 1, 1]
+Amount to spawn  : [2, 2, 5, 2, 2, 1, 1, 1, 6, 4, 2, 3, 1, 6, 3, 3, 1, 1, 2, 4, 1, 1, 3, 1, 4, 3, 4, 3, 2, 4, 2, 2, 4, 12, 1, 3, 1, 9, 1, 1, 3, 2, 5, 1, 7, 1, 1, 2, 11, 5, 1]
+Species age      : [52, 41, 40, 37, 36, 33, 30, 29, 28, 25, 25, 22, 19, 19, 18, 18, 17, 16, 16, 15, 15, 14, 14, 12, 12, 10, 7, 7, 7, 7, 6, 6, 6, 6, 6, 5, 4, 3, 3, 3, 3, 2, 2, 2, 1, 1, 0, 0, 0, 0, 0]
+Species no improv: [8, 8, 5, 13, 15, 9, 15, 5, 11, 1, 5, 1, 9, 13, 14, 2, 5, 4, 7, 3, 15, 3, 8, 11, 8, 9, 3, 1, 3, 5, 3, 4, 2, 0, 5, 1, 0, 0, 3, 3, 1, 1, 2, 2, 0, 1, 0, 0, 0, 0, 0]
+   Removing 3 excess individual(s) from the new population
+
+ ****** Running generation 95 ****** 
+
+Removing species 444 for being empty
+Removing species 445 for being empty
+Removing species 451 for being empty
+   Species 357 age 20 removed: produced no offspring
+   Species 436 age  4 removed: produced no offspring
+Population's average fitness: 0.01531 stdev: 0.01815
+Best fitness: 0.1053156972 - size: (1, 8) - species 438 - id 14467
+Species length: 49 totalizing 148 individuals
+Species ID       : [230, 274, 276, 285, 291, 303, 316, 320, 322, 335, 338, 351, 358, 365, 366, 371, 374, 375, 379, 381, 384, 385, 389, 393, 397, 410, 411, 412, 413, 414, 415, 419, 420, 421, 423, 427, 434, 437, 438, 439, 441, 442, 447, 448, 449, 450, 452, 453, 454]
+Each species size: [2, 2, 5, 2, 2, 1, 1, 1, 6, 4, 2, 3, 12, 3, 3, 1, 1, 2, 3, 1, 1, 3, 1, 4, 3, 4, 3, 2, 4, 2, 2, 4, 12, 1, 2, 1, 9, 2, 8, 2, 6, 1, 1, 2, 6, 1, 1, 2, 1]
+Amount to spawn  : [1, 3, 4, 2, 1, 1, 1, 2, 4, 3, 2, 2, 5, 4, 3, 1, 1, 1, 2, 1, 1, 2, 1, 3, 4, 4, 5, 3, 2, 4, 2, 5, 14, 1, 2, 1, 4, 5, 9, 2, 5, 1, 5, 13, 4, 1, 2, 1, 1]
+Species age      : [53, 42, 41, 38, 37, 34, 31, 30, 29, 26, 26, 23, 20, 19, 19, 18, 17, 17, 16, 16, 15, 15, 13, 13, 11, 8, 8, 8, 8, 7, 7, 7, 7, 7, 6, 5, 4, 4, 4, 3, 3, 3, 1, 1, 1, 1, 0, 0, 0]
+Species no improv: [9, 9, 6, 14, 16, 10, 16, 6, 12, 2, 6, 2, 14, 15, 3, 6, 5, 8, 4, 16, 4, 9, 12, 9, 10, 4, 2, 4, 6, 0, 5, 3, 0, 6, 2, 1, 1, 0, 0, 2, 3, 3, 0, 0, 1, 1, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 96 ****** 
+
+
+   Species 291 (with  1 individuals) is stagnated: removing it
+
+   Species 316 (with  1 individuals) is stagnated: removing it
+
+   Species 381 (with  1 individuals) is stagnated: removing it
+   Species 303 age 35 removed: produced no offspring
+   Species 447 age  2 removed: produced no offspring
+   Species 453 age  1 removed: produced no offspring
+Population's average fitness: 0.01373 stdev: 0.01778
+Best fitness: 0.1043360037 - size: (1, 8) - species 438 - id 14617
+Species length: 51 totalizing 141 individuals
+Species ID       : [230, 274, 276, 285, 320, 322, 335, 338, 351, 358, 365, 366, 371, 374, 375, 379, 384, 385, 389, 393, 397, 410, 411, 412, 413, 414, 415, 419, 420, 421, 423, 427, 434, 437, 438, 439, 441, 442, 448, 449, 450, 452, 454, 455, 456, 457, 458, 459, 460, 461, 462]
+Each species size: [1, 3, 4, 2, 2, 4, 3, 2, 2, 2, 4, 3, 1, 1, 1, 2, 1, 2, 1, 3, 3, 4, 5, 4, 2, 4, 2, 5, 15, 1, 2, 1, 6, 4, 6, 2, 2, 1, 7, 5, 1, 2, 1, 1, 1, 1, 3, 2, 2, 1, 1]
+Amount to spawn  : [1, 2, 2, 1, 1, 7, 2, 2, 2, 6, 3, 3, 1, 1, 1, 1, 1, 2, 1, 4, 4, 1, 3, 2, 1, 3, 3, 2, 4, 1, 1, 1, 8, 3, 12, 1, 13, 4, 7, 3, 1, 3, 1, 1, 1, 4, 12, 2, 4, 1, 2]
+Species age      : [54, 43, 42, 39, 31, 30, 27, 27, 24, 21, 20, 20, 19, 18, 18, 17, 16, 16, 14, 14, 12, 9, 9, 9, 9, 8, 8, 8, 8, 8, 7, 6, 5, 5, 5, 4, 4, 4, 2, 2, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+Species no improv: [10, 10, 7, 15, 7, 13, 3, 7, 3, 15, 16, 4, 7, 6, 9, 5, 5, 10, 13, 10, 11, 5, 3, 5, 7, 1, 0, 4, 1, 7, 3, 2, 0, 1, 0, 3, 0, 0, 1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+   Removing 3 excess individual(s) from the new population
+
+ ****** Running generation 97 ****** 
+
+Removing species 461 for being empty
+Removing species 462 for being empty
+
+   Species 365 (with  5 individuals) is stagnated: removing it
+Population's average fitness: 0.01676 stdev: 0.01983
+Best fitness: 0.1043715290 - size: (1, 7) - species 458 - id 14796
+Species length: 49 totalizing 145 individuals
+Species ID       : [230, 274, 276, 285, 320, 322, 335, 338, 351, 358, 366, 371, 374, 375, 379, 384, 385, 389, 393, 397, 410, 411, 412, 413, 414, 415, 419, 420, 421, 423, 427, 434, 437, 438, 439, 441, 442, 448, 449, 450, 452, 454, 455, 456, 457, 458, 459, 460, 463]
+Each species size: [1, 2, 2, 1, 1, 8, 2, 2, 2, 6, 3, 1, 1, 1, 2, 1, 2, 1, 4, 4, 1, 1, 2, 1, 3, 3, 2, 7, 1, 1, 1, 9, 1, 12, 1, 12, 4, 6, 3, 1, 3, 1, 1, 1, 4, 8, 3, 4, 1]
+Amount to spawn  : [1, 3, 3, 4, 2, 6, 2, 2, 2, 4, 2, 1, 1, 2, 3, 1, 2, 1, 4, 3, 5, 4, 3, 1, 2, 3, 1, 8, 4, 1, 1, 6, 1, 5, 2, 8, 2, 4, 1, 2, 5, 1, 1, 1, 3, 10, 7, 5, 1]
+Species age      : [55, 44, 43, 40, 32, 31, 28, 28, 25, 22, 21, 20, 19, 19, 18, 17, 17, 15, 15, 13, 10, 10, 10, 10, 9, 9, 9, 9, 9, 8, 7, 6, 6, 6, 5, 5, 5, 3, 3, 3, 2, 2, 1, 1, 1, 1, 1, 1, 0]
+Species no improv: [11, 11, 8, 0, 8, 14, 4, 8, 4, 16, 5, 8, 7, 10, 6, 6, 11, 14, 11, 12, 0, 4, 6, 8, 2, 0, 5, 2, 8, 4, 0, 1, 2, 1, 4, 1, 1, 2, 3, 3, 0, 1, 1, 1, 1, 1, 0, 0, 0]
+   Producing 3 more individual(s) to fill up the new population
+
+ ****** Running generation 98 ****** 
+
+
+   Species 358 (with  6 individuals) is stagnated: removing it
+   Species 374 age 20 removed: produced no offspring
+   Species 389 age 16 removed: produced no offspring
+   Species 423 age  9 removed: produced no offspring
+   Species 437 age  7 removed: produced no offspring
+   Species 455 age  2 removed: produced no offspring
+   Species 456 age  2 removed: produced no offspring
+   Species 463 age  1 removed: produced no offspring
+   Species 468 age  0 removed: produced no offspring
+Population's average fitness: 0.01556 stdev: 0.02168
+Best fitness: 0.1087207873 - size: (1, 8) - species 460 - id 14954
+Species length: 47 totalizing 135 individuals
+Species ID       : [230, 274, 276, 285, 320, 322, 335, 338, 351, 366, 371, 375, 379, 384, 385, 393, 397, 410, 411, 412, 413, 414, 415, 419, 420, 421, 427, 434, 438, 439, 441, 442, 448, 449, 450, 452, 454, 457, 458, 459, 460, 464, 465, 466, 467, 469, 470]
+Each species size: [1, 3, 3, 4, 2, 6, 2, 2, 2, 2, 1, 2, 3, 1, 2, 4, 4, 5, 4, 2, 1, 2, 3, 1, 8, 4, 1, 3, 4, 2, 4, 1, 4, 1, 2, 10, 1, 2, 1, 7, 5, 1, 3, 1, 5, 2, 1]
+Amount to spawn  : [1, 2, 2, 1, 1, 7, 2, 1, 2, 1, 1, 2, 3, 1, 2, 3, 3, 2, 4, 3, 1, 1, 1, 1, 2, 1, 1, 7, 8, 2, 2, 1, 1, 1, 2, 6, 4, 5, 17, 1, 11, 1, 7, 6, 4, 8, 1]
+Species age      : [56, 45, 44, 41, 33, 32, 29, 29, 26, 22, 21, 20, 19, 18, 18, 16, 14, 11, 11, 11, 11, 10, 10, 10, 10, 10, 8, 7, 7, 6, 6, 6, 4, 4, 4, 3, 3, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0]
+Species no improv: [12, 12, 9, 1, 9, 0, 5, 9, 5, 6, 9, 0, 7, 7, 12, 12, 13, 1, 5, 7, 9, 3, 1, 6, 3, 9, 1, 0, 2, 5, 2, 2, 3, 4, 4, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+   Producing 3 more individual(s) to fill up the new population
+
+ ****** Running generation 99 ****** 
+
+Removing species 467 for being empty
+Removing species 469 for being empty
+Removing species 470 for being empty
+   Species 410 age 12 removed: produced no offspring
+   Species 419 age 11 removed: produced no offspring
+   Species 449 age  5 removed: produced no offspring
+   Species 474 age  0 removed: produced no offspring
+Population's average fitness: 0.02138 stdev: 0.02629
+Best fitness: 0.1084284365 - size: (1, 7) - species 452 - id 15038
+Species length: 44 totalizing 145 individuals
+Species ID       : [230, 274, 276, 285, 320, 322, 335, 338, 351, 366, 371, 375, 379, 384, 385, 393, 397, 411, 412, 413, 414, 415, 420, 421, 427, 434, 438, 439, 441, 442, 448, 450, 452, 454, 457, 458, 459, 460, 464, 465, 466, 471, 472, 473]
+Each species size: [1, 2, 2, 1, 1, 6, 2, 1, 2, 1, 1, 2, 3, 1, 2, 3, 7, 4, 2, 1, 1, 1, 2, 2, 1, 8, 13, 2, 7, 1, 1, 2, 16, 4, 2, 12, 4, 10, 1, 6, 1, 1, 1, 1]
+Amount to spawn  : [1, 2, 3, 2, 1, 3, 3, 2, 2, 3, 1, 2, 3, 1, 2, 4, 5, 4, 2, 1, 1, 2, 2, 4, 1, 9, 5, 3, 5, 1, 1, 1, 11, 2, 3, 15, 5, 7, 1, 5, 1, 16, 1, 1]
+Species age      : [57, 46, 45, 42, 34, 33, 30, 30, 27, 23, 22, 21, 20, 19, 19, 17, 15, 12, 12, 12, 11, 11, 11, 11, 9, 8, 8, 7, 7, 7, 5, 5, 4, 4, 3, 3, 3, 3, 1, 1, 1, 0, 0, 0]
+Species no improv: [13, 13, 10, 2, 10, 1, 6, 10, 6, 7, 10, 1, 8, 8, 13, 13, 14, 6, 8, 10, 4, 2, 4, 10, 2, 0, 3, 0, 3, 3, 4, 5, 0, 1, 1, 1, 2, 1, 1, 1, 1, 0, 0, 0]
+
+ ****** Running generation 100 ****** 
+
+   Species 230 age 58 removed: produced no offspring
+   Species 448 age  6 removed: produced no offspring
+   Species 454 age  5 removed: produced no offspring
+Population's average fitness: 0.02137 stdev: 0.02654
+Best fitness: 0.1179761328 - size: (1, 7) - species 452 - id 15194
+Species length: 45 totalizing 146 individuals
+Species ID       : [274, 276, 285, 320, 322, 335, 338, 351, 366, 371, 375, 379, 384, 385, 393, 397, 411, 412, 413, 414, 415, 420, 421, 427, 434, 438, 439, 441, 442, 450, 452, 457, 458, 459, 460, 464, 465, 466, 471, 472, 473, 475, 476, 477, 478]
+Each species size: [2, 3, 2, 1, 14, 3, 2, 2, 3, 1, 2, 3, 1, 2, 4, 7, 6, 2, 1, 1, 2, 4, 7, 1, 9, 5, 3, 7, 1, 1, 11, 1, 2, 5, 2, 1, 4, 1, 5, 1, 5, 1, 2, 1, 2]
+Amount to spawn  : [2, 1, 1, 1, 2, 1, 2, 1, 2, 1, 2, 1, 1, 1, 3, 3, 3, 2, 1, 1, 1, 4, 5, 1, 7, 3, 2, 5, 3, 3, 13, 5, 16, 8, 2, 1, 8, 1, 5, 3, 4, 5, 1, 5, 7]
+Species age      : [47, 46, 43, 35, 34, 31, 31, 28, 24, 23, 22, 21, 20, 20, 18, 16, 13, 13, 13, 12, 12, 12, 12, 10, 9, 9, 8, 8, 8, 6, 5, 4, 4, 4, 4, 2, 2, 2, 1, 1, 1, 0, 0, 0, 0]
+Species no improv: [14, 11, 3, 11, 2, 7, 11, 7, 8, 11, 2, 9, 9, 14, 14, 15, 7, 9, 11, 5, 3, 5, 11, 3, 1, 4, 1, 4, 4, 6, 0, 0, 0, 0, 2, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0]
+
+ ****** Running generation 101 ****** 
+
+Removing species 471 for being empty
+   Species 285 age 44 removed: produced no offspring
+   Species 320 age 36 removed: produced no offspring
+   Species 384 age 21 removed: produced no offspring
+   Species 413 age 14 removed: produced no offspring
+   Species 442 age  9 removed: produced no offspring
+   Species 460 age  5 removed: produced no offspring
+   Species 464 age  3 removed: produced no offspring
+   Species 466 age  3 removed: produced no offspring
+   Species 472 age  2 removed: produced no offspring
+   Species 473 age  2 removed: produced no offspring
+   Species 476 age  1 removed: produced no offspring
+   Species 478 age  1 removed: produced no offspring
+   Species 479 age  0 removed: produced no offspring
+Population's average fitness: 0.02554 stdev: 0.03274
+Best fitness: 0.1091229009 - size: (1, 7) - species 420 - id 15352
+Species length: 38 totalizing 134 individuals
+Species ID       : [274, 276, 322, 335, 338, 351, 366, 371, 375, 379, 385, 393, 397, 411, 412, 414, 415, 420, 421, 427, 434, 438, 439, 441, 450, 452, 457, 458, 459, 465, 475, 477, 480, 481, 482, 483, 484, 485]
+Each species size: [2, 1, 7, 1, 2, 1, 2, 1, 2, 1, 1, 3, 3, 16, 3, 1, 1, 11, 7, 1, 11, 5, 2, 6, 3, 8, 5, 7, 4, 4, 1, 1, 2, 1, 1, 3, 1, 2]
+Amount to spawn  : [1, 1, 7, 1, 1, 2, 3, 1, 1, 1, 1, 2, 4, 6, 1, 1, 1, 7, 7, 1, 5, 6, 2, 4, 2, 9, 3, 8, 11, 1, 13, 3, 2, 16, 5, 6, 1, 1]
+Species age      : [48, 47, 35, 32, 32, 29, 25, 24, 23, 22, 21, 19, 17, 14, 14, 13, 13, 13, 13, 11, 10, 10, 9, 9, 7, 6, 5, 5, 5, 3, 1, 1, 0, 0, 0, 0, 0, 0]
+Species no improv: [15, 12, 0, 8, 12, 8, 0, 12, 3, 10, 15, 15, 16, 0, 10, 6, 4, 6, 12, 4, 2, 5, 2, 5, 7, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]
+   Producing 2 more individual(s) to fill up the new population
+
+ ****** Running generation 102 ****** 
+
+Removing species 465 for being empty
+Removing species 483 for being empty
+Removing species 484 for being empty
+Removing species 485 for being empty
+
+   Species 397 (with  4 individuals) is stagnated: removing it
+   Species 335 age 33 removed: produced no offspring
+   Species 412 age 15 removed: produced no offspring
+   Species 486 age  0 removed: produced no offspring
+   Species 489 age  0 removed: produced no offspring
+Population's average fitness: 0.03046 stdev: 0.03472
+Best fitness: 0.1109086256 - size: (1, 7) - species 420 - id 15445
+Species length: 35 totalizing 142 individuals
+Species ID       : [274, 276, 322, 338, 351, 366, 371, 375, 379, 385, 393, 411, 414, 415, 420, 421, 427, 434, 438, 439, 441, 450, 452, 457, 458, 459, 475, 477, 480, 481, 482, 487, 488, 490, 491]
+Each species size: [1, 1, 7, 1, 2, 3, 1, 1, 1, 1, 2, 11, 1, 1, 15, 8, 1, 8, 6, 2, 11, 2, 4, 3, 10, 3, 8, 2, 3, 16, 2, 1, 1, 1, 1]
+Amount to spawn  : [1, 3, 7, 1, 1, 1, 1, 1, 2, 3, 1, 10, 1, 1, 8, 6, 1, 4, 4, 1, 5, 1, 4, 3, 14, 5, 5, 1, 1, 7, 2, 19, 19, 5, 1]
+Species age      : [49, 48, 36, 33, 30, 26, 25, 24, 23, 22, 20, 15, 14, 14, 14, 14, 12, 11, 11, 10, 10, 8, 7, 6, 6, 6, 2, 2, 1, 1, 1, 0, 0, 0, 0]
+Species no improv: [16, 0, 0, 13, 9, 1, 13, 4, 11, 0, 16, 0, 7, 5, 7, 13, 5, 3, 6, 3, 6, 8, 2, 2, 2, 1, 1, 2, 1, 1, 1, 0, 0, 0, 0]
+
+ ****** Running generation 103 ****** 
+
+Removing species 441 for being empty
+
+   Species 274 (with  1 individuals) is stagnated: removing it
+
+   Species 393 (with  1 individuals) is stagnated: removing it
+   Species 366 age 27 removed: produced no offspring
+   Species 482 age  2 removed: produced no offspring
+   Species 494 age  0 removed: produced no offspring
+Population's average fitness: 0.02991 stdev: 0.03569
+Best fitness: 0.1126292845 - size: (1, 7) - species 411 - id 15591
+Species length: 35 totalizing 144 individuals
+Species ID       : [276, 322, 338, 351, 371, 375, 379, 385, 411, 414, 415, 420, 421, 427, 434, 438, 439, 450, 452, 457, 458, 459, 475, 477, 480, 481, 487, 488, 490, 491, 492, 493, 495, 496, 497]
+Each species size: [3, 11, 1, 1, 1, 1, 2, 3, 24, 1, 1, 11, 7, 1, 4, 4, 1, 1, 5, 3, 2, 1, 4, 1, 1, 8, 19, 10, 5, 1, 1, 2, 1, 1, 1]
+Amount to spawn  : [2, 4, 1, 3, 1, 1, 3, 1, 16, 1, 1, 5, 9, 1, 8, 6, 1, 1, 7, 1, 23, 1, 6, 2, 4, 8, 4, 7, 1, 2, 1, 8, 4, 1, 6]
+Species age      : [49, 37, 34, 31, 26, 25, 24, 23, 16, 15, 15, 15, 15, 13, 12, 12, 11, 9, 8, 7, 7, 7, 3, 3, 2, 2, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+Species no improv: [1, 1, 14, 0, 14, 5, 12, 1, 0, 8, 6, 8, 14, 6, 0, 7, 4, 9, 3, 3, 0, 2, 2, 3, 0, 2, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 104 ****** 
+
+Removing species 495 for being empty
+   Species 415 age 16 removed: produced no offspring
+   Species 450 age 10 removed: produced no offspring
+   Species 457 age  8 removed: produced no offspring
+   Species 477 age  4 removed: produced no offspring
+   Species 492 age  1 removed: produced no offspring
+   Species 498 age  0 removed: produced no offspring
+   Species 502 age  0 removed: produced no offspring
+Population's average fitness: 0.02980 stdev: 0.03712
+Best fitness: 0.1118716211 - size: (1, 7) - species 452 - id 15775
+Species length: 37 totalizing 142 individuals
+Species ID       : [276, 322, 338, 351, 371, 375, 379, 385, 411, 414, 420, 421, 427, 434, 438, 439, 452, 458, 459, 475, 480, 481, 487, 488, 490, 491, 493, 496, 497, 499, 500, 501, 503, 504, 505, 506, 507]
+Each species size: [2, 7, 1, 3, 1, 1, 3, 1, 26, 1, 4, 13, 1, 10, 6, 1, 8, 7, 1, 6, 4, 3, 3, 1, 1, 2, 6, 1, 2, 1, 2, 1, 6, 1, 2, 1, 2]
+Amount to spawn  : [3, 3, 1, 2, 1, 1, 1, 1, 13, 1, 7, 10, 1, 5, 6, 2, 10, 18, 1, 6, 5, 7, 1, 1, 1, 4, 4, 1, 3, 5, 7, 1, 8, 4, 5, 1, 3]
+Species age      : [50, 38, 35, 32, 27, 26, 25, 24, 17, 16, 16, 16, 14, 13, 13, 12, 9, 8, 8, 4, 3, 3, 2, 2, 2, 2, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+Species no improv: [2, 2, 15, 1, 15, 6, 13, 2, 1, 9, 9, 15, 7, 1, 8, 5, 4, 1, 3, 3, 0, 3, 2, 2, 2, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+   Removing 4 excess individual(s) from the new population
+
+ ****** Running generation 105 ****** 
+
+Removing species 504 for being empty
+Removing species 506 for being empty
+Removing species 507 for being empty
+   Species 375 age 27 removed: produced no offspring
+   Species 379 age 26 removed: produced no offspring
+   Species 487 age  3 removed: produced no offspring
+   Species 490 age  3 removed: produced no offspring
+   Species 512 age  0 removed: produced no offspring
+   Species 513 age  0 removed: produced no offspring
+Population's average fitness: 0.03168 stdev: 0.03606
+Best fitness: 0.1094254479 - size: (1, 7) - species 411 - id 15930
+Species length: 35 totalizing 143 individuals
+Species ID       : [276, 322, 338, 351, 371, 385, 411, 414, 420, 421, 427, 434, 438, 439, 452, 458, 459, 475, 480, 481, 488, 491, 493, 496, 497, 499, 500, 501, 503, 505, 508, 509, 510, 511, 514]
+Each species size: [3, 4, 1, 2, 1, 1, 18, 1, 8, 7, 1, 8, 6, 2, 15, 8, 1, 6, 4, 2, 1, 4, 4, 1, 3, 2, 6, 1, 8, 4, 2, 3, 3, 1, 1]
+Amount to spawn  : [2, 4, 1, 3, 1, 1, 8, 2, 9, 7, 1, 7, 3, 1, 10, 9, 4, 3, 3, 6, 2, 1, 6, 1, 4, 10, 5, 5, 8, 4, 2, 6, 7, 1, 1]
+Species age      : [51, 39, 36, 33, 28, 25, 18, 17, 17, 17, 15, 14, 14, 13, 10, 9, 9, 5, 4, 4, 3, 3, 2, 2, 2, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+Species no improv: [3, 3, 16, 2, 16, 3, 2, 10, 10, 16, 8, 0, 9, 6, 5, 2, 4, 4, 1, 4, 3, 1, 2, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+   Producing 2 more individual(s) to fill up the new population
+
+ ****** Running generation 106 ****** 
+
+Removing species 459 for being empty
+
+   Species 338 (with  1 individuals) is stagnated: removing it
+
+   Species 371 (with  1 individuals) is stagnated: removing it
+
+   Species 421 (with  9 individuals) is stagnated: removing it
+   Species 497 age  3 removed: produced no offspring
+   Species 511 age  1 removed: produced no offspring
+   Species 514 age  1 removed: produced no offspring
+Population's average fitness: 0.03071 stdev: 0.03699
+Best fitness: 0.1111719617 - size: (1, 8) - species 411 - id 16079
+Species length: 32 totalizing 133 individuals
+Species ID       : [276, 322, 351, 385, 411, 414, 420, 427, 434, 438, 439, 452, 458, 475, 480, 481, 488, 491, 493, 496, 499, 500, 501, 503, 505, 508, 509, 510, 515, 516, 517, 518]
+Each species size: [3, 5, 3, 1, 20, 2, 4, 1, 7, 3, 1, 14, 4, 3, 3, 8, 2, 1, 3, 1, 8, 8, 3, 6, 4, 1, 4, 6, 1, 1, 1, 1]
+Amount to spawn  : [3, 5, 2, 1, 11, 1, 4, 1, 11, 4, 1, 9, 6, 3, 4, 5, 1, 2, 5, 1, 11, 8, 7, 4, 2, 5, 17, 3, 1, 1, 9, 4]
+Species age      : [52, 40, 34, 26, 19, 18, 18, 16, 15, 15, 14, 11, 10, 6, 5, 5, 4, 4, 3, 3, 2, 2, 2, 2, 2, 1, 1, 1, 0, 0, 0, 0]
+Species no improv: [4, 4, 3, 4, 3, 11, 11, 9, 0, 10, 7, 6, 3, 5, 2, 5, 4, 2, 3, 1, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0]
+   Removing 2 excess individual(s) from the new population
+
+ ****** Running generation 107 ****** 
+
+   Species 488 age  5 removed: produced no offspring
+   Species 496 age  4 removed: produced no offspring
+   Species 525 age  0 removed: produced no offspring
+Population's average fitness: 0.02811 stdev: 0.03382
+Best fitness: 0.1089645687 - size: (1, 8) - species 458 - id 16178
+Species length: 38 totalizing 147 individuals
+Species ID       : [276, 322, 351, 385, 411, 414, 420, 427, 434, 438, 439, 452, 458, 475, 480, 481, 491, 493, 499, 500, 501, 503, 505, 508, 509, 510, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 526, 527]
+Each species size: [3, 5, 2, 1, 9, 1, 3, 1, 10, 4, 1, 8, 6, 3, 4, 4, 2, 5, 11, 3, 7, 5, 2, 5, 16, 2, 3, 1, 6, 2, 1, 1, 1, 4, 1, 1, 2, 1]
+Amount to spawn  : [1, 3, 1, 1, 6, 1, 10, 1, 4, 3, 1, 4, 10, 1, 3, 3, 1, 5, 9, 7, 3, 7, 1, 9, 8, 1, 4, 6, 2, 1, 4, 1, 7, 11, 2, 3, 3, 2]
+Species age      : [53, 41, 35, 27, 20, 19, 19, 17, 16, 16, 15, 12, 11, 7, 6, 6, 5, 4, 3, 3, 3, 3, 3, 2, 2, 2, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+Species no improv: [5, 5, 4, 5, 4, 12, 0, 10, 1, 11, 8, 7, 4, 6, 3, 6, 3, 4, 2, 1, 1, 2, 2, 0, 1, 2, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+
+ ****** Running generation 108 ****** 
+
+Removing species 520 for being empty
+Removing species 523 for being empty
+Removing species 527 for being empty
+   Species 414 age 20 removed: produced no offspring
+   Species 505 age  4 removed: produced no offspring
+   Species 508 age  3 removed: produced no offspring
+   Species 518 age  2 removed: produced no offspring
+   Species 528 age  0 removed: produced no offspring
+   Species 529 age  0 removed: produced no offspring
+   Species 531 age  0 removed: produced no offspring
+   Species 532 age  0 removed: produced no offspring
+   Species 534 age  0 removed: produced no offspring
+Population's average fitness: 0.03288 stdev: 0.03965
+Best fitness: 0.1109790470 - size: (1, 8) - species 458 - id 16325
+Species length: 33 totalizing 140 individuals
+Species ID       : [276, 322, 351, 385, 411, 420, 427, 434, 438, 439, 452, 458, 475, 480, 481, 491, 493, 499, 500, 501, 503, 509, 510, 515, 516, 517, 519, 521, 522, 524, 526, 530, 533]
+Each species size: [1, 3, 1, 1, 14, 11, 1, 6, 2, 1, 3, 10, 1, 3, 4, 1, 5, 15, 5, 3, 7, 10, 1, 2, 6, 4, 3, 7, 2, 3, 1, 2, 1]
+Amount to spawn  : [1, 1, 1, 1, 11, 3, 1, 3, 3, 1, 6, 9, 1, 7, 5, 1, 1, 10, 12, 2, 2, 7, 4, 2, 4, 4, 6, 3, 9, 2, 8, 9, 6]
+Species age      : [54, 42, 36, 28, 21, 20, 18, 17, 17, 16, 13, 12, 8, 7, 7, 6, 5, 4, 4, 4, 4, 3, 3, 2, 2, 2, 1, 1, 1, 1, 1, 0, 0]
+Species no improv: [6, 6, 5, 6, 5, 1, 11, 2, 12, 9, 8, 5, 7, 0, 7, 4, 5, 0, 0, 2, 3, 2, 3, 1, 1, 2, 0, 1, 1, 1, 0, 0, 0]
+   Producing 4 more individual(s) to fill up the new population
+
+ ****** Running generation 109 ****** 
+
+   Species 322 age 43 removed: produced no offspring
+   Species 439 age 17 removed: produced no offspring
+   Species 475 age  9 removed: produced no offspring
+   Species 499 age  5 removed: produced no offspring
+   Species 503 age  5 removed: produced no offspring
+   Species 522 age  2 removed: produced no offspring
+Population's average fitness: 0.03502 stdev: 0.03862
+Best fitness: 0.1144701552 - size: (1, 8) - species 538 - id 16535
+Species length: 36 totalizing 136 individuals
+Species ID       : [276, 351, 385, 411, 420, 427, 434, 438, 452, 458, 480, 481, 491, 493, 500, 501, 509, 510, 515, 516, 517, 519, 521, 524, 526, 530, 533, 535, 536, 537, 538, 539, 540, 541, 542, 543]
+Each species size: [1, 1, 1, 9, 6, 1, 4, 3, 11, 7, 7, 7, 1, 1, 5, 2, 8, 4, 6, 4, 3, 3, 2, 2, 4, 8, 5, 3, 1, 5, 3, 1, 1, 4, 1, 1]
+Amount to spawn  : [1, 2, 1, 11, 6, 1, 2, 1, 10, 9, 4, 2, 1, 3, 6, 2, 11, 1, 7, 5, 2, 1, 3, 3, 4, 4, 5, 8, 2, 8, 11, 2, 1, 6, 1, 3]
+Species age      : [55, 37, 29, 22, 21, 19, 18, 18, 14, 13, 8, 8, 7, 6, 5, 5, 4, 4, 3, 3, 3, 2, 2, 2, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Species no improv: [7, 6, 7, 0, 2, 12, 3, 13, 0, 6, 1, 8, 5, 6, 1, 3, 3, 4, 0, 0, 3, 1, 2, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+ ****** Running generation 110 ****** 
+
+Removing species 519 for being empty
+Removing species 541 for being empty
+   Species 385 age 30 removed: produced no offspring
+   Species 427 age 20 removed: produced no offspring
+   Species 438 age 19 removed: produced no offspring
+   Species 536 age  1 removed: produced no offspring
+   Species 537 age  1 removed: produced no offspring
+   Species 539 age  1 removed: produced no offspring
+   Species 543 age  1 removed: produced no offspring
+   Species 545 age  0 removed: produced no offspring
+   Species 549 age  0 removed: produced no offspring
+Population's average fitness: 0.04531 stdev: 0.04126
+Best fitness: 0.1159852733 - size: (1, 8) - species 548 - id 16686
+Species length: 32 totalizing 138 individuals
+Species ID       : [276, 351, 411, 420, 434, 452, 458, 480, 481, 491, 493, 500, 501, 509, 510, 515, 516, 517, 521, 524, 526, 530, 533, 535, 538, 540, 542, 544, 546, 547, 548, 550]
+Each species size: [1, 2, 8, 6, 4, 25, 12, 4, 2, 1, 3, 3, 2, 6, 1, 5, 5, 2, 3, 3, 10, 4, 5, 6, 4, 1, 1, 3, 1, 3, 1, 1]
+Amount to spawn  : [1, 1, 7, 7, 5, 8, 6, 2, 8, 1, 2, 4, 4, 5, 1, 3, 4, 1, 6, 1, 5, 10, 4, 11, 3, 2, 2, 8, 3, 1, 13, 12]
+Species age      : [56, 38, 23, 22, 19, 15, 14, 9, 9, 8, 7, 6, 6, 5, 5, 4, 4, 4, 3, 3, 3, 2, 2, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+Species no improv: [8, 7, 1, 0, 4, 0, 7, 2, 9, 6, 7, 2, 4, 4, 5, 1, 1, 4, 0, 3, 2, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 111 ****** 
+
+Removing species 540 for being empty
+   Species 493 age  8 removed: produced no offspring
+   Species 510 age  6 removed: produced no offspring
+   Species 526 age  4 removed: produced no offspring
+   Species 555 age  0 removed: produced no offspring
+Population's average fitness: 0.03710 stdev: 0.03978
+Best fitness: 0.1098784814 - size: (1, 9) - species 548 - id 16904
+Species length: 33 totalizing 145 individuals
+Species ID       : [276, 351, 411, 420, 434, 452, 458, 480, 481, 491, 500, 501, 509, 515, 516, 517, 521, 524, 530, 533, 535, 538, 542, 544, 546, 547, 548, 550, 551, 552, 553, 554, 556]
+Each species size: [1, 1, 6, 7, 6, 12, 4, 2, 8, 1, 5, 3, 12, 10, 4, 3, 6, 1, 9, 3, 8, 7, 2, 5, 3, 1, 8, 1, 1, 2, 1, 1, 1]
+Amount to spawn  : [1, 1, 5, 1, 3, 8, 7, 4, 4, 1, 5, 2, 5, 6, 8, 2, 6, 1, 7, 1, 5, 8, 3, 7, 6, 3, 10, 9, 4, 9, 3, 2, 1]
+Species age      : [57, 39, 24, 23, 20, 16, 15, 10, 10, 9, 7, 7, 6, 5, 5, 5, 4, 4, 3, 3, 2, 2, 2, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+Species no improv: [9, 8, 2, 1, 5, 1, 8, 3, 10, 7, 3, 5, 5, 2, 0, 5, 1, 4, 1, 1, 1, 2, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+   Producing 2 more individual(s) to fill up the new population
+
+ ****** Running generation 112 ****** 
+
+Removing species 535 for being empty
+Removing species 547 for being empty
+Removing species 554 for being empty
+Removing species 556 for being empty
+   Species 420 age 24 removed: produced no offspring
+   Species 481 age 11 removed: produced no offspring
+   Species 491 age 10 removed: produced no offspring
+   Species 551 age  1 removed: produced no offspring
+   Species 557 age  0 removed: produced no offspring
+   Species 560 age  0 removed: produced no offspring
+Population's average fitness: 0.04258 stdev: 0.04326
+Best fitness: 0.1211032703 - size: (1, 9) - species 548 - id 17034
+Species length: 27 totalizing 140 individuals
+Species ID       : [276, 351, 411, 434, 452, 458, 480, 500, 501, 509, 515, 516, 517, 521, 524, 530, 533, 538, 542, 544, 546, 548, 550, 552, 553, 558, 559]
+Each species size: [1, 1, 7, 11, 13, 7, 4, 10, 2, 10, 1, 7, 4, 5, 1, 7, 1, 6, 3, 6, 7, 10, 1, 8, 3, 1, 3]
+Amount to spawn  : [1, 1, 5, 5, 11, 7, 3, 8, 2, 10, 8, 2, 1, 9, 1, 4, 1, 11, 2, 5, 7, 10, 4, 5, 1, 15, 9]
+Species age      : [58, 40, 25, 21, 17, 16, 11, 8, 8, 7, 6, 6, 6, 5, 5, 4, 4, 3, 3, 2, 2, 2, 2, 1, 1, 0, 0]
+Species no improv: [10, 9, 3, 6, 0, 9, 4, 4, 6, 6, 0, 1, 6, 0, 5, 2, 2, 3, 1, 2, 0, 2, 2, 1, 1, 0, 0]
+   Producing 2 more individual(s) to fill up the new population
+
+ ****** Running generation 113 ****** 
+
+   Species 351 age 41 removed: produced no offspring
+   Species 542 age  4 removed: produced no offspring
+   Species 544 age  3 removed: produced no offspring
+   Species 553 age  2 removed: produced no offspring
+   Species 561 age  0 removed: produced no offspring
+   Species 563 age  0 removed: produced no offspring
+Population's average fitness: 0.04502 stdev: 0.04169
+Best fitness: 0.1121372839 - size: (1, 8) - species 538 - id 17156
+Species length: 32 totalizing 143 individuals
+Species ID       : [276, 411, 434, 452, 458, 480, 500, 501, 509, 515, 516, 517, 521, 524, 530, 533, 538, 546, 548, 550, 552, 558, 559, 562, 564, 565, 566, 567, 568, 569, 570, 571]
+Each species size: [1, 4, 7, 12, 5, 3, 5, 3, 9, 6, 15, 1, 9, 1, 4, 1, 10, 7, 10, 1, 4, 2, 12, 1, 1, 1, 1, 1, 2, 1, 2, 1]
+Amount to spawn  : [1, 11, 10, 8, 5, 3, 6, 2, 8, 4, 3, 1, 2, 2, 3, 2, 9, 5, 10, 13, 7, 3, 6, 3, 3, 2, 5, 5, 4, 1, 3, 2]
+Species age      : [59, 26, 22, 18, 17, 12, 9, 9, 8, 7, 7, 7, 6, 6, 5, 5, 4, 3, 3, 3, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Species no improv: [11, 0, 0, 1, 10, 5, 5, 7, 7, 1, 2, 7, 1, 6, 3, 3, 4, 1, 3, 3, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+   Removing 2 excess individual(s) from the new population
+
+ ****** Running generation 114 ****** 
+
+Removing species 552 for being empty
+Removing species 569 for being empty
+Removing species 571 for being empty
+   Species 516 age  8 removed: produced no offspring
+   Species 566 age  1 removed: produced no offspring
+   Species 578 age  0 removed: produced no offspring
+Population's average fitness: 0.03398 stdev: 0.03876
+Best fitness: 0.1195242921 - size: (1, 9) - species 509 - id 17264
+Species length: 33 totalizing 147 individuals
+Species ID       : [276, 411, 434, 452, 458, 480, 500, 501, 509, 515, 517, 521, 524, 530, 533, 538, 546, 548, 550, 558, 559, 562, 564, 565, 567, 568, 570, 572, 573, 574, 575, 576, 577]
+Each species size: [1, 12, 13, 9, 12, 3, 6, 2, 12, 5, 1, 1, 2, 3, 2, 3, 5, 7, 13, 4, 6, 3, 3, 2, 4, 2, 3, 1, 2, 1, 1, 2, 1]
+Amount to spawn  : [2, 10, 7, 5, 6, 7, 9, 4, 7, 8, 2, 3, 1, 4, 1, 8, 1, 9, 6, 2, 4, 1, 2, 3, 4, 2, 3, 6, 1, 1, 10, 6, 3]
+Species age      : [60, 27, 23, 19, 18, 13, 10, 10, 9, 8, 8, 7, 7, 6, 6, 5, 4, 4, 4, 2, 2, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+Species no improv: [12, 1, 1, 2, 11, 0, 6, 8, 8, 2, 8, 2, 7, 4, 4, 5, 2, 4, 4, 2, 2, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+   Producing 2 more individual(s) to fill up the new population
+
+ ****** Running generation 115 ****** 
+
+Removing species 577 for being empty
+   Species 501 age 11 removed: produced no offspring
+   Species 524 age  8 removed: produced no offspring
+   Species 533 age  7 removed: produced no offspring
+   Species 582 age  0 removed: produced no offspring
+Population's average fitness: 0.04069 stdev: 0.03944
+Best fitness: 0.1095637072 - size: (1, 9) - species 458 - id 17398
+Species length: 33 totalizing 142 individuals
+Species ID       : [276, 411, 434, 452, 458, 480, 500, 509, 515, 517, 521, 530, 538, 546, 548, 550, 558, 559, 562, 564, 565, 567, 568, 570, 572, 573, 574, 575, 576, 579, 580, 581, 583]
+Each species size: [2, 5, 7, 4, 5, 7, 8, 7, 9, 2, 4, 4, 8, 2, 9, 3, 5, 4, 2, 3, 3, 4, 2, 2, 5, 1, 1, 10, 5, 5, 1, 2, 1]
+Amount to spawn  : [1, 6, 9, 1, 10, 2, 7, 5, 6, 1, 1, 2, 3, 4, 7, 4, 2, 7, 8, 1, 1, 2, 3, 3, 3, 3, 7, 4, 2, 8, 11, 5, 11]
+Species age      : [61, 28, 24, 20, 19, 14, 11, 10, 9, 9, 8, 7, 6, 5, 5, 5, 3, 3, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 0, 0, 0, 0]
+Species no improv: [13, 2, 2, 3, 12, 1, 7, 9, 3, 9, 3, 5, 6, 3, 5, 5, 3, 0, 0, 2, 1, 2, 2, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0]
+
+ ****** Running generation 116 ****** 
+
+   Species 521 age  9 removed: produced no offspring
+   Species 530 age  8 removed: produced no offspring
+   Species 562 age  3 removed: produced no offspring
+   Species 564 age  3 removed: produced no offspring
+   Species 565 age  3 removed: produced no offspring
+   Species 574 age  2 removed: produced no offspring
+   Species 584 age  0 removed: produced no offspring
+   Species 588 age  0 removed: produced no offspring
+Population's average fitness: 0.04659 stdev: 0.04123
+Best fitness: 0.1107598929 - size: (1, 9) - species 458 - id 17539
+Species length: 32 totalizing 141 individuals
+Species ID       : [276, 411, 434, 452, 458, 480, 500, 509, 515, 517, 538, 546, 548, 550, 558, 559, 567, 568, 570, 572, 573, 575, 576, 579, 580, 581, 583, 585, 586, 587, 589, 590]
+Each species size: [1, 7, 12, 1, 11, 2, 5, 7, 5, 1, 5, 9, 7, 6, 2, 6, 2, 3, 3, 3, 3, 5, 1, 7, 9, 5, 6, 2, 2, 1, 1, 1]
+Amount to spawn  : [1, 7, 6, 1, 6, 5, 9, 4, 3, 2, 6, 3, 4, 8, 2, 9, 3, 2, 2, 2, 3, 2, 1, 7, 6, 2, 8, 1, 8, 11, 4, 11]
+Species age      : [62, 29, 25, 21, 20, 15, 12, 11, 10, 10, 7, 6, 6, 6, 4, 4, 3, 3, 3, 2, 2, 2, 2, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+Species no improv: [14, 3, 3, 4, 13, 0, 0, 10, 4, 10, 7, 4, 6, 6, 4, 0, 3, 3, 1, 2, 0, 2, 2, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+   Producing 1 more individual(s) to fill up the new population
+
+ ****** Running generation 117 ****** 
+
+   Species 276 age 63 removed: produced no offspring
+   Species 517 age 11 removed: produced no offspring
+   Species 585 age  1 removed: produced no offspring
+   Species 593 age  0 removed: produced no offspring
+   Species 595 age  0 removed: produced no offspring
+   Species 598 age  0 removed: produced no offspring
+Population's average fitness: 0.04343 stdev: 0.04364
+Best fitness: 0.1153234579 - size: (1, 9) - species 583 - id 17810
+Species length: 34 totalizing 143 individuals
+Species ID       : [411, 434, 452, 458, 480, 500, 509, 515, 538, 546, 548, 550, 558, 559, 567, 568, 570, 572, 573, 575, 576, 579, 580, 581, 583, 586, 587, 589, 590, 591, 592, 594, 596, 597]
+Each species size: [5, 13, 1, 6, 4, 9, 10, 3, 4, 2, 10, 2, 2, 10, 3, 3, 2, 2, 3, 2, 1, 6, 5, 2, 5, 7, 10, 3, 2, 1, 2, 1, 1, 1]
+Amount to spawn  : [3, 4, 1, 6, 3, 7, 5, 8, 6, 6, 7, 1, 1, 2, 1, 2, 3, 7, 2, 10, 3, 6, 3, 1, 5, 2, 5, 5, 8, 1, 7, 5, 10, 1]
+Species age      : [30, 26, 22, 21, 16, 13, 12, 11, 8, 7, 7, 7, 5, 5, 4, 4, 4, 3, 3, 3, 3, 2, 2, 2, 2, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+Species no improv: [4, 4, 5, 14, 1, 1, 11, 0, 8, 0, 7, 7, 5, 1, 4, 4, 0, 0, 1, 0, 3, 2, 2, 2, 2, 1, 1, 0, 1, 0, 0, 0, 0, 0]
+   Producing 3 more individual(s) to fill up the new population
+
+ ****** Running generation 118 ****** 
+
+Removing species 581 for being empty
+   Species 558 age  6 removed: produced no offspring
+   Species 567 age  5 removed: produced no offspring
+   Species 597 age  1 removed: produced no offspring
+   Species 605 age  0 removed: produced no offspring
+   Species 606 age  0 removed: produced no offspring
+Population's average fitness: 0.05235 stdev: 0.04357
+Best fitness: 0.1160062993 - size: (1, 9) - species 579 - id 17912
+Species length: 36 totalizing 145 individuals
+Species ID       : [411, 434, 452, 458, 480, 500, 509, 515, 538, 546, 548, 550, 559, 568, 570, 572, 573, 575, 576, 579, 580, 583, 586, 587, 589, 590, 591, 592, 594, 596, 599, 600, 601, 602, 603, 604]
+Each species size: [3, 5, 1, 6, 4, 7, 7, 7, 6, 9, 6, 1, 5, 2, 3, 7, 2, 11, 3, 3, 3, 3, 7, 4, 1, 7, 1, 10, 4, 1, 1, 1, 1, 1, 1, 1]
+Amount to spawn  : [4, 4, 1, 3, 5, 6, 8, 6, 7, 4, 5, 2, 3, 1, 3, 3, 1, 5, 1, 6, 5, 6, 4, 3, 1, 6, 3, 5, 1, 1, 1, 9, 8, 8, 9, 2]
+Species age      : [31, 27, 23, 22, 17, 14, 13, 12, 9, 8, 8, 8, 6, 5, 5, 4, 4, 4, 4, 3, 3, 3, 2, 2, 2, 2, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+Species no improv: [5, 5, 6, 15, 0, 2, 0, 1, 0, 1, 8, 8, 2, 5, 1, 1, 2, 1, 4, 0, 3, 3, 2, 2, 1, 2, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+
+ ****** Running generation 119 ****** 
+
+Removing species 596 for being empty
+Removing species 599 for being empty
+Removing species 604 for being empty
+   Species 580 age  4 removed: produced no offspring
+   Species 586 age  3 removed: produced no offspring
+   Species 594 age  2 removed: produced no offspring
+   Species 607 age  0 removed: produced no offspring
+Population's average fitness: 0.04609 stdev: 0.04017
+Best fitness: 0.1179074592 - size: (1, 9) - species 509 - id 18053
+Species length: 31 totalizing 143 individuals
+Species ID       : [411, 434, 452, 458, 480, 500, 509, 515, 538, 546, 548, 550, 559, 568, 570, 572, 573, 575, 576, 579, 583, 587, 589, 590, 591, 592, 600, 601, 602, 603, 608]
+Each species size: [4, 4, 1, 4, 5, 6, 20, 6, 11, 4, 5, 2, 4, 1, 3, 2, 1, 8, 1, 10, 2, 2, 1, 6, 3, 2, 9, 2, 7, 6, 1]
+Amount to spawn  : [9, 3, 1, 6, 4, 6, 4, 3, 7, 1, 8, 1, 7, 3, 4, 3, 2, 7, 11, 6, 3, 3, 2, 9, 1, 6, 6, 2, 4, 5, 12]
+Species age      : [32, 28, 24, 23, 18, 15, 14, 13, 10, 9, 9, 9, 7, 6, 6, 5, 5, 5, 5, 4, 4, 3, 3, 3, 2, 2, 1, 1, 1, 1, 0]
+Species no improv: [6, 6, 7, 16, 1, 3, 1, 2, 1, 2, 9, 9, 3, 6, 0, 2, 3, 2, 0, 1, 4, 3, 2, 3, 1, 2, 1, 1, 1, 1, 0]
+   Producing 1 more individual(s) to fill up the new population
+
+ ****** Running generation 120 ****** 
+
+Removing species 603 for being empty
+
+   Species 458 (with  6 individuals) is stagnated: removing it
+   Species 583 age  5 removed: produced no offspring
+   Species 587 age  4 removed: produced no offspring
+   Species 589 age  4 removed: produced no offspring
+   Species 611 age  0 removed: produced no offspring
+Population's average fitness: 0.04667 stdev: 0.04082
+Best fitness: 0.1133070482 - size: (1, 9) - species 575 - id 18194
+Species length: 30 totalizing 138 individuals
+Species ID       : [411, 434, 452, 480, 500, 509, 515, 538, 546, 548, 550, 559, 568, 570, 572, 573, 575, 576, 579, 590, 591, 592, 600, 601, 602, 608, 609, 610, 612, 613]
+Each species size: [9, 3, 1, 4, 8, 7, 2, 6, 1, 8, 1, 8, 2, 4, 3, 3, 6, 10, 5, 13, 1, 7, 5, 2, 4, 11, 1, 1, 1, 1]
+Amount to spawn  : [4, 2, 1, 4, 6, 8, 5, 6, 3, 9, 2, 5, 1, 3, 5, 2, 13, 7, 13, 7, 2, 5, 5, 13, 3, 5, 3, 1, 1, 3]
+Species age      : [33, 29, 25, 19, 16, 15, 14, 11, 10, 10, 10, 8, 7, 7, 6, 6, 6, 6, 5, 4, 3, 3, 2, 2, 2, 1, 0, 0, 0, 0]
+Species no improv: [7, 7, 8, 2, 4, 2, 3, 2, 3, 10, 10, 4, 7, 1, 3, 4, 3, 1, 0, 4, 2, 3, 2, 0, 2, 1, 0, 0, 0, 0]
+   Producing 3 more individual(s) to fill up the new population
+
+ ****** Running generation 121 ****** 
+
+Removing species 576 for being empty
+   Species 452 age 26 removed: produced no offspring
+   Species 591 age  4 removed: produced no offspring
+   Species 608 age  2 removed: produced no offspring
+   Species 610 age  1 removed: produced no offspring
+   Species 619 age  0 removed: produced no offspring
+Population's average fitness: 0.05203 stdev: 0.04347
+Best fitness: 0.1140796600 - size: (1, 9) - species 509 - id 18388
+Species length: 32 totalizing 143 individuals
+Species ID       : [411, 434, 480, 500, 509, 515, 538, 546, 548, 550, 559, 568, 570, 572, 573, 575, 579, 590, 592, 600, 601, 602, 609, 612, 613, 614, 615, 616, 617, 618, 620, 621]
+Each species size: [4, 2, 4, 7, 10, 5, 6, 2, 2, 2, 5, 1, 3, 5, 8, 4, 15, 1, 6, 5, 12, 3, 3, 1, 6, 1, 1, 4, 10, 1, 3, 1]
+Amount to spawn  : [6, 2, 5, 3, 7, 5, 7, 1, 10, 2, 3, 2, 3, 4, 4, 9, 6, 1, 4, 6, 6, 1, 2, 1, 7, 2, 10, 8, 7, 10, 1, 4]
+Species age      : [34, 30, 20, 17, 16, 15, 12, 11, 11, 11, 9, 8, 8, 7, 7, 7, 6, 5, 4, 3, 3, 3, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+Species no improv: [8, 8, 3, 5, 3, 4, 3, 4, 11, 11, 5, 8, 2, 4, 0, 4, 1, 5, 4, 3, 1, 3, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+   Producing 1 more individual(s) to fill up the new population
+
+ ****** Running generation 122 ****** 
+
+Removing species 620 for being empty
+   Species 546 age 12 removed: produced no offspring
+   Species 568 age  9 removed: produced no offspring
+   Species 622 age  0 removed: produced no offspring
+   Species 625 age  0 removed: produced no offspring
+Population's average fitness: 0.05084 stdev: 0.04269
+Best fitness: 0.1143173099 - size: (1, 9) - species 601 - id 18540
+Species length: 32 totalizing 145 individuals
+Species ID       : [411, 434, 480, 500, 509, 515, 538, 548, 550, 559, 570, 572, 573, 575, 579, 590, 592, 600, 601, 602, 609, 612, 613, 614, 615, 616, 617, 618, 621, 623, 624, 626]
+Each species size: [6, 2, 5, 3, 18, 5, 7, 5, 2, 2, 3, 4, 4, 9, 4, 6, 3, 6, 10, 1, 2, 1, 3, 2, 8, 1, 1, 10, 5, 1, 2, 4]
+Amount to spawn  : [5, 4, 7, 4, 8, 1, 4, 5, 6, 1, 5, 6, 5, 6, 3, 9, 1, 3, 8, 3, 2, 1, 9, 6, 4, 11, 3, 5, 2, 3, 5, 4]
+Species age      : [35, 31, 21, 18, 17, 16, 13, 12, 12, 10, 9, 8, 8, 8, 7, 6, 5, 4, 4, 4, 2, 2, 2, 1, 1, 1, 1, 1, 1, 0, 0, 0]
+Species no improv: [9, 9, 0, 6, 4, 5, 4, 12, 12, 6, 0, 5, 0, 5, 2, 6, 5, 4, 2, 4, 2, 2, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0]
+   Producing 1 more individual(s) to fill up the new population
+
+ ****** Running generation 123 ****** 
+
+Removing species 621 for being empty
+   Species 515 age 17 removed: produced no offspring
+   Species 630 age  0 removed: produced no offspring
+Population's average fitness: 0.05124 stdev: 0.04290
+Best fitness: 0.1177988337 - size: (1, 9) - species 575 - id 18660
+Species length: 33 totalizing 147 individuals
+Species ID       : [411, 434, 480, 500, 509, 538, 548, 550, 559, 570, 572, 573, 575, 579, 590, 592, 600, 601, 602, 609, 612, 613, 614, 615, 616, 617, 618, 623, 624, 626, 627, 628, 629]
+Each species size: [5, 5, 7, 4, 13, 4, 3, 5, 3, 5, 6, 5, 19, 4, 13, 1, 3, 3, 3, 2, 1, 6, 6, 2, 1, 2, 5, 1, 3, 4, 1, 1, 1]
+Amount to spawn  : [5, 1, 6, 2, 7, 5, 6, 5, 1, 5, 1, 4, 10, 6, 6, 2, 3, 2, 2, 6, 1, 5, 4, 7, 4, 5, 7, 1, 8, 5, 11, 3, 5]
+Species age      : [36, 32, 22, 19, 18, 14, 13, 13, 11, 10, 9, 9, 9, 8, 7, 6, 5, 5, 5, 3, 3, 3, 2, 2, 2, 2, 2, 1, 1, 1, 0, 0, 0]
+Species no improv: [10, 10, 1, 7, 5, 5, 13, 13, 7, 0, 6, 1, 6, 3, 7, 6, 5, 3, 5, 0, 3, 1, 1, 2, 1, 2, 2, 1, 0, 0, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 124 ****** 
+
+Removing species 550 for being empty
+Removing species 623 for being empty
+   Species 612 age  4 removed: produced no offspring
+Population's average fitness: 0.04696 stdev: 0.03977
+Best fitness: 0.1136758068 - size: (1, 10) - species 613 - id 18806
+Species length: 34 totalizing 149 individuals
+Species ID       : [411, 434, 480, 500, 509, 538, 548, 559, 570, 572, 573, 575, 579, 590, 592, 600, 601, 602, 609, 613, 614, 615, 616, 617, 618, 624, 626, 627, 628, 629, 631, 632, 633, 634]
+Each species size: [5, 6, 6, 2, 3, 5, 11, 2, 5, 1, 4, 7, 6, 7, 2, 3, 4, 2, 6, 4, 4, 6, 1, 5, 7, 8, 7, 9, 3, 3, 1, 1, 2, 1]
+Amount to spawn  : [2, 5, 4, 2, 2, 5, 8, 3, 7, 4, 6, 7, 2, 5, 1, 1, 7, 1, 2, 6, 10, 2, 3, 1, 6, 7, 6, 9, 1, 4, 1, 9, 7, 5]
+Species age      : [37, 33, 23, 20, 19, 15, 14, 12, 11, 10, 10, 10, 9, 8, 7, 6, 6, 6, 4, 4, 3, 3, 3, 3, 3, 2, 2, 1, 1, 1, 0, 0, 0, 0]
+Species no improv: [11, 11, 2, 8, 6, 6, 14, 8, 0, 7, 0, 7, 4, 8, 7, 6, 4, 6, 1, 2, 0, 3, 2, 3, 3, 1, 0, 1, 1, 1, 0, 0, 0, 0]
+   Removing 1 excess individual(s) from the new population
+
+ ****** Running generation 125 ****** 
+
+Removing species 575 for being empty
+Removing species 613 for being empty
+Removing species 627 for being empty
+Removing species 633 for being empty
+Removing species 634 for being empty
+   Species 572 age 11 removed: produced no offspring
+   Species 579 age 10 removed: produced no offspring
+   Species 592 age  8 removed: produced no offspring
+   Species 617 age  4 removed: produced no offspring
+   Species 631 age  1 removed: produced no offspring
+   Species 637 age  0 removed: produced no offspring
+   Species 638 age  0 removed: produced no offspring
+   Species 640 age  0 removed: produced no offspring
+   Species 643 age  0 removed: produced no offspring
+Population's average fitness: 0.04938 stdev: 0.04266
+Best fitness: 0.1126440323 - size: (1, 9) - species 601 - id 18937
+Species length: 31 totalizing 139 individuals
+Species ID       : [411, 434, 480, 500, 509, 538, 548, 559, 570, 573, 590, 600, 601, 602, 609, 614, 615, 616, 618, 624, 626, 628, 629, 632, 635, 636, 639, 641, 642, 644, 645]
+Each species size: [2, 5, 4, 2, 4, 5, 15, 3, 7, 8, 11, 1, 11, 1, 2, 10, 4, 2, 4, 6, 9, 1, 4, 8, 1, 1, 2, 1, 1, 3, 1]
+Amount to spawn  : [6, 5, 3, 6, 3, 5, 8, 2, 9, 9, 5, 1, 9, 1, 3, 7, 7, 6, 5, 4, 8, 1, 4, 7, 2, 4, 1, 1, 12, 3, 1]
+Species age      : [38, 34, 24, 21, 20, 16, 15, 13, 12, 11, 9, 7, 7, 7, 5, 4, 4, 4, 4, 3, 3, 2, 2, 1, 0, 0, 0, 0, 0, 0, 0]
+Species no improv: [12, 12, 3, 9, 7, 7, 15, 9, 0, 0, 9, 7, 5, 7, 2, 1, 4, 3, 4, 2, 0, 2, 2, 1, 0, 0, 0, 0, 0, 0, 0]
+   Producing 2 more individual(s) to fill up the new population
+
+ ****** Running generation 126 ****** 
+
+Removing species 645 for being empty
+
+Best individual found in epoch 126 - complexity: (1, 10)
+You dot not have the Biggles package.
+You dot not have the Biggles package.
+Number of evaluations: 19133
+Winner score: 322

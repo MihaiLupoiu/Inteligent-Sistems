@@ -1,0 +1,8 @@
+Cat_Pole:
+linea 208 cabiado a True para que se inicie con un valor random
+
+cpExp:
+popEpoch 5000
+
+Tesis Method 4.2.1
+La posicion inicial de los palos con el vaor del Cat_Pole a false es recto
